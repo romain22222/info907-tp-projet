@@ -1024,244 +1024,244 @@ C29 gambit viennois, variante Breyer $ 0, 0, 0
 C29 gambit viennois, variante Heyde $ 0, 0, 0
 C29 gambit viennois, variante Kaufmann $ 0, 0, 0
 C29 gambit viennois, variante Steinitz $ 0, 0, 0
-C30 gambit roi: 1, 1, 1
-C30 gambit roi refusé (2...Cf6): 1, 1, 1
-C30 gambit roi refusé, défense de la Mafia: 0, 0, 0
-C30 gambit roi refusé, défense Keene: 0, 0, 0
-C30 gambit roi refusé, variante classique (4.c3): 1, 1, 1
-C30 gambit roi refusé, variante classique: 1, 1, 1
-C30 gambit roi refusé, variante classique, attaque Marshall: 1, 1, 1
-C30 gambit roi refusé, variante classique, contre-gambit: 1, 1, 1
-C30 gambit roi refusé, variante classique, sous-variante Hanham: 1, 1, 1
-C30 gambit roi refusé, variante classique, sous-variante Heath: 1, 1, 1
-C30 gambit roi refusé, variante classique, sous-variante Réti: 1, 1, 1
-C30 gambit roi refusé, variante classique, sous-variante Soldatenkov: 1, 1, 1
-C30 gambit roi refusé, variante classique, sous-variante Svenonius: 1, 1, 1
-C30 gambit roi refusé, variante Norwalde: 0, 0, 0
-C30 gambit roi refusé, variante Norwalde, gambit Buecker: 0, 0, 0
-C31 gambit roi refusé, contre-gambit Falkbeer (3...e4): 1, 1, 1
-C31 gambit roi refusé, contre-gambit Falkbeer (4.d3): 1, 1, 1
-C31 gambit roi refusé, contre-gambit Falkbeer: 1, 1, 1
-C31 gambit roi refusé, contre-gambit Falkbeer, gambit Morphy: 1, 1, 1
-C31 gambit roi refusé, contre-gambit Falkbeer, variante Milner-Barry: 1, 1, 1
-C31 gambit roi refusé, contre-gambit Falkbeer, variante Nimzovitch: 1, 1, 1
-C31 gambit roi refusé, contre-gambit Falkbeer, variante Rubinstein: 1, 1, 1
-C31 gambit roi refusé, contre-gambit Falkbeer, variante Tartakover: 1, 1, 1
-C31 gambit roi refusé, contre-gambit Nimzovitch: 1, 1, 1
-C32 gambit roi refusé, contre-gambit Falkbeer (5.dxe4): 1, 1, 1
-C32 gambit roi refusé, contre-gambit Falkbeer, ligne principale (7...Ff5): 1, 1, 1
-C32 gambit roi refusé, contre-gambit Falkbeer, variante Alapinee: 1, 1, 1
-C32 gambit roi refusé, contre-gambit Falkbeer, variante Charousek: 1, 1, 1
-C32 gambit roi refusé, contre-gambit Falkbeer, variante Kérès: 1, 1, 1
-C32 gambit roi refusé, contre-gambit Falkbeer, variante Réti: 1, 1, 1
-C32 gambit roi refusé, contre-gambit Falkbeer, variante Tarrasch: 1, 1, 1
-C33 gambit roi accepté: 2, 2, 2
-C33 gambit roi accepté, contre-gambit Lopez-Gianutio, variante Hein: 1, 1, 1
-C33 gambit roi accepté, gambit Breyer: 1, 1, 1
-C33 gambit roi accepté, gambit Carrera (= Basman): 1, 1, 1
-C33 gambit roi accepté, gambit du fou: 1, 1, 1
-C33 gambit roi accepté, gambit du fou réduit (Petrofff – Jänisch - Tartakover): 1, 1, 1
-C33 gambit roi accepté, gambit du fou, attaque Mc Donnell: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, attaque Paulsen: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, attaque Tchigorine: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, attaqueGrimm: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, contre-gambit Bryan: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, contre-gambit Lopez-Gianutio: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, défense Boden: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, défense classique: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, défense classique, attaque Cozio: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, défense Cozio (= Morphy): 1, 1, 1
-C33 gambit roi accepté, gambit du fou, défense ouverture espagnole (= Ruy Lopez): 1, 1, 1
-C33 gambit roi accepté, gambit du fou, défense Steinitz: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, Maurian défense: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, variante Anderssen: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, variante Bledow: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, variante Bogolioubof: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, variante Boren-Svenonius: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, variante Fraser: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, variante Gifford: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, variante Greco: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, variante Jänisch: 1, 1, 1
-C33 gambit roi accepté, gambit du fou, variante Morphy: 1, 1, 1
-C33 gambit roi accepté, gambit du pion (= Stamma): 0, 0, 0
-C33 gambit roi accepté, gambit Kérès (= Mason - Steinitz): 1, 1, 1
-C33 gambit roi accepté, gambit Orsini: 1, 1, 1
-C33 gambit roi accepté, gambit Rumbleweed: 1, 1, 1
-C33 gambit roi accepté, gambit Schurig: 1, 1, 1
-C33 gambit roi accepté, gambit Villemson (= Steinitz): 1, 1, 1
-C34 gambit roi accepté, contre-gambit Gianutio: 1, 1, 1
-C34 gambit roi accepté, défense Becker: 1, 1, 1
-C34 gambit roi accepté, défense Fischer: 1, 1, 1
-C34 gambit roi accepté, défense Schallop: 1, 1, 1
-C34 gambit roi accepté, gambit du cavalier roi: 1, 1, 1
-C34 gambit roi accepté, variante Bonsch - Osmolovsky: 1, 1, 1
-C35 gambit roi accepté, défense Cunningham: 1, 1, 1
-C35 gambit roi accepté, défense Cunningham, défense Euwe: 1, 1, 1
-C35 gambit roi accepté, défense Cunningham, gambit Bertin: 1, 1, 1
-C35 gambit roi accepté, défense Cunningham, gambit des trois pions: 1, 1, 1
-C36 gambit roi accepté, défense Abbazia (défense classique, défense moderne): 0, 0, 0
-C36 gambit roi accepté, défense Abbazia, variante Botvinnik: 0, 0, 0
-C36 gambit roi accepté, défense Abbazia, variante moderne: 0, 0, 0
-C37 gambit roi accepté, double gambit Muzio: 0, 0, 0
-C37 gambit roi accepté, gambit Blachly: 0, 0, 0
-C37 gambit roi accepté, gambit Cochrane: 0, 0, 0
-C37 gambit roi accepté, gambit du cavalier roi: 0, 0, 0
-C37 gambit roi accepté, gambit Ghulam Rassim: 0, 0, 0
-C37 gambit roi accepté, gambit Herzfeld: 0, 0, 0
-C37 gambit roi accepté, gambit Lolli (= gambit Muzio sauvage): 0, 0, 0
-C37 gambit roi accepté, gambit Lolli, variante Young: 0, 0, 0
-C37 gambit roi accepté, gambit Mac Donnell: 0, 0, 0
-C37 gambit roi accepté, gambit Muzio: 0, 0, 0
-C37 gambit roi accepté, gambit Muzio, contre-attaque Kling - Horwitz: 0, 0, 0
-C37 gambit roi accepté, gambit Muzio, défense Brentano: 0, 0, 0
-C37 gambit roi accepté, gambit Muzio, défense From: 0, 0, 0
-C37 gambit roi accepté, gambit Muzio, défense Holloway: 0, 0, 0
-C37 gambit roi accepté, gambit Quaade: 0, 0, 0
-C37 gambit roi accepté, gambit Rosentreter: 0, 0, 0
-C37 gambit roi accepté, gambit Salvio: 0, 0, 0
-C37 gambit roi accepté, gambit Salvio, contre-attaque Anderssen: 0, 0, 0
-C37 gambit roi accepté, gambit Silberschmidt: 0, 0, 0
-C37 gambit roi accepté, gambit Sörensen: 0, 0, 0
-C37 gambit roi accepté, Muzio gambit, variante Paulsen: 0, 0, 0
-C38 gambit roi accepté, gambit défense Philidor: 0, 0, 0
-C38 gambit roi accepté, gambit défense Philidor, variante Schultz: 0, 0, 0
-C38 gambit roi accepté, gambit Greco: 0, 0, 0
-C38 gambit roi accepté, gambit Hanstein: 0, 0, 0
-C38 King's knight's gambit: 0, 0, 0
-C39 gambit roi accepté, gambit Allgaier: 0, 0, 0
-C39 gambit roi accepté, gambit Allgaier, attaque Urusov: 0, 0, 0
-C39 gambit roi accepté, gambit Allgaier, attaque Walker: 0, 0, 0
-C39 gambit roi accepté, gambit Allgaier, défense Horny: 0, 0, 0
-C39 gambit roi accepté, gambit Allgaier, défense Schlechter: 0, 0, 0
-C39 gambit roi accepté, gambit Allgaier, gambit Blackburne: 0, 0, 0
-C39 gambit roi accepté, gambit Allgaier, variante Cook: 0, 0, 0
-C39 gambit roi accepté, gambit Allgaier, variante Thorold: 0, 0, 0
-C39 gambit roi accepté, gambit du cavalier roi: 0, 0, 0
-C39 gambit roi accepté, gambit Kieseritsky, défense Berlin (6.Fc4): 0, 0, 0
-C39 gambit roi accepté, gambit Kieseritsky, défense Berlin: 0, 0, 0
-C39 gambit roi accepté, gambit Kieseritsky, défense Berlin, variante Rivière: 0, 0, 0
-C39 gambit roi accepté, gambit Kieseritsky, défense Brentano (= Campbell): 0, 0, 0
-C39 gambit roi accepté, gambit Kieseritsky, défense Brentano: 0, 0, 0
-C39 gambit roi accepté, gambit Kieseritsky, défense Brentano, variante Caro: 0, 0, 0
-C39 gambit roi accepté, gambit Kieseritsky, défense Brentano, variante Kaplanek: 0, 0, 0
-C39 gambit roi accepté, gambit Kieseritsky, défense du grand fouet (= classique): 0, 0, 0
-C39 gambit roi accepté, gambit Kieseritsky, défense du grand fouet, variante Jänisch: 0, 0, 0
-C39 gambit roi accepté, gambit Kieseritsky, défense Kolisch: 0, 0, 0
-C39 gambit roi accepté, gambit Kieseritsky, défense Neumann: 0, 0, 0
-C39 gambit roi accepté, gambit Kieseritsky, défense Paulsen: 0, 0, 0
-C39 gambit roi accepté, gambit Kieseritsky, défense Polerio: 0, 0, 0
-C39 gambit roi accepté, gambit Kieseritsky, défense Salvio (= Rosenthal): 0, 0, 0
-C39 gambit roi accepté, gambit Kieseritsky, défense Salvio, variante Cozio: 0, 0, 0
-C39 gambit roi accepté, gambit Kieseritsky, gambit Rice: 0, 0, 0
-C40 défense Damiano: 0, 0, 0
-C40 défense Greco: 0, 0, 0
-C40 défense Gunderam: 0, 0, 0
-C40 gambit du pion dame (= de l’éléphant): 0, 0, 0
-C40 gambit du pion dame (= Maroczy): 0, 0, 0
-C40 gambit letton (3.Fc4): 0, 0, 0
-C40 gambit letton: 0, 0, 0
-C40 gambit letton, contre-gambit du tire-bouchon: 0, 0, 0
-C40 gambit letton, défense Fraser: 0, 0, 0
-C40 gambit letton, variante Behting: 0, 0, 0
-C40 gambit letton, variante Nimzovitch: 0, 0, 0
-C40 gambit letton, variante Polerio: 0, 0, 0
-C40 ouverture du cavalier roi: 1, 1, 1
-C41 défense Philidor: 1, 1, 1
-C41 défense Philidor Berger variante: 1, 1, 1
-C41 défense Philidor, attaque Paulsen: 1, 1, 1
-C41 défense Philidor, gambit Lopez: 1, 1, 1
-C41 défense Philidor, gambit Lopez, variante Jänisch: 1, 1, 1
-C41 défense Philidor, gambit Philidor: 1, 1, 1
-C41 défense Philidor, gambit Philidor, attaque del Rio: 1, 1, 1
-C41 défense Philidor, gambit Philidor, variante Berger: 1, 1, 1
-C41 défense Philidor, gambit Philidor, variante Zukertort: 1, 1, 1
-C41 défense Philidor, variante d’échange: 1, 1, 1
-C41 défense Philidor, variante d’échange: 1, 1, 1
-C41 défense Philidor, variante Foden: 1, 1, 1
-C41 défense Philidor, variante Hanham: 1, 1, 1
-C41 défense Philidor, variante Hanham améliorée: 1, 1, 1
-C41 défense Philidor, variante Hanham, sous-variante Berger: 1, 1, 1
-C41 défense Philidor, variante Hanham, sous-variante Delmar: 1, 1, 1
-C41 défense Philidor, variante Hanham, sous-variante Kmoch: 1, 1, 1
-C41 défense Philidor, variante Hanham, sous-variante Krause: 1, 1, 1
-C41 défense Philidor, variante Hanham, sous-variante Schlechter: 1, 1, 1
-C41 défense Philidor, variante Hanham, sous-variante Steiner: 1, 1, 1
-C41 défense Philidor, variante Larsen: 1, 1, 1
-C41 défense Philidor, variante Nimzovitch (= Jänisch): 1, 1, 1
-C41 défense Philidor, variante Nimzovitch: 1, 1, 1
-C41 défense Philidor, variante Nimzovitch, sous-variante Klein: 1, 1, 1
-C41 défense Philidor, variante Nimzovitch, sous-variante Larobok: 1, 1, 1
-C41 défense Philidor, variante Nimzovitch, sous-variante Locock: 1, 1, 1
-C41 défense Philidor, variante Nimzovitch, sous-variante Rellstab: 1, 1, 1
-C41 défense Philidor, variante Nimzovitch, sous-variante Sokolsky: 1, 1, 1
-C41 défense Philidor, variante Nimzovitch, sous-variante Sozine: 1, 1, 1
-C41 défense Philidor, variante Steinitz: 1, 1, 1
-C42 défense Petroff (= russe): 2, 2, 2
-C42 défense Petroff, attaque classique: 1, 1, 1
-C42 défense Petroff, attaque classique, piège Marshall: 1, 1, 1
-C42 défense Petroff, attaque classique, variante Berger: 1, 1, 1
-C42 défense Petroff, attaque classique, variante fermée: 1, 1, 1
-C42 défense Petroff, attaque classique, variante Jänisch: 1, 1, 1
-C42 défense Petroff, attaque classique, variante Krause: 1, 1, 1
-C42 défense Petroff, attaque classique, variante Maroczy: 1, 1, 1
-C42 défense Petroff, attaque classique, variante Marshall: 1, 1, 1
-C42 défense Petroff, attaque classique, variante Mason: 1, 1, 1
-C42 défense Petroff, attaque classique, variante Tarrasch: 1, 1, 1
-C42 défense Petroff, attaque classique, variante Tchigorine: 1, 1, 1
-C42 défense Petroff, attaque Cozio (= Lasker): 1, 1, 1
-C42 défense Petroff, attaque française: 1, 1, 1
-C42 défense Petroff, attaque Kaufmann: 1, 1, 1
-C42 défense Petroff, attaque Nimzovitch: 1, 1, 1
-C42 défense Petroff, attaque Paulsen: 1, 1, 1
-C42 défense Petroff, gambit Cochrane: 1, 1, 1
-C42 défense Petroff, variante Damiano: 1, 1, 1
-C42 défense Petroff, variante des trois cavaliers: 1, 1, 1
-C42 défense Petroff, variante italienne: 1, 1, 1
-C42/01 défense Petroff: 2, 2, 2
-C42/01 défense Petroff, gambit Foden - Kieseritsky: 1, 1, 1
-C42/01 défense Petroff, variante Lichtehein modifiée: 1, 1, 1
-C43 défense Petroff, attaque moderne (= Steinitz): 1, 1, 1
-C43 défense Petroff, attaque moderne, ligne principale: 1, 1, 1
-C43 défense Petroff, attaque moderne, variante Bardeleben: 1, 1, 1
-C43 défense Petroff, attaque moderne, variante Steinitz: 1, 1, 1
-C43 défense Petroff, attaque moderne, variante symétrique: 1, 1, 1
-C43 défense Petroff, attaque moderne, variante Trifunovic: 1, 1, 1
-C43 défense Petroff, gambit Urusov: 1, 1, 1
-C44 gambit irlandais (= de Chicago): 0, 0, 0
-C44 ouverture de Dresde: 0, 0, 0
-C44 ouverture du pion roi: 1, 1, 1
-C44 ouverture écossaise: 1, 1, 1
-C44 ouverture écossaise, gambit écossais: 0, 0, 0
-C44 ouverture écossaise, gambit écossais: 0, 0, 0
-C44 ouverture écossaise, gambit écossais, attaque Vitzhum: 0, 0, 0
-C44 ouverture écossaise, gambit écossais, contre-attaque Anderssen (= Paulsen, Suhle): 0, 0, 0
-C44 ouverture écossaise, gambit écossais, défense Benima: 0, 0, 0
-C44 ouverture écossaise, gambit écossais, défense Cochrane - Shumov: 0, 0, 0
-C44 ouverture écossaise, gambit écossais, défense Dubois - Réti: 0, 0, 0
-C44 ouverture écossaise, gambit écossais, variante Cochrane: 0, 0, 0
-C44 ouverture écossaise, gambit écossais, variante Hanneken: 0, 0, 0
-C44 ouverture écossaise, gambit Göring: 0, 0, 0
-C44 ouverture écossaise, gambit Göring, mat du mousse: 0, 0, 0
-C44 ouverture écossaise, gambit Göring, variante Bardeleben: 0, 0, 0
-C44 ouverture écossaise, gambit Kelfsson (= Mac Lopez): 0, 0, 0
-C44 ouverture écossaise, variante Cochrane: 0, 0, 0
-C44 ouverture écossaise, variante Lolli (cf. C45): 0, 0, 0
-C44 ouverture écossaise, variante Lolli: 0, 0, 0
-C44 ouverture Hanham inversée: 0, 0, 0
-C44 ouverture hongroise: 0, 0, 0
-C44 ouverture Konstantinopolsky: 0, 0, 0
-C44 ouverture Ponziani: 0, 0, 0
-C44 ouverture Ponziani, contre-attaque Jänisch: 0, 0, 0
-C44 ouverture Ponziani, contre-gambit: 0, 0, 0
-C44 ouverture Ponziani, contre-gambit, attaque Schmidt: 0, 0, 0
-C44 ouverture Ponziani, contre-gambit, variante Cordel: 0, 0, 0
-C44 ouverture Ponziani, défense Fraser: 0, 0, 0
-C44 ouverture Ponziani, variante Caro: 0, 0, 0
-C44 ouverture Ponziani, variante Leonhardt: 0, 0, 0
-C44 ouverture Ponziani, variante Réti: 0, 0, 0
-C44 ouverture Ponziani, variante Romanishin: 0, 0, 0
-C44 ouverture Ponziani, variante Steinitz: 0, 0, 0
-C44 ouverture Tayler: 0, 0, 0
+C30 gambit roi $ 1, 1, 1
+C30 gambit roi refusé (2...Cf6) $ 1, 1, 1
+C30 gambit roi refusé, défense de la Mafia $ 0, 0, 0
+C30 gambit roi refusé, défense Keene $ 0, 0, 0
+C30 gambit roi refusé, variante classique (4.c3) $ 1, 1, 1
+C30 gambit roi refusé, variante classique $ 1, 1, 1
+C30 gambit roi refusé, variante classique, attaque Marshall $ 1, 1, 1
+C30 gambit roi refusé, variante classique, contre-gambit $ 1, 1, 1
+C30 gambit roi refusé, variante classique, sous-variante Hanham $ 1, 1, 1
+C30 gambit roi refusé, variante classique, sous-variante Heath $ 1, 1, 1
+C30 gambit roi refusé, variante classique, sous-variante Réti $ 1, 1, 1
+C30 gambit roi refusé, variante classique, sous-variante Soldatenkov $ 1, 1, 1
+C30 gambit roi refusé, variante classique, sous-variante Svenonius $ 1, 1, 1
+C30 gambit roi refusé, variante Norwalde $ 0, 0, 0
+C30 gambit roi refusé, variante Norwalde, gambit Buecker $ 0, 0, 0
+C31 gambit roi refusé, contre-gambit Falkbeer (3...e4) $ 1, 1, 1
+C31 gambit roi refusé, contre-gambit Falkbeer (4.d3) $ 1, 1, 1
+C31 gambit roi refusé, contre-gambit Falkbeer $ 1, 1, 1
+C31 gambit roi refusé, contre-gambit Falkbeer, gambit Morphy $ 1, 1, 1
+C31 gambit roi refusé, contre-gambit Falkbeer, variante Milner-Barry $ 1, 1, 1
+C31 gambit roi refusé, contre-gambit Falkbeer, variante Nimzovitch $ 1, 1, 1
+C31 gambit roi refusé, contre-gambit Falkbeer, variante Rubinstein $ 1, 1, 1
+C31 gambit roi refusé, contre-gambit Falkbeer, variante Tartakover $ 1, 1, 1
+C31 gambit roi refusé, contre-gambit Nimzovitch $ 1, 1, 1
+C32 gambit roi refusé, contre-gambit Falkbeer (5.dxe4) $ 1, 1, 1
+C32 gambit roi refusé, contre-gambit Falkbeer, ligne principale (7...Ff5) $ 1, 1, 1
+C32 gambit roi refusé, contre-gambit Falkbeer, variante Alapinee $ 1, 1, 1
+C32 gambit roi refusé, contre-gambit Falkbeer, variante Charousek $ 1, 1, 1
+C32 gambit roi refusé, contre-gambit Falkbeer, variante Kérès $ 1, 1, 1
+C32 gambit roi refusé, contre-gambit Falkbeer, variante Réti $ 1, 1, 1
+C32 gambit roi refusé, contre-gambit Falkbeer, variante Tarrasch $ 1, 1, 1
+C33 gambit roi accepté $ 2, 2, 2
+C33 gambit roi accepté, contre-gambit Lopez-Gianutio, variante Hein $ 1, 1, 1
+C33 gambit roi accepté, gambit Breyer $ 1, 1, 1
+C33 gambit roi accepté, gambit Carrera (= Basman) $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou réduit (Petrofff – Jänisch - Tartakover) $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, attaque Mc Donnell $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, attaque Paulsen $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, attaque Tchigorine $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, attaqueGrimm $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, contre-gambit Bryan $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, contre-gambit Lopez-Gianutio $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, défense Boden $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, défense classique $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, défense classique, attaque Cozio $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, défense Cozio (= Morphy) $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, défense ouverture espagnole (= Ruy Lopez) $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, défense Steinitz $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, Maurian défense $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, variante Anderssen $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, variante Bledow $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, variante Bogolioubof $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, variante Boren-Svenonius $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, variante Fraser $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, variante Gifford $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, variante Greco $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, variante Jänisch $ 1, 1, 1
+C33 gambit roi accepté, gambit du fou, variante Morphy $ 1, 1, 1
+C33 gambit roi accepté, gambit du pion (= Stamma) $ 0, 0, 0
+C33 gambit roi accepté, gambit Kérès (= Mason - Steinitz) $ 1, 1, 1
+C33 gambit roi accepté, gambit Orsini $ 1, 1, 1
+C33 gambit roi accepté, gambit Rumbleweed $ 1, 1, 1
+C33 gambit roi accepté, gambit Schurig $ 1, 1, 1
+C33 gambit roi accepté, gambit Villemson (= Steinitz) $ 1, 1, 1
+C34 gambit roi accepté, contre-gambit Gianutio $ 1, 1, 1
+C34 gambit roi accepté, défense Becker $ 1, 1, 1
+C34 gambit roi accepté, défense Fischer $ 1, 1, 1
+C34 gambit roi accepté, défense Schallop $ 1, 1, 1
+C34 gambit roi accepté, gambit du cavalier roi $ 1, 1, 1
+C34 gambit roi accepté, variante Bonsch - Osmolovsky $ 1, 1, 1
+C35 gambit roi accepté, défense Cunningham $ 1, 1, 1
+C35 gambit roi accepté, défense Cunningham, défense Euwe $ 1, 1, 1
+C35 gambit roi accepté, défense Cunningham, gambit Bertin $ 1, 1, 1
+C35 gambit roi accepté, défense Cunningham, gambit des trois pions $ 1, 1, 1
+C36 gambit roi accepté, défense Abbazia (défense classique, défense moderne) $ 0, 0, 0
+C36 gambit roi accepté, défense Abbazia, variante Botvinnik $ 0, 0, 0
+C36 gambit roi accepté, défense Abbazia, variante moderne $ 0, 0, 0
+C37 gambit roi accepté, double gambit Muzio $ 0, 0, 0
+C37 gambit roi accepté, gambit Blachly $ 0, 0, 0
+C37 gambit roi accepté, gambit Cochrane $ 0, 0, 0
+C37 gambit roi accepté, gambit du cavalier roi $ 0, 0, 0
+C37 gambit roi accepté, gambit Ghulam Rassim $ 0, 0, 0
+C37 gambit roi accepté, gambit Herzfeld $ 0, 0, 0
+C37 gambit roi accepté, gambit Lolli (= gambit Muzio sauvage) $ 0, 0, 0
+C37 gambit roi accepté, gambit Lolli, variante Young $ 0, 0, 0
+C37 gambit roi accepté, gambit Mac Donnell $ 0, 0, 0
+C37 gambit roi accepté, gambit Muzio $ 0, 0, 0
+C37 gambit roi accepté, gambit Muzio, contre-attaque Kling - Horwitz $ 0, 0, 0
+C37 gambit roi accepté, gambit Muzio, défense Brentano $ 0, 0, 0
+C37 gambit roi accepté, gambit Muzio, défense From $ 0, 0, 0
+C37 gambit roi accepté, gambit Muzio, défense Holloway $ 0, 0, 0
+C37 gambit roi accepté, gambit Quaade $ 0, 0, 0
+C37 gambit roi accepté, gambit Rosentreter $ 0, 0, 0
+C37 gambit roi accepté, gambit Salvio $ 0, 0, 0
+C37 gambit roi accepté, gambit Salvio, contre-attaque Anderssen $ 0, 0, 0
+C37 gambit roi accepté, gambit Silberschmidt $ 0, 0, 0
+C37 gambit roi accepté, gambit Sörensen $ 0, 0, 0
+C37 gambit roi accepté, Muzio gambit, variante Paulsen $ 0, 0, 0
+C38 gambit roi accepté, gambit défense Philidor $ 0, 0, 0
+C38 gambit roi accepté, gambit défense Philidor, variante Schultz $ 0, 0, 0
+C38 gambit roi accepté, gambit Greco $ 0, 0, 0
+C38 gambit roi accepté, gambit Hanstein $ 0, 0, 0
+C38 King's knight's gambit $ 0, 0, 0
+C39 gambit roi accepté, gambit Allgaier $ 0, 0, 0
+C39 gambit roi accepté, gambit Allgaier, attaque Urusov $ 0, 0, 0
+C39 gambit roi accepté, gambit Allgaier, attaque Walker $ 0, 0, 0
+C39 gambit roi accepté, gambit Allgaier, défense Horny $ 0, 0, 0
+C39 gambit roi accepté, gambit Allgaier, défense Schlechter $ 0, 0, 0
+C39 gambit roi accepté, gambit Allgaier, gambit Blackburne $ 0, 0, 0
+C39 gambit roi accepté, gambit Allgaier, variante Cook $ 0, 0, 0
+C39 gambit roi accepté, gambit Allgaier, variante Thorold $ 0, 0, 0
+C39 gambit roi accepté, gambit du cavalier roi $ 0, 0, 0
+C39 gambit roi accepté, gambit Kieseritsky, défense Berlin (6.Fc4) $ 0, 0, 0
+C39 gambit roi accepté, gambit Kieseritsky, défense Berlin $ 0, 0, 0
+C39 gambit roi accepté, gambit Kieseritsky, défense Berlin, variante Rivière $ 0, 0, 0
+C39 gambit roi accepté, gambit Kieseritsky, défense Brentano (= Campbell) $ 0, 0, 0
+C39 gambit roi accepté, gambit Kieseritsky, défense Brentano $ 0, 0, 0
+C39 gambit roi accepté, gambit Kieseritsky, défense Brentano, variante Caro $ 0, 0, 0
+C39 gambit roi accepté, gambit Kieseritsky, défense Brentano, variante Kaplanek $ 0, 0, 0
+C39 gambit roi accepté, gambit Kieseritsky, défense du grand fouet (= classique) $ 0, 0, 0
+C39 gambit roi accepté, gambit Kieseritsky, défense du grand fouet, variante Jänisch $ 0, 0, 0
+C39 gambit roi accepté, gambit Kieseritsky, défense Kolisch $ 0, 0, 0
+C39 gambit roi accepté, gambit Kieseritsky, défense Neumann $ 0, 0, 0
+C39 gambit roi accepté, gambit Kieseritsky, défense Paulsen $ 0, 0, 0
+C39 gambit roi accepté, gambit Kieseritsky, défense Polerio $ 0, 0, 0
+C39 gambit roi accepté, gambit Kieseritsky, défense Salvio (= Rosenthal) $ 0, 0, 0
+C39 gambit roi accepté, gambit Kieseritsky, défense Salvio, variante Cozio $ 0, 0, 0
+C39 gambit roi accepté, gambit Kieseritsky, gambit Rice $ 0, 0, 0
+C40 défense Damiano $ 0, 0, 0
+C40 défense Greco $ 0, 0, 0
+C40 défense Gunderam $ 0, 0, 0
+C40 gambit du pion dame (= de l’éléphant) $ 0, 0, 0
+C40 gambit du pion dame (= Maroczy) $ 0, 0, 0
+C40 gambit letton (3.Fc4) $ 0, 0, 0
+C40 gambit letton $ 0, 0, 0
+C40 gambit letton, contre-gambit du tire-bouchon $ 0, 0, 0
+C40 gambit letton, défense Fraser $ 0, 0, 0
+C40 gambit letton, variante Behting $ 0, 0, 0
+C40 gambit letton, variante Nimzovitch $ 0, 0, 0
+C40 gambit letton, variante Polerio $ 0, 0, 0
+C40 ouverture du cavalier roi $ 1, 1, 1
+C41 défense Philidor $ 1, 1, 1
+C41 défense Philidor Berger variante $ 1, 1, 1
+C41 défense Philidor, attaque Paulsen $ 1, 1, 1
+C41 défense Philidor, gambit Lopez $ 1, 1, 1
+C41 défense Philidor, gambit Lopez, variante Jänisch $ 1, 1, 1
+C41 défense Philidor, gambit Philidor $ 1, 1, 1
+C41 défense Philidor, gambit Philidor, attaque del Rio $ 1, 1, 1
+C41 défense Philidor, gambit Philidor, variante Berger $ 1, 1, 1
+C41 défense Philidor, gambit Philidor, variante Zukertort $ 1, 1, 1
+C41 défense Philidor, variante d’échange $ 1, 1, 1
+C41 défense Philidor, variante d’échange $ 1, 1, 1
+C41 défense Philidor, variante Foden $ 1, 1, 1
+C41 défense Philidor, variante Hanham $ 1, 1, 1
+C41 défense Philidor, variante Hanham améliorée $ 1, 1, 1
+C41 défense Philidor, variante Hanham, sous-variante Berger $ 1, 1, 1
+C41 défense Philidor, variante Hanham, sous-variante Delmar $ 1, 1, 1
+C41 défense Philidor, variante Hanham, sous-variante Kmoch $ 1, 1, 1
+C41 défense Philidor, variante Hanham, sous-variante Krause $ 1, 1, 1
+C41 défense Philidor, variante Hanham, sous-variante Schlechter $ 1, 1, 1
+C41 défense Philidor, variante Hanham, sous-variante Steiner $ 1, 1, 1
+C41 défense Philidor, variante Larsen $ 1, 1, 1
+C41 défense Philidor, variante Nimzovitch (= Jänisch) $ 1, 1, 1
+C41 défense Philidor, variante Nimzovitch $ 1, 1, 1
+C41 défense Philidor, variante Nimzovitch, sous-variante Klein $ 1, 1, 1
+C41 défense Philidor, variante Nimzovitch, sous-variante Larobok $ 1, 1, 1
+C41 défense Philidor, variante Nimzovitch, sous-variante Locock $ 1, 1, 1
+C41 défense Philidor, variante Nimzovitch, sous-variante Rellstab $ 1, 1, 1
+C41 défense Philidor, variante Nimzovitch, sous-variante Sokolsky $ 1, 1, 1
+C41 défense Philidor, variante Nimzovitch, sous-variante Sozine $ 1, 1, 1
+C41 défense Philidor, variante Steinitz $ 1, 1, 1
+C42 défense Petroff (= russe) $ 2, 2, 2
+C42 défense Petroff, attaque classique $ 1, 1, 1
+C42 défense Petroff, attaque classique, piège Marshall $ 1, 1, 1
+C42 défense Petroff, attaque classique, variante Berger $ 1, 1, 1
+C42 défense Petroff, attaque classique, variante fermée $ 1, 1, 1
+C42 défense Petroff, attaque classique, variante Jänisch $ 1, 1, 1
+C42 défense Petroff, attaque classique, variante Krause $ 1, 1, 1
+C42 défense Petroff, attaque classique, variante Maroczy $ 1, 1, 1
+C42 défense Petroff, attaque classique, variante Marshall $ 1, 1, 1
+C42 défense Petroff, attaque classique, variante Mason $ 1, 1, 1
+C42 défense Petroff, attaque classique, variante Tarrasch $ 1, 1, 1
+C42 défense Petroff, attaque classique, variante Tchigorine $ 1, 1, 1
+C42 défense Petroff, attaque Cozio (= Lasker) $ 1, 1, 1
+C42 défense Petroff, attaque française $ 1, 1, 1
+C42 défense Petroff, attaque Kaufmann $ 1, 1, 1
+C42 défense Petroff, attaque Nimzovitch $ 1, 1, 1
+C42 défense Petroff, attaque Paulsen $ 1, 1, 1
+C42 défense Petroff, gambit Cochrane $ 1, 1, 1
+C42 défense Petroff, variante Damiano $ 1, 1, 1
+C42 défense Petroff, variante des trois cavaliers $ 1, 1, 1
+C42 défense Petroff, variante italienne $ 1, 1, 1
+C42/01 défense Petroff $ 2, 2, 2
+C42/01 défense Petroff, gambit Foden - Kieseritsky $ 1, 1, 1
+C42/01 défense Petroff, variante Lichtehein modifiée $ 1, 1, 1
+C43 défense Petroff, attaque moderne (= Steinitz) $ 1, 1, 1
+C43 défense Petroff, attaque moderne, ligne principale $ 1, 1, 1
+C43 défense Petroff, attaque moderne, variante Bardeleben $ 1, 1, 1
+C43 défense Petroff, attaque moderne, variante Steinitz $ 1, 1, 1
+C43 défense Petroff, attaque moderne, variante symétrique $ 1, 1, 1
+C43 défense Petroff, attaque moderne, variante Trifunovic $ 1, 1, 1
+C43 défense Petroff, gambit Urusov $ 1, 1, 1
+C44 gambit irlandais (= de Chicago) $ 0, 0, 0
+C44 ouverture de Dresde $ 0, 0, 0
+C44 ouverture du pion roi $ 1, 1, 1
+C44 ouverture écossaise $ 1, 1, 1
+C44 ouverture écossaise, gambit écossais $ 0, 0, 0
+C44 ouverture écossaise, gambit écossais $ 0, 0, 0
+C44 ouverture écossaise, gambit écossais, attaque Vitzhum $ 0, 0, 0
+C44 ouverture écossaise, gambit écossais, contre-attaque Anderssen (= Paulsen, Suhle) $ 0, 0, 0
+C44 ouverture écossaise, gambit écossais, défense Benima $ 0, 0, 0
+C44 ouverture écossaise, gambit écossais, défense Cochrane - Shumov $ 0, 0, 0
+C44 ouverture écossaise, gambit écossais, défense Dubois - Réti $ 0, 0, 0
+C44 ouverture écossaise, gambit écossais, variante Cochrane $ 0, 0, 0
+C44 ouverture écossaise, gambit écossais, variante Hanneken $ 0, 0, 0
+C44 ouverture écossaise, gambit Göring $ 0, 0, 0
+C44 ouverture écossaise, gambit Göring, mat du mousse $ 0, 0, 0
+C44 ouverture écossaise, gambit Göring, variante Bardeleben $ 0, 0, 0
+C44 ouverture écossaise, gambit Kelfsson (= Mac Lopez) $ 0, 0, 0
+C44 ouverture écossaise, variante Cochrane $ 0, 0, 0
+C44 ouverture écossaise, variante Lolli (cf. C45) $ 0, 0, 0
+C44 ouverture écossaise, variante Lolli $ 0, 0, 0
+C44 ouverture Hanham inversée $ 0, 0, 0
+C44 ouverture hongroise $ 0, 0, 0
+C44 ouverture Konstantinopolsky $ 0, 0, 0
+C44 ouverture Ponziani $ 0, 0, 0
+C44 ouverture Ponziani, contre-attaque Jänisch $ 0, 0, 0
+C44 ouverture Ponziani, contre-gambit $ 0, 0, 0
+C44 ouverture Ponziani, contre-gambit, attaque Schmidt $ 0, 0, 0
+C44 ouverture Ponziani, contre-gambit, variante Cordel $ 0, 0, 0
+C44 ouverture Ponziani, défense Fraser $ 0, 0, 0
+C44 ouverture Ponziani, variante Caro $ 0, 0, 0
+C44 ouverture Ponziani, variante Leonhardt $ 0, 0, 0
+C44 ouverture Ponziani, variante Réti $ 0, 0, 0
+C44 ouverture Ponziani, variante Romanishin $ 0, 0, 0
+C44 ouverture Ponziani, variante Steinitz $ 0, 0, 0
+C44 ouverture Tayler $ 0, 0, 0
 C45 ouverture écossaise $ 1, 1, 0
 C45 ouverture écossaise $ 1, 1, 0
 C45 ouverture écossaise, attaque Blackburne $ 1, 1, 0
