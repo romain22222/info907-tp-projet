@@ -1,0 +1,67 @@
+ouverture
+	type
+		gambit
+		système
+		ouverture
+		attaque
+		défense
+		variante
+
+	jouabilité
+		diversifié
+		offmeta
+		OTP
+		blague
+
+	style
+		tactique
+		positionnel
+
+	espace
+		fermé
+		ouvert
+
+	siècle de popularisation
+		XV
+		XVI
+		XVII
+		XVIII
+		XIX
+		XX
+		XXI
+		never
+
+	popularité
+		débutant / intermédiaire
+			populaire
+			peu populaire
+			jamais joué/ne sait pas la jouer (ouverture jouée par 'accident' ou le joueur ne 'joue' pas d'ouverture)
+		haut niveau
+			populaire
+			peu populaire
+			jamais joué
+		grand public (global knowledge)
+			populaire
+			peu populaire
+			kesako
+
+	nom basé sur
+		animal (mythique ou non)
+		joueur(s) connu(s)
+		nationalité(s)
+		pièce
+		objet
+		ville
+		évènement
+
+	ECO début
+		A
+		B
+		C
+		D
+		E
+
+	ligne
+		principale
+		majeur
+		mineur

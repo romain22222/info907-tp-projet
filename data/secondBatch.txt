@@ -1,0 +1,2231 @@
+A00 attaque d’Amsterdam $ T, O, XXI
+A00 attaque Durkin $ T, O, XX
+A00 attaque Grob $ T, O, XX
+A00 attaque Grob, attaque Spike $ T, O, XXI
+A00 attaque Grob, contre-gambit Romford $ T, O, XX
+A00 attaque Grob, gambit Fritz $ T, O, XX
+A00 attaque Réti (= est-indienne en premier), (avec ...e5) $ P, O, XX
+A00 gambit Amar (= de Paris) $ T, O, XXI
+A00 ouverture Amar (= de Paris) $ P, O, XXI
+A00 ouverture Anderssen $ P, O, XIX
+A00 ouverture anglaise, fianchetto roi (cf. A20) $ P, O, XIX
+A00 ouverture Anti-Borg (= Desprez) $ P, O, XXI
+A00 ouverture Battambang $ P, O, XXI
+A00 ouverture Benkö $ P, O, XX
+A00 ouverture Benkö, variante Alekhine inversée $ P, O, XX
+A00 ouverture Clemenz (= Mead, Basman, de Klerk) $ P, O, XX
+A00 ouverture coup de marteau (= du renard, de la côtelette de porc) $ P, O, XX
+A00 ouverture de Novosibirsk $ P, O, XXI
+A00 ouverture de Saragosse $ P, O, XXI
+A00 ouverture de Valence $ P, O, XXI
+A00 ouverture du crabe $ P, O, XXI
+A00 ouverture du trident (cf. A04, A36, B20) $ P, O, XXI
+A00 ouverture Dunst (= Sleipner, Heinrichsen) $ P, O, XIX
+A00 ouverture Gedult $ P, O, XIX
+A00 ouverture Lasker $ P, O, XX
+A00 ouverture Mieses $ P, O, XX
+A00 ouverture Polonaise (= Sokolsky, de l’orang-outan) $ T, O, XX
+A00 ouverture Polonaise (= Sokolsky, de l’orang-outan), variante tournée $ T, O, XX
+A00 ouverture Polonaise (= Sokolsky, de l’orang-outan), variante de Tübingen $ T, O, XX
+A00 ouverture Polonaise (= Sokolsky, de l’orang-outan), variante d’échange $ T, O, XX
+A00 ouverture Van't Kruijs $ P, O, XIX
+A00 ouverture vénézuélienne $ P, O, XXI
+A00 ouverture Ware (= du foin) $ P, O, XIX
+A01 attaque Nimzovitch-Larsen $ T, O, XX
+A01 attaque Nimzovitch-Larsen, variante anglaise $ T, O, XX
+A01 attaque Nimzovitch-Larsen, variante classique classical variante $ T, O, XX
+A01 attaque Nimzovitch-Larsen, variante hollandaise $ T, O, XX
+A01 attaque Nimzovitch-Larsen, variante indienne $ T, O, XX
+A01 attaque Nimzovitch-Larsen, variante moderne $ T, O, XX
+A01 attaque Nimzovitch-Larsen, variante polonaise $ T, O, XX
+A01 attaque Nimzovitch-Larsen, variante symétrique $ T, O, XX
+A02 ouverture Bird $ P, O, XIX
+A02 ouverture Bird, gambit From $ T, O, XIX
+A02 ouverture Bird, gambit From, variante Lasker $ T, O, XX
+A02 ouverture Bird, gambit From, variante Lipke $ T, O, XX
+A02 ouverture Bird, gambit Hobbs $ T, O, XX
+A02 ouverture Bird, gambit suisse $ T, O, XX
+A03 ouverture Bird $ P, O, XIX
+A03 ouverture Bird, gambit Williams $ T, O, XX
+A03 ouverture Bird, variante Lasker $ T, O, XX
+A03 ouverture Mujannah $ P, O, XXI
+A04 attaque Réti (= est-indienne en premier), variante néo-sicilienne fermée $ P, F, XX
+A04 ouverture Réti $ P, O, XIX
+A04 ouverture Réti, défense hollandaise $ P, F, XX
+A04 ouverture Réti, défense Wade $ P, O, XX
+A04 ouverture Réti, gambit Herrstroem $ T, O, XX
+A04 ouverture Réti, gambit Lisitsine retardé $ T, O, XX
+A04 ouverture Réti, gambit Pirc-Lisitsine $ T, O, XX
+A04/11 attaque Réti (= est-indienne en premier), variante néo-sicilienne fermée (cf. A39) $ P, F, XX
+A04/11 attaque Réti (= est-indienne en premier), variante néo-sicilienne fermée $ P, F, XX
+A04/12 attaque Réti (= est-indienne en premier), variante néo-sicilienne fermée (cf. B50/1) $ P, F, XX
+A04/16 attaque Réti (= est-indienne en premier), variante néo-sicilienne fermée (cf. A05/8, B20/1, B30/1) $ P, F, XX
+A04/16 attaque Réti (= est-indienne en premier), variante néo-sicilienne fermée $ P, F, XX
+A05 attaque Réti (= est-indienne en premier) $ T, O, XX
+A05 attaque Réti (= est-indienne en premier), variante Réti-Smyslov $ T, O, XX
+A05 attaque Réti (= est-indienne en premier), variante Spassky $ T, O, XX
+A05 ouverture Réti $ P, O, XIX
+A05/08 attaque Réti (= est-indienne en premier), variante néo-sicilienne fermée (cf. A04/16, B20/1, B30/1) $ P, F, XX
+A06 ouverture Réti $ P, O, XIX
+A06 ouverture Réti, gambit Tennison (= Lemberg, Zukertort) $ T, O, XX
+A06 ouverture Réti, variante vieille indienne $ P, O, XX
+A06 ouverture Santasiere $ P, O, XX
+A06/02 ouverture Réti – attaque Nimzovitch-Larsen (avec ...Ff5) $ T, O, XX
+A06/11 ouverture Réti – attaque Nimzovitch-Larsen $ T, O, XX
+A06/13 ouverture Réti – attaque Nimzovitch-Larsen $ T, O, XX
+A06/14 ouverture Réti – attaque Nimzovitch-Larsen (avec ...g6) $ T, O, XX
+A06/15 ouverture Réti – attaque Nimzovitch-Larsen (avec ...Fg4) $ T, O, XX
+A07 attaque Réti (= est-indienne en premier) $ T, O, XX
+A07 attaque Réti (= est-indienne en premier), (avec ...c5) $ T, O, XX
+A07 attaque Réti (= est-indienne en premier), (avec ...e5) $ T, O, XX
+A07 attaque Réti (= est-indienne en premier), système Barcza $ T, O, XX
+A07 attaque Réti (= est-indienne en premier), système Pachman $ T, O, XX
+A07 attaque Réti (= est-indienne en premier), varainte Kérès $ T, O, XX
+A07 attaque Réti (= est-indienne en premier), variante de l’os de hareng $ T, O, XX
+A07 attaque Réti (= est-indienne en premier), variante Petrossian $ T, O, XX
+A07 attaque Réti (= est-indienne en premier), variante yougoslave $ T, O, XX
+A07/04 attaque Réti (= est-indienne en premier), variante yougoslave $ T, O, XX
+A08 attaque Réti (= est-indienne en premier) $ T, O, XX
+A08/10 attaque Réti (= est-indienne en premier), variante française $ T, O, XX
+A09 gambit Réti $ T, O, XX
+A09 gambit Réti accepté $ T, O, XX
+A09 gambit Réti accepté, variante Kérès $ T, O, XX
+A09 gambit Réti, variante d’avance $ T, O, XX
+A10 ouverture anglaise (cf. A21) $ P, O, XIX
+A10 ouverture anglaise (cf. B06) $ P, O, XIX
+A10 ouverture anglaise $ P, O, XIX
+A10 ouverture anglaise, défense Adorjan $ P, O, XIX
+A10 ouverture anglaise, gambit Jänisch $ T, O, XIX
+A10/08 ouverture anglaise – défense hollandaise (cf. A26/03, A21/11) $ P, F, XIX
+A11 ouverture anglaise, système défensif Caro-Kann $ P, O, XIX
+A11 ouverture anglaise, système défensif Caro-Kann $ P, O, XIX
+A11 ouverture anglaise, système défensif Caro-Kann $ P, O, XIX
+A11 ouverture anglaise, système défensif Caro-Kann $ P, O, XIX
+A11 ouverture anglaise, système défensif Caro-Kann $ P, O, XIX
+A12 ouverture anglaise, système défensif Caro-Kann $ P, O, XIX
+A12 ouverture anglaise, système défensif Caro-Kann, variante Bogolioubof $ P, O, XIX
+A12 ouverture anglaise, système défensif de Londres (= New-York) $ P, O, XIX
+A12 ouverture anglaise, variante Capablanca $ P, O, XIX
+A12 ouverture anglaise, variante de Bled $ P, O, XIX
+A12/18 ouverture anglaise, système défensif Torre (avec 4...Fg4, cf. A07) $ P, O, XIX
+A13 ouverture anglaise $ P, O, XIX
+A13 ouverture anglaise, défense Kurajica (cf. E03) $ P, O, XIX
+A13 ouverture anglaise, défense Kurajica $ P, O, XIX
+A13 ouverture anglaise, gambit Romanichine $ T, O, XIX
+A13 ouverture anglaise, système Wimpey $ P, O, XIX
+A13 ouverture anglaise, variante Agincourt $ P, O, XIX
+A13 ouverture anglaise, variante néo-catalane (avec 4...dxc4) $ P, O, XIX
+A13 ouverture anglaise, variante néo-catalane (avec 4...dxc4, cf. E03) $ P, O, XIX
+A13 ouverture anglaise, variante néo-catalane $ P, O, XIX
+A13 ouverture anglaise, variante néo-Tarrasch (cf. D41) $ P, O, XIX
+A14 ouverture anglaise, variante néo-catalane, gambit refusé $ P, F, XIX
+A14 ouverture anglaise, variante symétrique, défense Kérès $ P, O, XIX
+A14 ouverture anglaise, variante symétrique, système hérisson (avec g3, ...e6, b3, cf. A14) $ P, O, XIX
+A14/11 ouverture anglaise, variante symétrique, système hérisson (cf. A30) $ P, O, XIX
+A15 ouverture anglaise (cf. A11) $ P, O, XIX
+A15 ouverture anglaise $ P, O, XIX
+A15 ouverture anglaise, défense anglo-indienne $ P, O, XIX
+A15 ouverture anglaise, système orang-outan $ P, O, XIX
+A15 ouverture anglaise, variante de Brême (cf. A24) $ P, O, XIX
+A16 ouverture anglaise $ P, O, XIX
+A16 ouverture anglaise, système anglo-Grünfeld - Brême (cf. A24) $ P, O, XIX
+A16 ouverture anglaise, système anglo-Grünfeld (avec ...g6 5.e3) $ P, O, XIX
+A16 ouverture anglaise, système anglo-Grünfeld (sans...d5, cf. A26) $ P, O, XIX
+A16 ouverture anglaise, système anglo-Grünfeld $ P, O, XIX
+A16 ouverture anglaise, système anglo-Grünfeld, défense Smyslov $ P, O, XX
+A16 ouverture anglaise, système anglo-Grünfeld, défense tchèque $ P, O, XX
+A16 ouverture anglaise, système anglo-Grünfeld, variante Kortchnoï $ P, O, XX
+A17 ouverture anglaise $ P, O, XIX
+A17 ouverture anglaise, système Nimzo-anglais $ P, O, XX
+A17 ouverture anglaise, système ouest-indien $ P, O, XIX
+A17 ouverture anglaise, système ouest-indien, variante Romanichine $ P, O, XX
+A17/02 ouverture anglaise, système ouest-indien (d4 retardé) $ P, O, XX
+A18 ouverture anglaise, variante Mikenas-Carls $ P, O, XX
+A18 ouverture anglaise, variante Mikenas-Carls, sous-variante Flohr $ P, O, XX
+A18 ouverture anglaise, variante Mikenas-Carls, sous-variante Kevitz $ P, O, XX
+A19 ouverture anglaise, variante Mikenas-Carls, sous-variante sicilienne $ P, O, XX
+A20 ouverture anglaise (cf. A00) $ P, O, XX
+A20 ouverture anglaise, variante Nimzovitch $ P, O, XX
+A20 ouverture anglaise, variante Nimzovitch moderne (cf. A00) $ P, O, XX
+A20 ouverture anglaise, variante Nimzovitch, sous-variante Flohr $ P, O, XX
+A20/04 ouverture anglaise, ligne piège $ T, O, XX
+A21 ouverture anglaise $ P, O, XX
+A21 ouverture anglaise, contre-attaque Kramnik-Shirov $ T, O, XX
+A21 ouverture anglaise, défense Smyslov $ P, O, XX
+A21 ouverture anglaise, défense Troeger $ P, O, XX
+A21 ouverture anglaise, système vieille indienne (cf. A26) $ P, O, XX
+A21 ouverture anglaise, variante Kérès $ P, O, XX
+A21/12 ouverture anglaise $ P, O, XX
+A22 ouverture anglaise $ P, O, XX
+A22 ouverture anglaise, gambit Bellon $ T, O, XX
+A22 ouverture anglaise, système de Brême $ P, O, XX
+A22 ouverture anglaise, système de Brême, dragon inversé $ P, O, XX
+A22 ouverture anglaise, système de Brême, variante Smyslov $ P, O, XX
+A23 ouverture anglaise, système de Brême, variante Kérès $ P, O, XX
+A24 ouverture anglaise, système de Brême (avec ...g6) $ P, O, XX
+A24 ouverture anglaise, système de Brême, ligne moderne (cf. A16) $ P, O, XX
+A24 ouverture anglaise, système de Brême, ligne moderne $ P, O, XX
+A25 ouverture anglaise, système fermé (avec 5.Tb1) $ P, F, XX
+A25 ouverture anglaise, système fermé (avec 5.Tb1), variante Taimanov $ P, F, XX
+A25 ouverture anglaise, système fermé (sans ...d6) $ P, F, XX
+A25 ouverture anglaise, système fermé $ P, F, XX
+A25 ouverture anglaise, système fermé, variante Hort $ P, F, XX
+A25 ouverture anglaise, système fermé, variante Taimanov $ P, F, XX
+A25 ouverture anglaise, variante sicilienne inversée $ P, O, XX
+A26 English Botvinnik system $ P, O, XX
+A26 ouverture anglaise, système Botvinnik (avec ...f5) $ P, O, XX
+A26 ouverture anglaise, système Botvinnik $ P, O, XX
+A26 ouverture anglaise, système fermé $ P, F, XX
+A26 ouverture anglaise, système fermé, ligne moderne (cf. A16) $ P, F, XX
+A26 ouverture anglaise, système fermé, ligne moderne $ P, F, XX
+A26/07 ouverture anglaise, système fermé (avec ...f5) $ P, F, XX
+A26/09 ouverture anglaise, système fermé, formation vieille indienne $ P, F, XX
+A26/11 ouverture anglaise, système fermé, ligne moderne (cf. A16/02) $ P, F, XX
+A27 ouverture anglaise, système des trois cavaliers $ P, O, XX
+A28 ouverture anglaise, système des quatre cavaliers $ P, O, XX
+A28 ouverture anglaise, système des quatre cavaliers, (avec 4.e3) $ P, O, XX
+A28 ouverture anglaise, système des quatre cavaliers, variante Capablanca $ P, O, XX
+A28 ouverture anglaise, système des quatre cavaliers, variante Marini $ P, O, XX
+A28 ouverture anglaise, système des quatre cavaliers, variante Nimzovitch $ P, O, XX
+A28 ouverture anglaise, système des quatre cavaliers, variante Romanichine $ P, O, XX
+A28 ouverture anglaise, système des quatre cavaliers, variante Stean $ P, O, XX
+A28 ouverture anglaise, variante Bradley Beach $ P, O, XX
+A28 ouverture anglaise, variante Nenarokov $ P, O, XX
+A29 ouverture anglaise, système des quatre cavaliers, fianchetto roi $ P, O, XX
+A29/06 ouverture anglaise, (avec ...d5), dragon inversé $ P, O, XX
+A29/19 ouverture anglaise, système des quatre cavaliers, fianchetto roi $ P, O, XX
+A30 ouverture anglaise, variante symétrique $ P, O, XX
+A30 ouverture anglaise, variante symétrique, système hérisson $ P, O, XX
+A30 ouverture anglaise, variante symétrique, système hérisson, formation flexible $ P, O, XX
+A30 ouverture anglaise, variante symétrique, système hérisson, ligne naturelle (cf. A14) $ P, O, XX
+A31 ouverture anglaise, variante symétrique $ P, O, XX
+A31 ouverture anglaise, variante symétrique, formation défense Benoni $ P, O, XX
+A32 ouverture anglaise, ligne moderne $ P, O, XX
+A32 ouverture anglaise, variante symétrique $ P, O, XX
+A32 ouverture anglaise, variante symétrique, ligne moderne $ P, O, XX
+A33 ouverture anglaise, variante symétrique (cf. E22) $ P, O, XX
+A33 ouverture anglaise, variante symétrique, sous-variante Geller $ P, O, XX
+A34 ouverture anglaise, variante symétrique $ P, O, XX
+A34 Ouverture anglaise, variante symétrique, système des trois cavaliers $ P, O, XX
+A34 Ouverture anglaise, variante symétrique, système Rubinstein $ P, O, XX
+A34/27 Ouverture anglaise, variante symétrique (avec ...Cc6, g3) $ P, O, XX
+A35 Ouverture anglaise, variante symétrique $ P, O, XX
+A35 Ouverture anglaise, variante symétrique, système des quatre cavaliers $ P, O, XX
+A36 Ouverture anglaise, variante symétrique $ P, O, XX
+A36 Ouverture anglaise, variante symétrique, système Botvinnik $ P, O, XX
+A36 Ouverture anglaise, variante symétrique, système Botvinnik inversé $ P, O, XX
+A36 Ouverture anglaise, variante ultra-symétrique $ P, O, XX
+A36/18 Ouverture anglaise, variante symétrique, système Botvinnik moderne $ P, O, XX
+A37 Ouverture anglaise, variante symétrique $ P, O, XX
+A37 Ouverture anglaise, variante symétrique, système Botvinnik inversé $ P, O, XX
+A38 Ouverture anglaise, variante symétrique $ P, O, XX
+A38 Ouverture anglaise, variante symétrique, ligne principale (avec b3) $ P, O, XX
+A38 Ouverture anglaise, variante symétrique, ligne principale (avec d3) $ P, O, XX
+A39 Ouverture anglaise, variante symétrique, ligne principale (avec d4) $ P, O, XX
+A39/02 Ouverture anglaise, variante symétrique, ligne principale (avec d4) $ P, O, XX
+A39/10 Ouverture anglaise, variante symétrique, ligne moderne $ P, O, XX
+A39/10 Ouverture anglaise, variante symétrique, ligne principale, échange des cavaliers $ P, O, XX
+A40 début du pion dame $ P, O, NA
+A40 défense moderne $ P, O, NA
+A40 défense anglaise $ P, O, NA
+A40 défense de l’hallebardier $ P, O, NA
+A40 défense franco-indienne (= Kérès) $ P, O, NA
+A40 défense Kérès $ P, O, NA
+A40 défense Lundin (= Kevitz - Mikenas) $ P, O, NA
+A40 défense polonaise $ P, O, NA
+A40 gambit Englund (= Charlick) $ T, O, NA
+A41 début du pion dame $ P, O, XX
+A41 défense moderne $ P, O, XX
+A41 défense Robatsch, variante Rossolimo $ P, O, XX
+A41 défense vieille indienne (avec 4.Cg5) $ P, O, XX
+A41 défense vieille indienne $ P, O, XX
+A41 défense vieille indienne, variante d’échange $ P, O, XX
+A41 défense vieille indienne, variante Tartakover (= Wade) $ P, O, XX
+A42 défense du Ptérodactyle $ P, O, XX
+A42 défense moderne, système Averbakh $ P, O, XX
+A42 défense moderne, système Averbakh, variante du cavalier sur la bande $ P, O, XX
+A42 défense moderne, système Averbakh, variante Kotov $ P, O, XX
+A43 défense du faucon (= du hibou) $ P, O, XX
+A43 défense vieille défense Benoni $ P, O, XX
+A43 défense vieille défense Benoni $ P, O, XX
+A43 défense vieille défense Benoni, formation Mujannah $ P, O, XX
+A43 défense vieille défense Benoni, système Franco-défense Benoni $ P, O, XX
+A43 défense vieille défense Benoni, système Schmid $ P, O, XX
+A43 défense Woozle $ P, O, XX
+A44 défense semi-défense Benoni, variante de blocage $ P, F, XX
+A44 défense vieille défense Benoni $ P, O, XX
+A45 attaque Gedult $ T, O, XX
+A45 attaque Paleface $ T, O, XX
+A45 attaque Trompovsky (= Ruth, Opovcensky) $ T, O, XX
+A45 début du pion dame $ P, O, XX
+A45 gambit Blackmar-Diemer $ T, O, XX
+A45 gambit Bronstein $ T, O, XX
+A45 ouverture du canard $ P, O, XX
+A45/01 gambit Spike (= Gibbins - Wiedenhagen) $ T, O, XX
+A45/02 début du pion dame (cf. B07) $ P, O, XX
+A45/02 début du pion dame (cf. B07) $ P, O, XX
+A45/06 attaque Torre (cf. A46) $ T, O, XX
+A46 attaque Torre $ T, O, XX
+A46 attaque Torre, gambit Wagner $ T, O, XX
+A46 début du pion dame $ P, O, XX
+A46 début du pion dame, système Andersson $ P, O, XX
+A46 début du pion dame, système Youssoupof - Rubinstein $ P, O, XX
+A46 début du pion dame, variante Lasker $ P, O, XX
+A46 défense Döry $ P, O, XX
+A47 défense ouest-indienne $ P, O, XX
+A47 défense ouest-indienne, système de Marienbad $ P, O, XX
+A47 défense ouest-indienne, système de Marienbad, variante Berg $ P, O, XX
+A48 défense est-indienne $ P, O, XX
+A48 défense est-indienne, attaque Torre $ T, O, XX
+A48 défense est-indienne, système de Londres $ P, O, XX
+A48/10 défense est-indienne, attaque Torre $ T, O, XX
+A49 défense est-indienne (sans c4) $ P, O, XX
+A49 défense est-indienne, attaque Nimzovitch-Larsen (cf. A05) $ T, O, XX
+A49/08 défense est-indienne, fianchetto roi (sans c4 6.Cc3) (cf. D02) $ P, O, XX
+A49/10 défense est-indienne, attaque Nimzovitch-Larsen (cf. A01) $ T, O, XX
+A49/10 défense est-indienne, attaque Nimzovitch-Larsen (cf. A06) $ T, O, XX
+A50 début du pion dame $ P, O, XVIII
+A50 défense Kevitz-Trajkovitch $ P, O, XX
+A50 défense ouest-indienne accélérée $ P, O, XX
+A51 gambit de Budapest Fajarovicz, variante Steiner $ T, O, XX
+A51 gambit de gambit de Budapest refusé $ T, F, XX
+A51 gambit de gambit de Budapest, variante Fajarovicz $ T, O, XX
+A52 gambit de Budapest $ T, O, XX
+A52 gambit de Budapest, variante Adler $ T, O, XX
+A52 gambit de Budapest, variante Alekhine $ T, O, XX
+A52 gambit de Budapest, variante Alekhine, gambit Balogh $ T, O, XX
+A52 gambit de Budapest, variante Alekhine, sous-variante Abonyi $ T, O, XX
+A52 gambit de Budapest, variante Rubinstein $ T, O, XX
+A53 défense vieille indienne (avec Fg4) $ P, O, XX
+A53 défense vieille indienne $ P, O, XX
+A53 défense vieille indienne, variante Janovski $ P, O, XX
+A53/13 défense vieille indienne, variante Steiner - Wade (cf. A54) $ P, O, XX
+A54 défense vieille indienne, variante Dus - Khotimirsky $ P, O, XX
+A54 défense vieille indienne, variante ukrainienne (4.Cf3) $ P, O, XX
+A54 défense vieille indienne, variante ukrainienne $ P, O, XX
+A55 défense vieille indienne, ligne principale $ P, O, XX
+A56 défense Benoni $ P, O, XX
+A56 défense Benoni, système Hromodka $ P, O, XX
+A56 défense Benoni, variante tchèque $ P, O, XX
+A56 défense Benoni, variante tchèque, système est-indien $ P, O, XX
+A56 défense du vautour $ P, O, XX
+A57 gambit Benkö (= de la Volga) $ T, O, XX
+A57 gambit Benkö à moitié accepté $ T, O, XX
+A57 gambit Benkö, attaque Nescafé frappé $ T, O, XX
+A57 gambit Benkö, système Zaitsev $ T, O, XX
+A57/06 gambit Benkö (4.Cf3) $ T, O, XX
+A58 gambit Benkö (avec Cd2) $ T, O, XX
+A58 gambit Benkö accepté $ T, O, XX
+A58 gambit Benkö, variante du fianchetto roi $ T, O, XX
+A59 gambit Benkö (7.e4) $ T, O, XX
+A59 gambit Benkö (avec Ce2) $ T, O, XX
+A59 gambit Benkö, ligne principale $ T, O, XX
+A60 défense Benoni $ P, O, XIX
+A61 défense Benoni $ P, O, XX
+A61 défense Benoni, variante du fianchetto roi $ P, O, XX
+A61 défense Benoni, variante Nimzovitch (tour du Cavalier) $ P, O, XX
+A61 défense Benoni, variante Uhlmann $ P, O, XX
+A62 défense Benoni, variante du fianchetto roi $ P, O, XX
+A63 défense Benoni, variante du fianchetto roi (9...Cbd7) $ P, O, XX
+A64 défense Benoni, variante du fianchetto roi (11...Te8) $ P, O, XX
+A65 défense Benoni (6.e4) $ P, F, XX
+A65 défense Benoni (7.Ff4, cf. A66) $ P, F, XX
+A65 défense Benoni, (avec g3, cf. A32) $ P, F, XX
+A65 défense Benoni, formation Sämisch $ P, F, XX
+A65/03 défense Benoni (avec Fd3, cf. A66) $ P, F, XX
+A65/03 défense Benoni (avec Fd3, cf. A66) $ P, F, XX
+A65/04 défense Benoni, variante Kramer - Sämisch (cf. E81) $ P, F, XX
+A65/06 défense Benoni, variante moderne (cf. E70) $ P, F, XX
+A65/07 défense Benoni, formation Sämisch ( cf. E81) $ P, F, XX
+A65/07 défense Benoni, formation Sämisch ( cf. E81) $ P, F, XX
+A65/07 défense Benoni, formation Sämisch ( cf. E81) $ P, F, XX
+A65/07 défense Benoni, variante moderne (cf. E81) $ P, F, XX
+A65/17 défense Benoni (avec Fd3, cf. A66) $ P, F, XX
+A66 défense Benoni, variante marée de pions $ P, F, XX
+A66 défense Benoni, variante Mikenas $ P, F, XX
+A67 défense Benoni, variante Taimanov $ P, O, XX
+A68 défense Benoni, attaque des quatre pions (cf. A69) $ P, F, XX
+A68/03 défense Benoni, attaque des quatre pions $ P, F, XX
+A69 défense Benoni, attaque des quatre pions, ligne principale $ P, F, XX
+A70 défense Benoni, variante classique (avec e4, Cf3) $ P, O, XIX
+A70 défense Benoni, variante classique (sans 9.O-O) $ P, F, XX
+A71 défense Benoni, variante classique (8.Fg5) $ P, F, XX
+A72 défense Benoni, variante classique (sans 9.O-O) $ P, F, XX
+A73 défense Benoni, variante classique (9.O-O) $ P, F, XX
+A74 défense Benoni, variante classique (9...a6 10.a4) $ P, F, XX
+A75 défense Benoni, variante classique (avec ...a6, ...Fg4) $ P, F, XX
+A76 défense Benoni, variante classique (9...Te8) $ P, F, XX
+A77 défense Benoni, variante classique (9...Te8 10.Cd2) $ P, F, XX
+A78 défense Benoni, variante classique (avec ...Te8, ...Ca6) $ P, F, XX
+A79 défense Benoni, variante classique (11.f3) $ P, F, XX
+A80 défense hollandaise $ P, O, XVIII
+A80 défense hollandaise, attaque Kortchnoï $ P, F, XX
+A80 défense hollandaise, gambit Krejcik $ T, O, XX
+A80 défense hollandaise, gambit Spielmann $ T, O, XX
+A80 défense hollandaise, gambit von Pretzel $ T, O, XX
+A80 défense hollandaise, variante 2.Fg5 $ P, F, XX
+A80 défense hollandaise, variante de Manhattan (= Alapine - Ulvestad) $ P, O, XX
+A81 défense hollandaise $ P, O, XX
+A81 défense hollandaise, système de Leningrad, variante Basman $ P, O, XX
+A81 défense hollandaise, système de Leningrad, variante de Karlsbad $ P, O, XX
+A81 défense hollandaise, variante Blackburne $ P, O, XX
+A82 défense hollandaise, gambit Staunton $ T, O, XX
+A82 défense hollandaise, gambit Staunton, variante Tartakover $ T, O, XX
+A82 défense hollandaise, variante Balogh $ P, O, XX
+A83 défense hollandaise, gambit Staunton, ligne de Staunton $ T, O, XX
+A83 défense hollandaise, gambit Staunton, variante Alekhine $ T, O, XX
+A83 défense hollandaise, gambit Staunton, variante Lasker $ T, O, XX
+A83 défense hollandaise, gambit Staunton, variante Nimzovitch $ T, O, XX
+A83 défense hollandaise, gambit Staunton, variante Tchigorine $ T, O, XX
+A84 défense hollandaise $ P, O, XX
+A84 défense hollandaise $ P, O, XX
+A84 défense hollandaise, gambit Staunton différé $ T, O, XX
+A84 défense hollandaise, variante Bladel $ P, O, XX
+A84 défense hollandaise, variante Rubinstein $ P, O, XX
+A85 défense hollandaise (avec c4 & Cc3) $ P, O, XX
+A86 défense hollandaise (avec c4 & g3) $ P, O, XX
+A86 défense hollandaise, système Hort - Antoshin $ P, O, XX
+A86 défense hollandaise, variante de Leningrad $ P, O, XX
+A87 défense hollandaise, variante de Leningrad, sous-variante principale $ P, O, XX
+A87/09 défense hollandaise, variante de Leningrad, sous-variante principale (7...De8, cf. A88) $ P, O, XX
+A88 défense hollandaise, variante de Leningrad, sous-variante principale (avec c6) $ P, O, XX
+A89 défense hollandaise, variante de Leningrad, sous-variante principale (avec Cc6) $ P, O, XX
+A90 défense hollandaise $ P, O, XX
+A90 défense hollandaise, variante Nimzo-indienne $ P, O, XX
+A90 défense hollandaise, variante Nimzo-indienne, sous-variante Alekhine $ P, O, XX
+A91 défense hollandaise $ P, O, XX
+A92 défense hollandaise $ P, O, XX
+A92 défense hollandaise, variante Alekhine $ P, O, XX
+A92 défense hollandaise, variante Stonewall (avec Cc3) $ P, O, XX
+A92 défense hollandaise, variante Stonewall $ P, O, XX
+A93 défense hollandaise, variante Stonewall, sous-variante Botvinnik $ P, O, XX
+A94 défense hollandaise, variante Stonewall (avec Fa3) $ P, O, XX
+A95 défense hollandaise, variante Stonewall (avec Cc3) $ P, O, XX
+A95 défense hollandaise, variante Stonewall, sous-variante Chekhover $ P, O, XX
+A96 défense hollandaise, variante classique $ P, O, XX
+A97 défense hollandaise, variante Ilyin-Genevsky $ P, O, XX
+A97 défense hollandaise, variante Ilyin-Genevsky, sous-variante Winter $ P, O, XX
+A98 défense hollandaise, variante Ilyin-Genevsky (avec Dc2) $ P, O, XX
+A99 défense hollandaise, variante Ilyin-Genevsky (avec b3) $ P, O, XX
+B00 attaque Grob inversée (= Borg, défense Basman, macho Grob) $ T, O, XXI
+B00 contre-attaque du Colorado $ T, O, XXI
+B00 début du pion roi $ P, O, NA
+B00 défense Barnes $ P, O, XIX
+B00 défense de l’hippopotame $ P, F, XXI
+B00 défense du Guatemala $ P, F, XXI
+B00 défense du lemming $ P, F, XXI
+B00 défense du pied de maïs $ P, F, XXI
+B00 défense du renard $ P, F, XXI
+B00 défense Fred $ P, O, XXI
+B00 défense Karr $ P, F, XXI
+B00 défense néo-Mongoloïde $ P, F, XXI
+B00 défense Nimzovitch $ P, O, XX
+B00 défense Nimzovitch $ P, O, XX
+B00 défense Nimzovitch, gambit Marshall $ T, O, XX
+B00 défense Nimzovitch, gambit Wheeler $ T, O, XX
+B00 défense Nimzovitch, variante Bogolioubof $ P, O, XX
+B00 défense Owen $ P, O, XIX
+B00 défense St.-Georges (= Baker) $ P, F, XIX
+B01 défense scandinave $ P, O, XIX
+B01 défense scandinave $ P, O, XIX
+B01 défense scandinave, contre-attaque (e4/d4) $ P, O, XIX
+B01 défense scandinave, contre-attaque Anderssen $ P, O, XIX
+B01 défense scandinave, contre-attaque Anderssen, attaque orthodoxe $ P, O, XIX
+B01 défense scandinave, contre-attaque Anderssen, système de Göteborg $ P, O, XIX
+B01 défense scandinave, contre-attaque Anderssen, variante Collijn $ P, O, XIX
+B01 défense scandinave, gambit islandais $ T, O, XIX
+B01 défense scandinave, gambit Mieses-Kotrvc $ T, O, XIX
+B01 défense scandinave, variante de Kiel $ P, O, XIX
+B01 défense scandinave, variante Grünfeld $ P, O, XX
+B01 défense scandinave, variante Lasker $ P, O, XIX
+B01 défense scandinave, variante Marshall $ P, O, XX
+B01 défense scandinave, variante Pytel - Wade $ P, O, XIX
+B01 défense scandinave, variante Richter $ P, O, XIX
+B02 défense Alekhine $ P, O, XX
+B02 défense Alekhine $ P, O, XX
+B02 défense Alekhine, attaque des deux pions (= Lasker) $ P, O, XX
+B02 défense Alekhine, attaque des deux pions, variante Mikenas $ P, O, XX
+B02 défense Alekhine, attaque Sämisch $ P, O, XX
+B02 défense Alekhine, variante de Brooklyn $ P, O, XX
+B02 défense Alekhine, variante Kmoch $ P, O, XX
+B02 défense Alekhine, variante Krejcik $ P, O, XX
+B02 défense Alekhine, variante Maroczy $ P, O, XX
+B02 défense Alekhine, variante Mokele Mbembe (= Buecker) $ P, O, XX
+B02 défense Alekhine, variante Scandinave $ P, O, XX
+B02 défense Alekhine, variante Spielmann $ P, O, XX
+B02 défense Alekhine, variante Steiner $ P, O, XX
+B02 défense Alekhine, variante Welling $ P, O, XX
+B03 défense Alekhine $ P, O, XX
+B03 défense Alekhine $ P, O, XX
+B03 défense Alekhine, attaque des quatre pions (6...Cc6) $ P, F, XX
+B03 défense Alekhine, attaque des quatre pions (7.Fe3) $ P, F, XX
+B03 défense Alekhine, attaque des quatre pions $ P, F, XX
+B03 défense Alekhine, attaque des quatre pions, variante du fianchetto $ P, F, XX
+B03 défense Alekhine, attaque des quatre pions, variante Ilyin-Genevsky $ P, F, XX
+B03 défense Alekhine, attaque des quatre pions, variante Kortchnoï $ P, F, XX
+B03 défense Alekhine, attaque des quatre pions, variante Planinc $ P, F, XX
+B03 défense Alekhine, attaque des quatre pions, variante Tartakover $ P, F, XX
+B03 défense Alekhine, attaque des quatre pions, variante Trifunovic $ P, F, XX
+B03 défense Alekhine, gambit O'Sullivan $ T, O, XX
+B03 défense Alekhine, variante Balogh $ P, O, XX
+B03 défense Alekhine, variante d’échange $ P, O, XX
+B03 défense Alekhine, variante d’échange, sous-variante Karpov $ P, O, XX
+B04 défense Alekhine, variante moderne $ P, O, XX
+B04 défense Alekhine, variante moderne, sous-variante du fianchetto $ P, O, XX
+B04 défense Alekhine, variante moderne, sous-variante Kérès $ P, O, XX
+B04 défense Alekhine, variante moderne, sous-variante Larsen $ P, O, XX
+B04 défense Alekhine, variante moderne, sous-variante Schmid $ P, O, XX
+B05 défense Alekhine, variante moderne (4...Fg4) $ P, O, XX
+B05 défense Alekhine, variante moderne, attaque Vitolins $ P, O, XX
+B05 défense Alekhine, variante moderne, sous-variante Alekhine $ P, O, XX
+B05 défense Alekhine, variante moderne, sous-variante Flohr $ P, O, XX
+B05 défense Alekhine, variante moderne, sous-variante Panov $ P, O, XX
+B06 défense norvégienne $ P, O, XX
+B06 défense Pirc (4.Fe3 Cf6) $ P, O, XX
+B06 défense Pirc $ P, O, XX
+B06 défense Robatsch (= moderne) (4.Fe3 b6) $ P, O, XX
+B06 défense Robatsch (= moderne) (4.Fe3 Cd7) $ P, O, XX
+B06 défense Robatsch (= moderne) (4.Fe3 Ch6) $ P, O, XX
+B06 défense Robatsch (= moderne) (4.Fe3 e5) $ P, O, XX
+B06 défense Robatsch (= moderne) (avec Fg5) $ P, O, XX
+B06 défense Robatsch (= moderne) (cf. B07, A41) $ P, F, XX
+B06 défense Robatsch (= moderne) $ P, F, XX
+B06 défense Robatsch (= moderne) $ P, F, XX
+B06 défense Robatsch (= moderne), attaque des trois pions $ T, F, XX
+B06 défense Robatsch (= moderne), variante des deux cavaliers $ P, F, XX
+B06 défense Robatsch (= moderne), variante des deux cavaliers, sous-variante Suttles $ P, F, XX
+B06 défense Robatsch (= moderne), variante Gourgenidze $ P, F, XX
+B06/01 défense Robatsch (= moderne), variante originelle (cf. B07) $ P, F, XX
+B06/02 défense Robatsch (= moderne), attaque des trois pions (cf. B07) $ T, F, XX
+B06/09 défense Robatsch (= moderne) (4.Fe3 a6) $ P, O, XX
+B06/09 défense Robatsch (= moderne), variante Gourgenidze (avec Fc4) $ P, O, XX
+B06/14 défense Robatsch (= moderne) (4.c4, cf. A41) $ P, F, XX
+B06/14 défense Robatsch (= moderne) (4.Fe2, cf. B07) $ P, O, XX
+B06/14 défense Robatsch (= moderne) (cf. B07) $ P, O, XX
+B06/14 défense Robatsch (= moderne), système Geller (cf. B07) $ P, O, XX
+B06/16 défense Robatsch (= moderne) (4.Fe3 c6) $ P, O, XX
+B06/17 défense Robatsch (= moderne) (4.Fc4) $ P, O, XX
+B06/19 défense Robatsch (= moderne), attaque pseudo-autrichienne (4.f4) $ T, O, XXI
+B07 défense Pirc (3.Cc3 c6) $ P, O, XX
+B07 défense Pirc (3.Fd3) $ P, O, XX
+B07 défense Pirc (cf. B06) $ P, O, XX
+B07 défense Pirc $ P, O, XX
+B07 défense Pirc $ P, O, XX
+B07 défense Pirc $ P, O, XX
+B07 défense Pirc $ P, O, XX
+B07 défense Pirc 150 attaque (4...Fg7) $ P, O, XX
+B07 défense Pirc, attaque à la bayonette (= Mariotti) $ T, O, XX
+B07 défense Pirc, système Holmov $ P, O, XX
+B07 défense Pirc, système Sveshnikov $ P, O, XX
+B07 défense Pirc, variante Byrne $ P, O, XX
+B07 défense Pirc, variante chinoise $ P, O, XX
+B07 défense Pirc, variante du pas $ P, O, XX
+B07 défense Pirc, variante est-indienne $ P, O, XX
+B07 défense Pirc, variante Ufimtsev - Pytel (= Pribyl) $ P, O, XX
+B07 défense Robatsch (cf. B06) $ P, O, XX
+B07/19 défense Pirc (5.Dd2) $ P, O, XX
+B08 défense Pirc, système classical (= deux cavaliers) (5.Fe2) $ P, O, XX
+B08 défense Pirc, système classical (= deux cavaliers) (5.h3) $ P, O, XX
+B08 défense Pirc, système classical (= deux cavaliers) $ P, O, XX
+B09 défense Pirc, attaque autrichienne (6.e5) $ P, F, XX
+B09 défense Pirc, attaque autrichienne (6.Fd3) $ P, F, XX
+B09 défense Pirc, attaque autrichienne (6.Fe3) $ P, O, XX
+B09 défense Pirc, attaque autrichienne $ P, O, XX
+B09 défense Pirc, attaque autrichienne, formation dragon $ P, O, XX
+B09 défense Pirc, attaque autrichienne, variante Ljubojevic $ P, O, XX
+B10 défense Caro-Kann $ P, O, XX
+B10 défense Caro-Kann, attaque Hillbilly $ T, O, XX
+B10 défense Caro-Kann, attaque Panov $ T, O, XX
+B10 défense Caro-Kann, attaque Panov, variante Gligoric $ T, O, XX
+B10 défense Caro-Kann, variante des deux cavaliers $ P, O, XX
+B10 défense Caro-Kann, variante fermée (= Breyer) $ P, F, XX
+B10 défense Caro-Kann, variante Goldman (= Spielmann) $ T, O, XX
+B11 défense Caro-Kann, variante des deux cavaliers (3...Fg4) $ T, O, XX
+B12 défense Caro-Kann $ P, O, NA
+B12 défense Caro-Kann, (3.Cd2) $ P, O, NA
+B12 défense Caro-Kann, variante d’avance $ P, O, XX
+B12 défense Caro-Kann, variante d’Edinbourg $ P, O, XX
+B12 défense Caro-Kann, variante Tartakover $ P, O, XX
+B12 défense Caro-Masi $ P, O, XX
+B12 défense de Bruycker $ P, F, NA
+B12/02 défense Caro-Kann (3.e5 c5) $ P, F, NA
+B12/16 défense Caro-Kann, variante d’avance, ligne principale $ P, O, XX
+B12/19 défense Caro-Kann, variante d’avance, sous-variante Karpov (= Seirawan) $ P, O, XX
+B12/23 défense Caro-Kann, système Gourgenidze (cf. B06) $ P, F, NA
+B13 défense Caro-Kann, attaque Panov (= Botvinnik) $ T, O, XX
+B13 défense Caro-Kann, attaque Panov (= Botvinnik), variante Czerniak $ T, O, XX
+B13 défense Caro-Kann, attaque Panov (= Botvinnik), variante Gunderam $ T, O, XX
+B13 défense Caro-Kann, attaque Panov (= Botvinnik), variante Herzog $ T, O, XX
+B13 défense Caro-Kann, attaque Panov (= Botvinnik), variante normale $ T, O, XX
+B13 défense Caro-Kann, attaque Panov (= Botvinnik), variante Reifir (= Spielmann) $ T, O, XX
+B13 défense Caro-Kann, variante d’échange $ P, O, XX
+B13 défense Caro-Kann, variante d’échange, sous-variante Rubinstein $ P, O, XX
+B14 défense Caro-Kann, attaque Panov (= Botvinnik) (5...e6) $ T, O, XX
+B14 défense Caro-Kann, attaque Panov (= Botvinnik) (5...g6) $ T, O, XXI
+B14/11 défense Caro-Kann, attaque Panov (= Botvinnik) (6.Cf3 Fe7, cf. D42) $ T, O, XXI
+B14/12 défense Caro-Kann, attaque Panov (= Botvinnik) (7.Fd3, cf. D42) $ T, O, XXI
+B14/17 défense Caro-Kann, attaque Panov (= Botvinnik) (6.Cf3 Fb4) $ T, O, XXI
+B14/18 défense Caro-Kann, attaque Panov (= Botvinnik) (6.Cf3 Fb4) $ T, O, XXI
+B15 défense Caro-Kann $ P, O, XIX
+B15 défense Caro-Kann, contre-attaque Gourgenidze $ T, O, NA
+B15 défense Caro-Kann, gambit Alekhine $ T, O, XX
+B15 défense Caro-Kann, gambit Rasa-Studier $ T, O, XX
+B15 défense Caro-Kann, variante Forgacs $ P, O, XX
+B15 défense Caro-Kann, variante Tartakover (= Nimzovitch) $ P, O, XX
+B15/02 défense Caro-Kann, système Gourgenidze (3...g6) $ T, O, NA
+B15/06 défense Caro-Kann, système Gourgenidze (avec e5, f4) $ T, O, NA
+B15/06 défense Caro-Kann, système Gourgenidze (avec f4, e5) $ T, O, NA
+B15/07 défense Caro-Kann, système Gourgenidze (avec f4, e5) $ T, O, NA
+B16 défense Caro-Kann, variante Bronstein-Larsen $ P, O, XX
+B17 défense Caro-Kann, variante Steinitz $ P, F, XIX
+B17/13 défense Caro-Kann, variante Steinitz (8.Fd3) $ P, F, XX
+B18 défense Caro-Kann, variante classique (6.h4) $ T, F, XIX
+B18 défense Caro-Kann, variante classique $ P, O, XIX
+B18 défense Caro-Kann, variante classique, attaque Maroczy $ T, F, XX
+B18 défense Caro-Kann, variante classique, sous-variante Flohr $ P, F, XX
+B19 défense Caro-Kann, variante classique (7...Cd7) $ P, F, XX
+B19 défense Caro-Kann, variante classique, sous-variante Spassky $ P, F, XX
+B20 défense sicilienne $ P, O, XV
+B20 défense sicilienne, attaque Burger $ T, O, XV
+B20 défense sicilienne, gambit de l’aile $ T, O, XIX
+B20 défense sicilienne, gambit de l’aile, variante de Karlsbad $ T, O, XX
+B20 défense sicilienne, gambit de l’aile, variante de Marienbad $ T, O, XX
+B20 défense sicilienne, gambit de l’aile, variante Marshall $ T, O, XIX
+B20 défense sicilienne, gambit de l’aile, variante Santasiere $ T, O, XX
+B20 défense sicilienne, variante Gloria $ P, O, NA
+B20 défense sicilienne, variante Kérès (2.Ce2) $ P, O, XX
+B20 défense sicilienne, variante Steinitz $ P, O, XIX
+B20/01 défense sicilienne, attaque néo-est-indienne (A04/16, A05/8, B30/1) $ T, O, XXI
+B21 défense sicilienne, attaque Grand Prix $ T, O, XX
+B21 défense sicilienne, gambit Smith-Morra $ T, O, XX
+B21 défense sicilienne, gambit Smith-Morra, variante Andreaschek $ T, O, XX
+B21 défense sicilienne, gambit Smith-Morra, variante de Chicago $ T, O, XX
+B22 défense sicilienne, variante Alapinee (...d5, exd5 Dxd5) $ P, O, XX
+B22 défense sicilienne, variante Alapinee (...d5, exd5 exd5) $ P, O, XX
+B22 défense sicilienne, variante Alapinee $ P, O, XX
+B22 défense sicilienne, variante Alapinee $ P, O, XX
+B22 défense sicilienne, variante Alapinee $ P, O, XX
+B22 défense sicilienne, variante Alapinee, sous-variante Heidenfeld $ P, O, XX
+B22/12 défense sicilienne, variante Alapinee (...d5, exd5 Dxd5) $ P, O, XX
+B22/12 défense sicilienne, variante Alapinee (...Dxd5 sans...Cf6) $ P, O, XX
+B22/13 défense sicilienne, variante Alapinee (...d5, exd5 Dxd5) $ P, O, XX
+B22/16 défense sicilienne, variante Alapinee (...d5, exd5 Dxd5) $ P, O, XX
+B22/19 défense sicilienne, variante Alapinee (gambit Smith-Morra décliné) $ T, O, XX
+B23 défense sicilienne, attaque Grand Prix $ T, O, XX
+B23 défense sicilienne, attaque Grand Prix, variante Schofman $ T, O, XX
+B23 défense sicilienne, variante du caméléon $ P, O, XX
+B23 défense sicilienne, variante fermée (2...Cc6) $ P, F, XX
+B23 défense sicilienne, variante fermée $ P, F, XX
+B23 défense sicilienne, variante fermée, sous-variante Kortchnoï $ P, F, XX
+B24 défense sicilienne, variante fermée $ P, O, XX
+B24 défense sicilienne, variante fermée, variante Botvinnik moderne $ P, O, XX
+B24 défense sicilienne, variante fermée, variante Smyslov $ P, O, XX
+B25 défense sicilienne, variante fermée (6.f4) $ T, F, XX
+B25 défense sicilienne, variante fermée $ P, O, XX
+B25 défense sicilienne, variante fermée, sous-variante Botvinnik (6.Ce2 e5) $ P, O, XX
+B25 défense sicilienne, variante fermée, sous-variante Botvinnik (6.f4 e5) $ P, O, XX
+B26 défense sicilienne, variante fermée (6.Fe3) $ P, O, XX
+B27 défense sicilienne $ P, O, XX
+B27 défense sicilienne, variante Acton $ P, O, XX
+B27 défense sicilienne, variante hongroise $ P, O, XX
+B27 défense sicilienne, variante Katalimov $ P, O, XX
+B27 défense sicilienne, variante Quinteros $ P, O, XX
+B27 défense sicilienne, variante Stiletto (= Althouse) $ P, O, XX
+B28 défense sicilienne, variante O'Kelly $ P, O, XX
+B29 défense sicilienne, variante Nimzovitch - Rubinstein $ P, O, XX
+B29 défense sicilienne, variante Nimzovitch - Rubinstein, contre-gambit Rubinstein $ T, O, XX
+B30 défense sicilienne $ P, O, XIX
+B30 défense sicilienne $ P, O, XIX
+B30 défense sicilienne, attaque les noirs gagnent $ T, O, XX
+B30 défense sicilienne, attaque Nimzovitch - Rossolimo (sans ...d6) $ T, O, XX
+B30 défense sicilienne, attaque Nimzovitch - Rossolimo, variante Zagrebelny $ T, O, XX
+B30/01 défense sicilienne, attaque néo-Réti-indienne en premier (A04/16, A05/8, B20/1) $ P, O, NA
+B31 défense sicilienne, attaque Nimzovitch - Rossolimo (avec ...g6, sans ...d6) $ T, O, XX
+B31 défense sicilienne, attaque Nimzovitch - Rossolimo, variante Gourgenidze $ T, O, XX
+B32 défense sicilienne $ P, O, XX
+B32 défense sicilienne, variante Flohr (= Lady Godiva) $ P, O, XX
+B32 défense sicilienne, variante Labourdonnais - Loewenthal (= Kalishnikov) $ P, O, XX
+B32 défense sicilienne, variante Labourdonnais - Loewenthal $ P, O, XX
+B32 défense sicilienne, variante Nimzovitch $ P, O, XX
+B32/10 défense sicilienne, variante Kalishnikov, système néo-Sveshnikov $ P, O, XX
+B32/13 défense sicilienne, variante Kalishnikov, système néo-Sveshnikov $ P, O, XX
+B33 défense sicilienne $ P, O, XX
+B33 défense sicilienne, variante Pelikan (= Lasker - Sveshnikov) $ P, F, XX
+B33 défense sicilienne, variante Pelikan, sous-variante Bird $ P, F, XX
+B33 défense sicilienne, variante Pelikan, sous-variante Chelyabinsk $ P, F, XX
+B33 défense sicilienne, variante Sveshnikov $ P, F, XX
+B33/09 défense sicilienne, variante Sveshnikov (avec a4, cf. B32) $ P, F, XX
+B33/17 défense sicilienne, variante Sveshnikov (5...e6, cf. B45, B33/42) $ P, F, XX
+B33/17 défense sicilienne, variante Sveshnikov, sous-variante Kramnik (12...e4) $ P, F, XX
+B33/42 défense sicilienne, variante Sveshnikov $ P, F, XX
+B34 défense sicilienne, système dragon accéléré, variante d’échange $ P, F, XX
+B34 défense sicilienne, système dragon accéléré, variante moderne $ P, O, XX
+B35 défense sicilienne, système dragon accéléré, variante moderne (avec Fc4) $ P, O, XX
+B36 défense sicilienne, système dragon accéléré, variante Gourgenidze $ P, O, XX
+B36 défense sicilienne, système dragon accéléré, variante Maroczy $ P, F, XX
+B37 défense sicilienne, système dragon accéléré, variante Maroczy (5...Fg7) $ P, F, XX
+B37 défense sicilienne, système dragon accéléré, variante Simaguine $ P, O, XX
+B38 défense sicilienne, système dragon accéléré, variante Maroczy (6.Fe3) $ P, F, XX
+B39 défense sicilienne, système dragon accéléré, variante Breyer $ P, O, XX
+B40 défense sicilienne $ P, O, XX
+B40 défense sicilienne, système indien en premier (cf. A08) $ P, O, XIX
+B40 défense sicilienne, système Réti, variante double fianchetto $ P, O, XIX
+B40 défense sicilienne, système Réti, variante fianchetto roi (...d5, Cbd2) $ P, O, XIX
+B40 défense sicilienne, système Réti, variante fianchetto roi (...d5, De2) $ P, O, XIX
+B40 défense sicilienne, système Réti, variante fianchetto roi $ P, O, XIX
+B40 défense sicilienne, variante Anderssen $ P, O, XIX
+B40 défense sicilienne, variante de clouage $ T, O, XX
+B40 défense sicilienne, variante de clouage, sous-variante Jaffe $ T, O, XX
+B40 défense sicilienne, variante de clouage, sous-variante Koch $ T, O, XX
+B40 défense sicilienne, variante Marshall $ T, O, XX
+B40/02 défense sicilienne, variante Alapinee, système français (avec c3, e5, ...d4) $ P, O, NA
+B40/03 défense sicilienne, système Réti, variante fianchetto roi (avec ...e6, Cc3, ...a6) $ P, O, NA
+B41 défense sicilienne, variante Kan $ P, O, XIX
+B41 défense sicilienne, variante Kan, système Maroczy (= Bronstein) $ P, F, XIX
+B41 défense sicilienne, variante Kan, système Maroczy (= Réti) $ P, F, XIX
+B42 défense sicilienne, variante Kan (5.Fd3) $ P, O, XX
+B42 défense sicilienne, variante Kan, sous-variante du fromage suisse $ P, O, XX
+B42 défense sicilienne, variante Kan, sous-variante Gipslis $ P, O, XX
+B42 défense sicilienne, variante Kan, sous-variante Polugaievsky $ P, O, XX
+B43 défense sicilienne, variante Kan (5.Cc3) $ P, O, XX
+B44 défense sicilienne $ P, O, XX
+B44 défense sicilienne, variante Szen (= anti-Taimanov) $ P, F, XX
+B44 défense sicilienne, variante Szen, gambit Dely - Kasparov $ P, F, XX
+B44 défense sicilienne, variante Szen, sous-variante du hérisson $ P, O, XX
+B45 défense sicilienne, variante Taimanov $ P, O, XX
+B45 défense sicilienne, variante Taimanov, attaque américaine $ P, O, XX
+B46 défense sicilienne, variante Taimanov $ P, O, XX
+B47 défense sicilienne, variante Taimanov, sous-variante Bastrikov $ P, O, XX
+B47/12 défense sicilienne, variante Taimanov, sous-variante Flohr (cf. B49) $ P, O, XX
+B48 défense sicilienne, variante Taimanov (6...a6) $ P, O, XX
+B49 défense sicilienne, variante Taimanov $ P, O, XX
+B49/10 défense sicilienne, variante Taimanov, sous-variante Portisch $ P, O, XX
+B50 défense sicilienne $ P, O, XX
+B50 défense sicilienne, gambit de l’aile wing différé $ T, O, XX
+B50 défense sicilienne, système Kopec $ P, O, XX
+B50 défense sicilienne, variante fermée, fianchetto roi (avec d3) $ P, O, XX
+B50/01 défense sicilienne (3.d3, cf. A04) $ P, O, XX
+B50/01 défense sicilienne (3.g3, cf. B20) $ P, O, XX
+B50/07 défense sicilienne, variante des quatre cavaliers, fianchetto roi $ P, O, XX
+B51 défense sicilienne, attaque Canal – Sokolsky (= Nimzovitch - Rossolimo, de Moscou) $ T, O, XX
+B51 défense sicilienne, attaque Nimzovitch - Rossolimo (3...d6) $ T, O, XX
+B52 défense sicilienne, attaque Canal - Sokolsky (3...Fd7) $ T, O, XX
+B52 défense sicilienne, attaque Canal - Sokolsky, gambit Bronstein $ T, O, XX
+B52 défense sicilienne, attaque Canal - Sokolsky, variante Sokolsky $ T, O, XX
+B53 défense sicilienne, variante Chekhover $ P, O, XX
+B53 défense sicilienne, variante Chekhover, sous-variante Zaitsev $ P, O, XX
+B54 défense sicilienne $ P, O, XX
+B54 défense sicilienne, variante Prins (= de Moscou) $ P, O, XX
+B54/02 défense sicilienne, variante Taimanov (5...d6) $ P, O, XX
+B55 défense sicilienne, variante Prins, attaque de Venise $ P, O, XX
+B56 défense sicilienne $ P, O, XX
+B56 défense sicilienne, attaque de Venise $ P, O, XX
+B57 défense sicilienne, piège de Magnus - Smith $ T, O, XX
+B57 défense sicilienne, variante Sozine (sauf transpositions Scheveningue) $ P, O, XX
+B57 défense sicilienne, variante Sozine, sous-variante Benkö $ P, O, XX
+B58 défense sicilienne, variante Boleslavsky $ P, O, XX
+B58 défense sicilienne, variante Boleslavsky, sous-variante Louma $ P, O, XX
+B58 défense sicilienne, variante classique $ P, O, XX
+B59 défense sicilienne, variante Boleslavsky (7.Cb3) $ P, O, XX
+B60 défense sicilienne, variante Richter - Rauser $ P, O, XX
+B60 défense sicilienne, variante Richter - Rauser, sous-variante Bondarevsky $ P, O, XX
+B60 défense sicilienne, variante Richter - Rauser, sous-variante Larsen $ P, O, XX
+B61 défense sicilienne, variante Richter - Rauser, sous-variante Larsen (7.Dd2) $ P, O, XX
+B62 défense sicilienne, variante Richter – Rauser (6...e6) $ P, O, XX
+B62 défense sicilienne, variante Richter - Rauser, attaque Richter $ P, O, XX
+B62 défense sicilienne, variante Richter - Rauser, sous-variante Kérès $ P, O, XX
+B62 défense sicilienne, variante Richter - Rauser, sous-variante Margate (= Alekhine) $ P, O, XX
+B62 défense sicilienne, variante Richter - Rauser, sous-variante Podvebrady $ P, O, XX
+B63 défense sicilienne, variante Richter - Rauser, attaque Rauser (7.Dd2) $ P, O, XX
+B63/11 défense sicilienne, variante Richter - Rauser, attaque Rauser (= Fedorowicz) (cf. B60) $ P, O, XX
+B64 défense sicilienne, variante Richter - Rauser, attaque Rauser (avec ...Fe7, ...f4) $ P, O, XX
+B64 défense sicilienne, variante Richter - Rauser, attaque Rauser, sous-variante Geller $ P, O, XX
+B65 défense sicilienne, variante Richter - Rauser, attaque Rauser (avec ...Cxd4) $ P, O, XX
+B66 défense sicilienne, variante Richter - Rauser, attaque Rauser (avec ...a6) $ P, O, XX
+B66/07 défense sicilienne, variante Richter - Rauser, attaque Rauser (avec ...a6, ...h6) $ P, O, XX
+B67 défense sicilienne, variante Richter - Rauser, attaque Rauser (avec ...a6, ...Fd7) $ P, O, XX
+B68 défense sicilienne, variante Richter - Rauser, attaque Rauser (avec ...a6, ...Fe7) $ P, O, XX
+B68 défense sicilienne, variante Richter - Rauser, attaque Rauser (9.Fe2) $ T, O, XX
+B68/02 défense sicilienne, variante Richter - Rauser, attaque Rauser (11.a3) $ T, O, XX
+B68/02 défense sicilienne, variante Richter - Rauser, attaque Rauser (11.Fd3) $ T, O, XX
+B68/02 défense sicilienne, variante Richter - Rauser, attaque Rauser (11.Rb1) $ T, O, XX
+B68/03 défense sicilienne, variante Richter - Rauser, attaque Rauser (11.e5) $ T, O, XX
+B69 défense sicilienne, variante Richter - Rauser, attaque Rauser (avec ...a6 11.Fxf6) $ T, O, XX
+B70 défense sicilienne, variante du dragon $ T, O, XX
+B71 défense sicilienne, variante du dragon, sous-variante Levenfish $ T, O, XX
+B71 défense sicilienne, variante du dragon, sous-variante Levenfish - Flohr $ T, O, XX
+B72 défense sicilienne, variante du dragon (6.Fe3) $ T, O, XX
+B72 défense sicilienne, variante du dragon, système classique $ T, O, XX
+B72 défense sicilienne, variante du dragon, système classique, sous-variante d’Amsterdam $ T, O, XX
+B72 défense sicilienne, variante du dragon, système classique, sous-variante Grigoriev $ T, O, XX
+B72 défense sicilienne, variante du dragon, système classique, sous-variante Nottingham $ T, O, XX
+B73 défense sicilienne, variante du dragon, système classique (8.O-O) $ T, O, XX
+B73 défense sicilienne, variante du dragon, système classique, gambit Zollner $ T, O, XX
+B73 défense sicilienne, variante du dragon, système classique, sous-variante Richter $ T, O, XX
+B74 défense sicilienne, variante du dragon, système classique (9.Cb3) $ T, O, XX
+B74 défense sicilienne, variante du dragon, système classique, attaque de Stockholm $ T, O, XX
+B74 défense sicilienne, variante du dragon, système classique, contre-attaque Bernard $ T, O, XX
+B74 défense sicilienne, variante du dragon, système classique, sous-variante Alekhine $ T, O, XX
+B74 défense sicilienne, variante du dragon, système classique, sous-variante Réti - Tartakover $ T, O, XX
+B74 défense sicilienne, variante du dragon, système classique, sous-variante Spielmann $ T, O, XX
+B75 défense sicilienne, variante du dragon, système yougoslave $ T, O, XX
+B76 défense sicilienne, variante du dragon, système yougoslave (7...O-O) $ T, O, XX
+B76 défense sicilienne, variante du dragon, système yougoslave, sous-variante Rauser $ T, O, XX
+B77 défense sicilienne, variante du dragon, système yougoslave (9...Fd7) $ T, O, XX
+B77 défense sicilienne, variante du dragon, système yougoslave (9.Fc4) $ T, O, XX
+B77 défense sicilienne, variante du dragon, système yougoslave, sous-variante Byrne $ T, O, XX
+B78 défense sicilienne, variante du dragon, système yougoslave (10.O-O-O) $ T, O, XX
+B79 défense sicilienne, variante du dragon, système yougoslave (12.h4) $ T, O, XX
+B80 défense sicilienne, variante de Scheveningue $ T, O, XX
+B80 défense sicilienne, variante de Scheveningue, sous-variante anglaise $ T, O, XX
+B80 défense sicilienne, variante de Scheveningue, sous-variante fianchetto roi (6.g3) $ T, O, XX
+B80 défense sicilienne, variante de Scheveningue, sous-variante Vitolins $ T, O, XX
+B80/03 défense sicilienne, variante de Scheveningue, sous-variante fianchetto roi $ T, O, XX
+B81 défense sicilienne, variante de Scheveningue, attaque Kérès $ T, O, XX
+B82 défense sicilienne, variante de Scheveningue (6.f4 e6, cf. B93) $ T, O, XX
+B82 défense sicilienne, variante de Scheveningue (6.f4) $ T, O, XX
+B82 défense sicilienne, variante de Scheveningue, sous-variante Tal $ T, O, XX
+B83 défense sicilienne, variante de Scheveningue (6.Fe2) $ T, O, XX
+B83 défense sicilienne, variante de Scheveningue moderne $ T, O, XX
+B83 défense sicilienne, variante de Scheveningue moderne, ligne principale (avec Cb3) $ T, O, XX
+B83 défense sicilienne, variante de Scheveningue moderne, ligne principale $ T, O, XX
+B83/04 défense sicilienne, variante de Scheveningue moderne, ligne principale (cf. B85) $ T, O, XX
+B84 défense sicilienne, variante de Scheveningue, système classique $ T, O, XX
+B84 défense sicilienne, variante de Scheveningue, système classique (avec …Cd7) $ T, O, XX
+B85 défense sicilienne, variante de Scheveningue, système classique $ T, O, XX
+B85 défense sicilienne, variante de Scheveningue, système classique, ligne principale $ T, O, XX
+B85 défense sicilienne, variante de Scheveningue, système classique (avec ...Dc7 &...Cc6) $ T, O, XX
+B85/01 défense sicilienne, variante de Scheveningue, ligne principale moderne $ T, O, XX
+B85/01 défense sicilienne, variante de Scheveningue, système classique (avec Cdb5) $ T, O, XX
+B85/04 défense sicilienne, variante de Scheveningue, ligne principale moderne $ T, O, XX
+B85/14 défense sicilienne, variante de Scheveningue, ligne principale moderne (avec ...Db8) $ T, O, XX
+B85/15 défense sicilienne, variante de Scheveningue, ligne principale moderne (avec ...Fd7, De1) $ T, O, XX
+B85/19 défense sicilienne, variante de Scheveningue, ligne principale moderne $ T, O, XX
+B85/23 défense sicilienne, variante de Scheveningue, système classique, sous-variante Maroczy (avec ...b6) $ T, O, XX
+B85/30 défense sicilienne, variante de Scheveningue, système classique, sous-variante Maroczy $ T, O, XX
+B86 défense sicilienne, variante Sozine (6.Fc4) $ T, O, XX
+B87 défense sicilienne, variante Sozine (avec ...a6 &...b5) $ T, O, XX
+B88 défense sicilienne, variante Sozine, sous-variante Fischer $ T, O, XX
+B88 défense sicilienne, variante Sozine, sous-variante Leonhardt $ T, O, XX
+B89 défense sicilienne, attaque Velimirovic $ T, O, XX
+B89 défense sicilienne, variante Sozine (7.Fe3) $ T, O, XX
+B90 défense sicilienne, variante Najdorf $ T, O, XX
+B90 défense sicilienne, variante Najdorf, attaque Adams $ T, O, XX
+B90 défense sicilienne, variante Najdorf, attaque Byrne (= anglaise) $ T, O, XX
+B90 défense sicilienne, variante Najdorf, attaque Lipnitzky $ T, O, XX
+B90/04 défense sicilienne, variante Najdorf, attaque Byrne - Almasi $ T, O, XX
+B91 défense sicilienne, variante Najdorf, sous-variante de Zagreb (= fianchetto roi) $ T, O, XX
+B92 défense sicilienne, variante Najdorf, sous-variante Opovcensky $ T, O, XX
+B93 défense sicilienne, variante Najdorf (6.f4) $ T, O, XX
+B94 défense sicilienne, variante Najdorf (6.Fg5) $ T, O, XX
+B94 défense sicilienne, variante Najdorf, sous-variante Ivkov $ T, O, XX
+B95 défense sicilienne, variante Najdorf (6...e6) $ T, O, XX
+B96 défense sicilienne, variante Najdorf (7.f4) $ T, O, XX
+B96 défense sicilienne, variante Najdorf, sous-variante Polugayevsky $ T, O, XX
+B96 défense sicilienne, variante Najdorf, sous-variante Polugayevsky, ligne Simaguine $ T, O, XX
+B97 défense sicilienne, variante Najdorf (7...Db6) $ T, O, XX
+B97 défense sicilienne, variante Najdorf, gambit du pion empoisonné $ T, O, XX
+B98 défense sicilienne, variante Najdorf (7...Fe7) $ T, O, XX
+B98 défense sicilienne, variante Najdorf $ T, O, XX
+B98 défense sicilienne, variante Najdorf, sous-variante Browne $ T, O, XX
+B98 défense sicilienne, variante Najdorf, sous-variante de Göteborg (= d’Argentine) $ T, O, XX
+B99 défense sicilienne, variante Najdorf (7...Fe7), ligne principale $ T, O, XX
+C00 défense française $ P, O, XVII
+C00 défense française $ P, O, XVIII
+C00 défense française $ P, O, XIX
+C00 défense française, attaque est-indienne $ T, O, XX
+C00 défense française, attaque Steinitz $ T, O, XIX
+C00 défense française, formation défense Philidor inversée $ P, F, XIX
+C00 défense française, variante Alapinee $ T, O, XIX
+C00 défense française, variante des deux cavaliers $ P, O, XVIII
+C00 défense française, variante Labourdonnais $ P, O, XIX
+C00 défense française, variante Pelikan $ P, O, XX
+C00 défense française, variante Réti (= Spielmann) $ T, O, XX
+C00 défense française, variante Schlechter $ T, O, XX
+C00 défense française, variante Steiner $ P, O, XX
+C00 défense française, variante Tchigorine $ P, O, XIX
+C00 défense St.-Georges $ P, O, NA
+C00 système Lengfellner $ P, O, NA
+C00/11 défense française, gambit de l’aile $ T, O, NA
+C01 défense française, variante d’échange (3.Cc3) $ P, O, XIX
+C01 défense française, variante d’échange $ P, O, XVIII
+C01 défense française, variante d’échange, sous-variante Bogolioubof $ T, O, XX
+C01 défense française, variante d’échange, sous-variante Svenonius $ T, O, XX
+C01/01 défense française, variante d’échange, sous-variante Blackburne $ T, O, XX
+C02 défense française, variante d’avance $ P, O, XVIII
+C02 défense française, variante d’avance $ P, O, XIX
+C02 défense française, variante d’avance, attaque Paulsen $ T, O, XIX
+C02 défense française, variante d’avance, sous-variante Euwe $ P, O, XX
+C02 défense française, variante d’avance, sous-variante Milner-Barry $ P, O, XX
+C02 défense française, variante d’avance, sous-variante Nimzovitch $ T, O, XX
+C02 défense française, variante d’avance, sous-variante Steinitz $ P, O, XIX
+C02 défense française, variante d’avance, sous-variante Wade $ P, O, XX
+C02 défense française, variante d’avance, système Nimzovitch $ T, O, XX
+C03 défense française, variante Tarrasch $ P, O, XIX
+C03 défense française, variante Tarrasch, sous-variante Guimard $ P, O, XX
+C03 défense française, variante Tarrasch, sous-variante Haberditz $ T, O, XX
+C04 défense française, variante Tarrasch, sous-variante Guimard, ligne principale $ P, F, XIX
+C05 défense française, variante Tarrasch, sous-variante Botvinnik $ P, F, XX
+C05 défense française, variante Tarrasch, sous-variante fermée $ P, F, XX
+C06 défense française, variante Tarrasch, sous-variante de Léningrad $ P, F, XX
+C06 défense française, variante Tarrasch, sous-variante fermée, ligne principale $ P, F, XX
+C07 défense française, variante Tarrasch, sous-variante Eliskases $ T, F, XX
+C07 défense française, variante Tarrasch, sous-variante ouverte $ P, O, XX
+C08 défense française, variante Tarrasch, sous-variante ouverte (4.exd5 exd5 5.Cgf3) $ P, O, XX
+C09 défense française, variante Tarrasch, sous-variante ouverte, ligne principale $ P, F, XX
+C09/02 défense française, variante Tarrasch, sous-variante ouverte (= Hübner) $ P, F, XX
+C09/17 défense française, variante Tarrasch, sous-variante ouverte, ligne principale (cf. C09/05) $ P, F, XX
+C10 défense française, variante Fort Knox $ P, F, XXI
+C10 défense française, variante Frere (= Becker) $ P, F, XX
+C10 défense française, variante Marshall $ P, F, XX
+C10 défense française, variante Paulsen $ P, F, XIX
+C10 défense française, variante Rubinstein $ P, F, XIX
+C10 défense française, variante Rubinstein, ligne Capablanca $ P, F, XX
+C11 défense française $ P, O, XVII
+C11 défense française, variante Burn $ P, O, XVIII
+C11 défense française, variante Henneberger $ P, O, XVIII
+C11 défense française, variante Steinitz $ P, O, XIX
+C11 défense française, variante Steinitz, attaque Bradford $ T, O, XX
+C11 défense française, variante Steinitz, attaque Gledhill $ T, O, XX
+C11 défense française, variante Steinitz, sous-variante Boleslavsky $ T, O, XX
+C11 défense française, variante Steinitz, sous-variante Brodsky-Jones $ T, O, XX
+C11 défense française, variante suisse $ P, O, XIX
+C12 défense française, variante Mac Cutcheon $ P, O, XX
+C12 défense française, variante Mac Cutcheon, sous-variante Bernstein $ T, O, XX
+C12 défense française, variante Mac Cutcheon, sous-variante Bogolioubof $ T, O, XX
+C12 défense française, variante Mac Cutcheon, sous-variante d’avance $ P, O, XX
+C12 défense française, variante Mac Cutcheon, sous-variante Dr. Olland (= hollandaise) $ T, O, XX
+C12 défense française, variante Mac Cutcheon, sous-variante Duras $ P, O, XX
+C12 défense française, variante Mac Cutcheon, sous-variante Grigoriev $ T, O, XX
+C12 défense française, variante Mac Cutcheon, sous-variante Janowski $ P, O, XX
+C12 défense française, variante Mac Cutcheon, sous-variante Lasker (8...g6) $ T, O, XX
+C12 défense française, variante Mac Cutcheon, sous-variante Lasker $ T, O, XX
+C12 défense française, variante Mac Cutcheon, sous-variante Tartakover $ P, O, XX
+C12 défense française, variante Mac Cutcheon, sous-variante Tchigorine $ P, O, XIX
+C13 défense française, attaque Albin – Alekhine - Chatard $ T, O, XIX
+C13 défense française, attaque Albin – Alekhine - Chatard, variante Breyer $ T, O, XX
+C13 défense française, attaque Albin – Alekhine - Chatard, variante Maroczy $ T, O, XIX
+C13 défense française, attaque Albin – Alekhine - Chatard, variante Spielmann $ T, O, XX
+C13 défense française, attaque Albin – Alekhine - Chatard, variante Teichmann $ T, O, XX
+C13 défense française, système classique $ P, O, XIX
+C13 défense française, système classique, variante Anderssen - Richter $ T, O, XIX
+C13 défense française, système classique, variante Anderssen $ P, O, XIX
+C13 défense française, système classique, variante de Francfort $ P, O, XX
+C13 défense française, système classique, variante Tartakover $ P, O, XIX
+C13 défense française, système classique, variante Vistaneckis (= Nimzovitch) $ T, O, XX
+C14 défense française, système classique $ P, O, XIX
+C14 défense française, système classique, variante Alapinee $ T, O, XIX
+C14 défense française, système classique, variante Pollock $ P, O, XX
+C14 défense française, système classique, variante Rubinstein $ P, O, XIX
+C14 défense française, système classique, variante Stahlberg $ P, O, XX
+C14 défense française, système classique, variante Steinitz $ P, O, XIX
+C14 défense française, système classique, variante Tarrasch $ P, O, XIX
+C15 défense française, variante variante Winawer $ P, O, XIX
+C15 défense française, variante Winawer, gambit Alekhine (= Maroczy) $ T, O, XIX
+C15 défense française, variante Winawer, gambit Alekhine $ T, O, XIX
+C15 défense française, variante Winawer, gambit Alekhine, sous-variante Alatortsev $ T, O, XIX
+C15 défense française, variante Winawer, gambit Alekhine, sous-variante Kan $ T, O, XIX
+C15 défense française, variante Winawer, variante Kondratiyev $ P, O, XX
+C15 défense française, variante Winawer, variante Nimzovitch $ T, O, XIX
+C16 défense française, variante Winawer, variante d’avance $ P, O, XIX
+C16 défense française, variante Winawer, variante Petrosian $ P, O, XX
+C17 défense française, variante Winawer, variante d’avance (5.a3) $ P, O, XX
+C17 défense française, variante Winawer, variante d’avance $ P, O, XIX
+C17 défense française, variante Winawer, variante d’avance, sous-variante Bogolioubof $ T, O, XX
+C17 défense française, variante Winawer, variante d’avance, sous-variante Rauser $ P, O, XX
+C17/04 défense française, variante Winawer, variante d’avance, sous-variante russe (5.Dg4) $ T, O, XX
+C18 défense française, variante Winawer, variante classique $ P, O, XIX
+C18 défense française, variante Winawer, variante d’avance $ P, O, XIX
+C18/02 défense française, variante Winawer, variante classique (7.Cf3) $ P, O, XX
+C18/06 défense française, variante Winawer, variante d’avance (7.h4) $ P, O, XX
+C18/07 défense française, variante Winawer, variante d’avance (sans 7...Dc7) $ P, O, XX
+C18/15 défense française, variante Winawer, variante d’avance, sous-variante pion empoisonné, ligne Euwe - Gligoric $ T, F, XX
+C18/15 défense française, variante Winawer, variante d’avance, sous-variante pion empoisonné, ligne Konstantinopolsky $ T, F, XX
+C19 défense française, variante Winawer, variante d’avance (6...Ce7) $ P, O, XX
+C19 défense française, variante Winawer, variante d’avance, ligne principale positionnelle $ P, F, XX
+C19 défense française, variante Winawer, variante d’avance, variante Smyslov $ P, O, XX
+C19/05 défense française, variante Winawer, variante d’avance, ligne principale positionnelle (avec ...Dc7) $ P, F, XX
+C20 début du pion roi $ P, O, XV
+C20 ouverture Alapinee $ P, O, XX
+C20 ouverture de mazette $ P, O, NA
+C20 ouverture indienne $ P, O, XVIII
+C20 ouverture Lopez $ P, O, XV
+C20 ouverture Mengarini $ P, O, XX
+C20 ouverture Napoléon $ P, O, NA
+C20 ouverture tête de roi $ P, O, NA
+C21 gambit danois $ T, O, XV
+C21 gambit danois, défense Collijn $ T, O, NA
+C21 gambit danois, défense Schlechter $ T, O, NA
+C21 gambit danois, défense Sörensen $ T, O, NA
+C21 gambit Halasz $ T, O, NA
+C21 ouverture du centre $ P, O, NA
+C21 ouverture du centre, variante Kieseritsky $ P, O, NA
+C22 ouverture du centre $ P, O, NA
+C22 ouverture du centre, attaque Paulsen $ P, O, NA
+C22 ouverture du centre, variante Berger $ P, O, NA
+C22 ouverture du centre, variante Charousek $ P, O, NA
+C22 ouverture du centre, variante Hall $ P, O, NA
+C22 ouverture du centre, variante Kupreichik $ P, O, NA
+C22 ouverture du centre, variante l'Hermet $ P, O, NA
+C23 ouverture du fou $ P, O, NA
+C23 ouverture du fou, contre-attaque défense Philidor $ P, O, NA
+C23 ouverture du fou, contre-gambit calabrais $ T, O, NA
+C23 ouverture du fou, contre-gambit calabrais, variante Jänisch $ T, O, NA
+C23 ouverture du fou, contre-gambit Lewis $ T, O, NA
+C23 ouverture du fou, double gambit Mac Donnell $ T, O, NA
+C23 ouverture du fou, gambit de l’aile $ T, O, NA
+C23 ouverture du fou, gambit des quatre pions $ T, O, NA
+C23 ouverture du fou, gambit Lewis $ T, O, NA
+C23 ouverture du fou, gambit Lopez $ T, O, NA
+C23 ouverture du fou, variante classique $ P, O, NA
+C23 ouverture du fou, variante défense Philidor $ P, O, NA
+C23 ouverture du fou, variante del Rio $ P, O, NA
+C23 ouverture du fou, variante Lisitsine $ P, O, NA
+C23 ouverture du fou, variante Pratt $ P, O, NA
+C24 ouverture du fou, attaque Burger $ P, O, NA
+C24 ouverture du fou, défense de Berlin $ P, F, XIX
+C24 ouverture du fou, gambit Greco $ T, O, NA
+C24 ouverture du fou, gambit Ponziani $ T, O, XVIII
+C24 ouverture du fou, gambit Urusov $ T, O, XVIII
+C24 ouverture du fou, gambit Urusov, variante Panov $ T, O, XVIII
+C24/02 ouverture du fou (avec 3.d3) $ P, O, NA
+C25 ouverture viennoise $ P, O, XVIII
+C25 ouverture viennoise, contre-gambit Zhuravlev $ T, O, NA
+C25 ouverture viennoise, défense Max Lange $ P, O, XIX
+C25 ouverture viennoise, gambit Byfe $ T, O, NA
+C25 ouverture viennoise, gambit de Vienne $ T, O, XIX
+C25 ouverture viennoise, gambit Hamppe - Allgaier $ T, O, NA
+C25 ouverture viennoise, gambit Hamppe - Allgaier, variante Alapinee $ T, O, NA
+C25 ouverture viennoise, gambit Hamppe - Muzio $ T, O, NA
+C25 ouverture viennoise, gambit Hamppe - Muzio, variante Dubois $ T, O, NA
+C25 ouverture viennoise, gambit Pierce $ T, O, NA
+C25 ouverture viennoise, gambit Pierce, attaque Tushmere $ T, O, NA
+C25 ouverture viennoise, gambit Steinitz $ T, O, NA
+C25 ouverture viennoise, gambit Steinitz, défense Zukertort $ T, O, NA
+C25 ouverture viennoise, gambit Steinitz, variante Fraser-Minckwitz $ T, O, NA
+C25 ouverture viennoise, variante Paulsen $ P, O, XIX
+C26 ouverture viennoise $ P, O, XIX
+C26 ouverture viennoise, variante Falkbeer $ P, O, XIX
+C26 ouverture viennoise, variante Mengarini $ P, O, NA
+C26 ouverture viennoise, variante Paulsen - Mieses $ P, O, NA
+C26/09 ouverture viennoise (avec Fc4, ...Fc5) (aujourd’hui, joué avec 2.Fc4 [Adams]) $ P, O, NA
+C27 gambit Foden - Kieseritsky (cf. C42) $ T, O, NA
+C27 gambit Foden – Kieseritsky, défense Lichtenhein (cf. C42) $ T, O, NA
+C27 ouverture viennoise $ P, O, NA
+C27 ouverture viennoise, gambit Adams $ T, O, NA
+C27 ouverture viennoise, variante Alekhine $ P, O, XX
+C27 ouverture viennoise, variante Frankenstein - Dracula $ P, O, XX
+C28 ouverture viennoise (4.d3) $ P, O, NA
+C29 gambit viennois $ T, O, NA
+C29 gambit viennois, attaque Paulsen $ T, O, NA
+C29 gambit viennois, piège Wurzburgeois $ T, O, NA
+C29 gambit viennois, variante Bardeleben $ T, O, NA
+C29 gambit viennois, variante Breyer $ T, O, NA
+C29 gambit viennois, variante Heyde $ T, O, NA
+C29 gambit viennois, variante Kaufmann $ T, O, NA
+C29 gambit viennois, variante Steinitz $ T, O, NA
+C30 gambit roi $ T, O, XVIII
+C30 gambit roi refusé (2...Cf6) $ P, O, NA
+C30 gambit roi refusé, défense de la Mafia $ P, O, NA
+C30 gambit roi refusé, défense Keene $ P, O, NA
+C30 gambit roi refusé, variante classique (4.c3) $ P, O, XIX
+C30 gambit roi refusé, variante classique $ P, O, XIX
+C30 gambit roi refusé, variante classique, attaque Marshall $ P, O, XX
+C30 gambit roi refusé, variante classique, contre-gambit $ T, O, XX
+C30 gambit roi refusé, variante classique, sous-variante Hanham $ P, O, XIX
+C30 gambit roi refusé, variante classique, sous-variante Heath $ P, O, NA
+C30 gambit roi refusé, variante classique, sous-variante Réti $ P, O, XX
+C30 gambit roi refusé, variante classique, sous-variante Soldatenkov $ P, O, NA
+C30 gambit roi refusé, variante classique, sous-variante Svenonius $ P, O, XX
+C30 gambit roi refusé, variante Norwalde $ P, O, NA
+C30 gambit roi refusé, variante Norwalde, gambit Buecker $ T, O, NA
+C31 gambit roi refusé, contre-gambit Falkbeer (3...e4) $ T, O, XIX
+C31 gambit roi refusé, contre-gambit Falkbeer (4.d3) $ T, O, XIX
+C31 gambit roi refusé, contre-gambit Falkbeer $ T, O, XIX
+C31 gambit roi refusé, contre-gambit Falkbeer, gambit Morphy $ T, O, XIX
+C31 gambit roi refusé, contre-gambit Falkbeer, variante Milner-Barry $ T, O, XX
+C31 gambit roi refusé, contre-gambit Falkbeer, variante Nimzovitch $ T, O, XX
+C31 gambit roi refusé, contre-gambit Falkbeer, variante Rubinstein $ T, O, XX
+C31 gambit roi refusé, contre-gambit Falkbeer, variante Tartakover $ T, O, XX
+C31 gambit roi refusé, contre-gambit Nimzovitch $ T, O, XX
+C32 gambit roi refusé, contre-gambit Falkbeer (5.dxe4) $ T, O, XX
+C32 gambit roi refusé, contre-gambit Falkbeer, ligne principale (7...Ff5) $ T, O, XX
+C32 gambit roi refusé, contre-gambit Falkbeer, variante Alapinee $ T, O, XX
+C32 gambit roi refusé, contre-gambit Falkbeer, variante Charousek $ T, O, XX
+C32 gambit roi refusé, contre-gambit Falkbeer, variante Kérès $ T, O, XX
+C32 gambit roi refusé, contre-gambit Falkbeer, variante Réti $ T, O, XX
+C32 gambit roi refusé, contre-gambit Falkbeer, variante Tarrasch $ T, O, XX
+C33 gambit roi accepté $ T, O, XVIII
+C33 gambit roi accepté, contre-gambit Lopez-Gianutio, variante Hein $ T, O, XIX
+C33 gambit roi accepté, gambit Breyer $ T, O, XX
+C33 gambit roi accepté, gambit Carrera (= Basman) $ T, O, XX
+C33 gambit roi accepté, gambit du fou $ T, O, XVIII
+C33 gambit roi accepté, gambit du fou réduit (Petrofff – Jänisch - Tartakover) $ T, O, XX
+C33 gambit roi accepté, gambit du fou, attaque Mc Donnell $ T, O, XX
+C33 gambit roi accepté, gambit du fou, attaque Paulsen $ T, O, XX
+C33 gambit roi accepté, gambit du fou, attaque Tchigorine $ T, O, XX
+C33 gambit roi accepté, gambit du fou, attaqueGrimm $ T, O, XX
+C33 gambit roi accepté, gambit du fou, contre-gambit Bryan $ T, O, XX
+C33 gambit roi accepté, gambit du fou, contre-gambit Lopez-Gianutio $ T, O, XX
+C33 gambit roi accepté, gambit du fou, défense Boden $ T, O, XX
+C33 gambit roi accepté, gambit du fou, défense classique $ P, O, XVIII
+C33 gambit roi accepté, gambit du fou, défense classique, attaque Cozio $ P, O, XIX
+C33 gambit roi accepté, gambit du fou, défense Cozio (= Morphy) $ P, O, XVIII
+C33 gambit roi accepté, gambit du fou, défense ouverture espagnole (= Ruy Lopez) $ P, O, XV
+C33 gambit roi accepté, gambit du fou, défense Steinitz $ P, O, XVIII
+C33 gambit roi accepté, gambit du fou, Maurian défense $ P, O, XVIII
+C33 gambit roi accepté, gambit du fou, variante Anderssen $ P, O, XVIII
+C33 gambit roi accepté, gambit du fou, variante Bledow $ P, O, XVIII
+C33 gambit roi accepté, gambit du fou, variante Bogolioubof $ P, O, XX
+C33 gambit roi accepté, gambit du fou, variante Boren-Svenonius $ P, O, XX
+C33 gambit roi accepté, gambit du fou, variante Fraser $ P, O, XX
+C33 gambit roi accepté, gambit du fou, variante Gifford $ P, O, XX
+C33 gambit roi accepté, gambit du fou, variante Greco $ P, O, XVIII
+C33 gambit roi accepté, gambit du fou, variante Jänisch $ P, O, XVIII
+C33 gambit roi accepté, gambit du fou, variante Morphy $ P, O, XVIII
+C33 gambit roi accepté, gambit du pion (= Stamma) $ T, O, XVIII
+C33 gambit roi accepté, gambit Kérès (= Mason - Steinitz) $ T, O, XX
+C33 gambit roi accepté, gambit Orsini $ T, O, XX
+C33 gambit roi accepté, gambit Rumbleweed $ T, O, XX
+C33 gambit roi accepté, gambit Schurig $ T, O, XX
+C33 gambit roi accepté, gambit Villemson (= Steinitz) $ T, O, XX
+C34 gambit roi accepté, contre-gambit Gianutio $ T, O, XX
+C34 gambit roi accepté, défense Becker $ P, O, XVIII
+C34 gambit roi accepté, défense Fischer $ P, O, XX
+C34 gambit roi accepté, défense Schallop $ P, O, XVIII
+C34 gambit roi accepté, gambit du cavalier roi $ T, O, XX
+C34 gambit roi accepté, variante Bonsch - Osmolovsky $ P, O, XX
+C35 gambit roi accepté, défense Cunningham $ P, O, XVIII
+C35 gambit roi accepté, défense Cunningham, défense Euwe $ P, O, XX
+C35 gambit roi accepté, défense Cunningham, gambit Bertin $ T, O, XX
+C35 gambit roi accepté, défense Cunningham, gambit des trois pions $ T, O, XX
+C36 gambit roi accepté, défense Abbazia (défense classique, défense moderne) $ P, O, XX
+C36 gambit roi accepté, défense Abbazia, variante Botvinnik $ P, O, XX
+C36 gambit roi accepté, défense Abbazia, variante moderne $ P, O, XX
+C36 gambit roi accepté, double gambit Muzio $ T, O, XX
+C36 gambit roi accepté, gambit Blachly $ T, O, XX
+C36 gambit roi accepté, gambit Cochrane $ T, O, XX
+C36 gambit roi accepté, gambit du cavalier roi $ T, O, XX
+C36 gambit roi accepté, gambit Ghulam Rassim $ T, O, XX
+C36 gambit roi accepté, gambit Herzfeld $ T, O, XX
+C36 gambit roi accepté, gambit Lolli (= gambit Muzio sauvage) $ T, O, XX
+C36 gambit roi accepté, gambit Lolli, variante Young $ T, O, XX
+C36 gambit roi accepté, gambit Mac Donnell $ T, O, XX
+C36 gambit roi accepté, gambit Muzio $ T, O, XX
+C36 gambit roi accepté, gambit Muzio, contre-attaque Kling - Horwitz $ T, O, XX
+C36 gambit roi accepté, gambit Muzio, défense Brentano $ T, O, XX
+C36 gambit roi accepté, gambit Muzio, défense From $ T, O, XX
+C36 gambit roi accepté, gambit Muzio, défense Holloway $ T, O, XX
+C36 gambit roi accepté, gambit Quaade $ T, O, XX
+C36 gambit roi accepté, gambit Rosentreter $ T, O, XX
+C36 gambit roi accepté, gambit Salvio $ T, O, XX
+C36 gambit roi accepté, gambit Salvio, contre-attaque Anderssen $ T, O, XX
+C36 gambit roi accepté, gambit Silberschmidt $ T, O, XX
+C36 gambit roi accepté, gambit Sörensen $ T, O, XX
+C36 gambit roi accepté, Muzio gambit, variante Paulsen $ T, O, XX
+C38 gambit roi accepté, gambit défense Philidor $ T, O, XVIII
+C38 gambit roi accepté, gambit défense Philidor, variante Schultz $ T, O, XX
+C38 gambit roi accepté, gambit Greco $ T, O, XVIII
+C38 gambit roi accepté, gambit Hanstein $ T, O, XX
+C38 King's knight's gambit $ T, O, XV
+C39 gambit roi accepté, gambit Allgaier $ T, O, XX
+C39 gambit roi accepté, gambit Allgaier, attaque Urusov $ T, O, XX
+C39 gambit roi accepté, gambit Allgaier, attaque Walker $ T, O, XX
+C39 gambit roi accepté, gambit Allgaier, défense Horny $ P, O, NA
+C39 gambit roi accepté, gambit Allgaier, défense Schlechter $ P, O, NA
+C39 gambit roi accepté, gambit Allgaier, gambit Blackburne $ T, O, XX
+C39 gambit roi accepté, gambit Allgaier, variante Cook $ T, O, XX
+C39 gambit roi accepté, gambit Allgaier, variante Thorold $ T, O, XX
+C39 gambit roi accepté, gambit du cavalier roi $ T, O, XX
+C39 gambit roi accepté, gambit Kieseritsky, défense Berlin (6.Fc4) $ P, O, XX
+C39 gambit roi accepté, gambit Kieseritsky, défense Berlin $ P, O, XX
+C39 gambit roi accepté, gambit Kieseritsky, défense Berlin, variante Rivière $ P, O, XX
+C39 gambit roi accepté, gambit Kieseritsky, défense Brentano (= Campbell) $ P, O, XX
+C39 gambit roi accepté, gambit Kieseritsky, défense Brentano $ P, O, XX
+C39 gambit roi accepté, gambit Kieseritsky, défense Brentano, variante Caro $ T, O, XIX
+C39 gambit roi accepté, gambit Kieseritsky, défense Brentano, variante Kaplanek $ T, O, XX
+C39 gambit roi accepté, gambit Kieseritsky, défense du grand fouet (= classique) $ T, O, XIX
+C39 gambit roi accepté, gambit Kieseritsky, défense du grand fouet, variante Jänisch $ T, O, XIX
+C39 gambit roi accepté, gambit Kieseritsky, défense Kolisch $ T, O, XIX
+C39 gambit roi accepté, gambit Kieseritsky, défense Neumann $ T, O, XIX
+C39 gambit roi accepté, gambit Kieseritsky, défense Paulsen $ T, O, XIX
+C39 gambit roi accepté, gambit Kieseritsky, défense Polerio $ T, O, XIX
+C39 gambit roi accepté, gambit Kieseritsky, défense Salvio (= Rosenthal) $ T, O, XIX
+C39 gambit roi accepté, gambit Kieseritsky, défense Salvio, variante Cozio $ T, O, XIX
+C39 gambit roi accepté, gambit Kieseritsky, gambit Rice $ T, O, XIX
+C40 défense Damiano $ T, O, XVI
+C40 défense Greco $ T, O, XVI
+C40 défense Gunderam $ P, O, XV
+C40 gambit du pion dame (= de l’éléphant) $ T, O, XVI
+C40 gambit du pion dame (= Maroczy) $ T, O, XIX
+C40 gambit letton (3.Fc4) $ T, O, NA
+C40 gambit letton $ T, O, NA
+C40 gambit letton, contre-gambit du tire-bouchon $ T, O, NA
+C40 gambit letton, défense Fraser $ T, O, NA
+C40 gambit letton, variante Behting $ T, O, NA
+C40 gambit letton, variante Nimzovitch $ T, O, NA
+C40 gambit letton, variante Polerio $ T, O, NA
+C40 ouverture du cavalier roi $ P, O, XVI
+C41 défense Philidor $ P, O, XVIII
+C41 défense Philidor Berger variante $ P, O, XVIII
+C41 défense Philidor, attaque Paulsen $ P, O, XIX
+C41 défense Philidor, gambit Lopez $ T, O, XVIII
+C41 défense Philidor, gambit Lopez, variante Jänisch $ T, O, XVIII
+C41 défense Philidor, gambit Philidor $ T, O, XVIII
+C41 défense Philidor, gambit Philidor, attaque del Rio $ T, O, XVIII
+C41 défense Philidor, gambit Philidor, variante Berger $ T, O, XVIII
+C41 défense Philidor, gambit Philidor, variante Zukertort $ T, O, XVIII
+C41 défense Philidor, variante d’échange $ P, O, XVIII
+C41 défense Philidor, variante d’échange $ P, O, XIX
+C41 défense Philidor, variante Foden $ P, O, XVIII
+C41 défense Philidor, variante Hanham $ P, O, XIX
+C41 défense Philidor, variante Hanham améliorée $ P, O, XIX
+C41 défense Philidor, variante Hanham, sous-variante Berger $ P, O, XIX
+C41 défense Philidor, variante Hanham, sous-variante Delmar $ P, O, XIX
+C41 défense Philidor, variante Hanham, sous-variante Kmoch $ P, O, XIX
+C41 défense Philidor, variante Hanham, sous-variante Krause $ P, O, XIX
+C41 défense Philidor, variante Hanham, sous-variante Schlechter $ P, O, XIX
+C41 défense Philidor, variante Hanham, sous-variante Steiner $ P, O, XIX
+C41 défense Philidor, variante Larsen $ P, O, XIX
+C41 défense Philidor, variante Nimzovitch (= Jänisch) $ P, O, XIX
+C41 défense Philidor, variante Nimzovitch $ P, O, XIX
+C41 défense Philidor, variante Nimzovitch, sous-variante Klein $ P, O, XIX
+C41 défense Philidor, variante Nimzovitch, sous-variante Larobok $ P, O, XIX
+C41 défense Philidor, variante Nimzovitch, sous-variante Locock $ P, O, XIX
+C41 défense Philidor, variante Nimzovitch, sous-variante Rellstab $ P, O, XIX
+C41 défense Philidor, variante Nimzovitch, sous-variante Sokolsky $ P, O, XIX
+C41 défense Philidor, variante Nimzovitch, sous-variante Sozine $ P, O, XIX
+C41 défense Philidor, variante Steinitz $ P, O, XIX
+C42 défense Petroff (= russe) $ P, O, XIX
+C42 défense Petroff, attaque classique $ P, O, XIX
+C42 défense Petroff, attaque classique, piège Marshall $ P, O, XX
+C42 défense Petroff, attaque classique, variante Berger $ P, O, XIX
+C42 défense Petroff, attaque classique, variante fermée $ P, O, XIX
+C42 défense Petroff, attaque classique, variante Jänisch $ P, O, XIX
+C42 défense Petroff, attaque classique, variante Krause $ P, O, XIX
+C42 défense Petroff, attaque classique, variante Maroczy $ P, O, XIX
+C42 défense Petroff, attaque classique, variante Marshall $ P, O, XIX
+C42 défense Petroff, attaque classique, variante Mason $ P, O, XIX
+C42 défense Petroff, attaque classique, variante Tarrasch $ P, O, XIX
+C42 défense Petroff, attaque classique, variante Tchigorine $ P, O, XIX
+C42 défense Petroff, attaque Cozio (= Lasker) $ P, O, XIX
+C42 défense Petroff, attaque française $ P, O, XIX
+C42 défense Petroff, attaque Kaufmann $ P, O, XIX
+C42 défense Petroff, attaque Nimzovitch $ P, O, XIX
+C42 défense Petroff, attaque Paulsen $ P, O, XIX
+C42 défense Petroff, gambit Cochrane $ T, O, XIX
+C42 défense Petroff, variante Damiano $ P, O, XIX
+C42 défense Petroff, variante des trois cavaliers $ P, O, XIX
+C42 défense Petroff, variante italienne $ P, O, XIX
+C42/01 défense Petroff $ P, O, XX
+C42/01 défense Petroff, gambit Foden - Kieseritsky $ T, O, XX
+C42/01 défense Petroff, variante Lichtehein modifiée $ P, O, XX
+C43 défense Petroff, attaque moderne (= Steinitz) $ P, O, XIX
+C43 défense Petroff, attaque moderne, ligne principale $ P, O, XX
+C43 défense Petroff, attaque moderne, variante Bardeleben $ P, O, XX
+C43 défense Petroff, attaque moderne, variante Steinitz $ P, O, XIX
+C43 défense Petroff, attaque moderne, variante symétrique $ P, O, XX
+C43 défense Petroff, attaque moderne, variante Trifunovic $ P, O, XX
+C43 défense Petroff, gambit Urusov $ T, O, XIX
+C44 gambit irlandais (= de Chicago) $ T, O, XIX
+C44 ouverture de Dresde $ P, O, XX
+C44 ouverture du pion roi $ P, O, XVI
+C44 ouverture écossaise $ P, O, XVII
+C44 ouverture écossaise, gambit écossais $ T, O, XVII
+C44 ouverture écossaise, gambit écossais $ T, O, XVIII
+C44 ouverture écossaise, gambit écossais, attaque Vitzhum $ T, O, XVIII
+C44 ouverture écossaise, gambit écossais, contre-attaque Anderssen (= Paulsen, Suhle) $ T, O, XVIII
+C44 ouverture écossaise, gambit écossais, défense Benima $ T, O, XVIII
+C44 ouverture écossaise, gambit écossais, défense Cochrane - Shumov $ T, O, XVIII
+C44 ouverture écossaise, gambit écossais, défense Dubois - Réti $ T, O, XVIII
+C44 ouverture écossaise, gambit écossais, variante Cochrane $ T, O, XVIII
+C44 ouverture écossaise, gambit écossais, variante Hanneken $ T, O, XVIII
+C44 ouverture écossaise, gambit Göring $ T, O, XVIII
+C44 ouverture écossaise, gambit Göring, mat du mousse $ T, O, XVIII
+C44 ouverture écossaise, gambit Göring, variante Bardeleben $ T, O, XVIII
+C44 ouverture écossaise, gambit Kelfsson (= Mac Lopez) $ T, O, XVIII
+C44 ouverture écossaise, variante Cochrane $ T, O, XVIII
+C44 ouverture écossaise, variante Lolli (cf. C45) $ P, O, XVIII
+C44 ouverture écossaise, variante Lolli $ P, O, XVIII
+C44 ouverture Hanham inversée $ P, O, XVIII
+C44 ouverture hongroise $ P, O, XVIII
+C44 ouverture Konstantinopolsky $ P, O, XIX
+C44 ouverture Ponziani $ P, O, XVIII
+C44 ouverture Ponziani, contre-attaque Jänisch $ P, O, XVIII
+C44 ouverture Ponziani, contre-gambit $ T, O, XVIII
+C44 ouverture Ponziani, contre-gambit, attaque Schmidt $ T, O, XVIII
+C44 ouverture Ponziani, contre-gambit, variante Cordel $ T, O, XVIII
+C44 ouverture Ponziani, défense Fraser $ P, O, XVIII
+C44 ouverture Ponziani, variante Caro $ P, O, XVIII
+C44 ouverture Ponziani, variante Leonhardt $ P, O, XIX
+C44 ouverture Ponziani, variante Réti $ P, O, XIX
+C44 ouverture Ponziani, variante Romanishin $ P, O, XIX
+C44 ouverture Ponziani, variante Steinitz $ P, O, XIX
+C44 ouverture Tayler $ P, O, XVIII
+C45 ouverture écossaise $ P, O, XVIII
+C45 ouverture écossaise $ P, O, XIX
+C45 ouverture écossaise, attaque Blackburne $ P, O, XIX
+C45 ouverture écossaise, attaque Blumenfeld $ P, O, XIX
+C45 ouverture écossaise, attaque Fraser $ P, O, XIX
+C45 ouverture écossaise, attaque Horwitz $ P, O, XIX
+C45 ouverture écossaise, attaque Paulsen $ P, O, XIX
+C45 ouverture écossaise, attaque Paulsen, défense Gunsberg $ P, O, XIX
+C45 ouverture écossaise, contre-attaque Pulling $ P, O, XIX
+C45 ouverture écossaise, variante Berger $ P, O, XIX
+C45 ouverture écossaise, variante Ghulam Kassim $ P, O, XIX
+C45 ouverture écossaise, variante Gottschall $ P, O, XIX
+C45 ouverture écossaise, variante Meitner $ P, O, XIX
+C45 ouverture écossaise, variante Mieses $ P, O, XIX
+C45 ouverture écossaise, variante Potter $ P, O, XIX
+C45 ouverture écossaise, variante Romanichine $ P, O, XIX
+C45 ouverture écossaise, variante Rosenthal $ P, O, XIX
+C45 ouverture écossaise, variante Schmidt $ P, O, XIX
+C45 ouverture écossaise, variante Steinitz $ P, O, XIX
+C45 ouverture écossaise, variante Tartakover $ P, O, XIX
+C46 ouverture des quatre cavaliers, gambit Schultze - Müller $ T, O, XVIII
+C46 ouverture des quatre cavaliers, variante italienne $ P, O, XVI
+C46 ouverture des trois cavaliers $ P, O, XVIII
+C46 ouverture des trois cavaliers, défense Winawer (= gothique) $ P, O, XVIII
+C46 ouverture des trois cavaliers, variante Schlechter $ P, O, XIX
+C46 ouverture des trois cavaliers, variante Steinitz $ P, O, NA
+C46 ouverture des trois cavaliers, variante Steinitz, sous-variante Rosenthal $ P, O, NA
+C47 ouverture des quatre cavaliers $ P, O, XIX
+C47 ouverture des quatre cavaliers, gambit de Belgrade $ T, O, NA
+C47 ouverture des quatre cavaliers, variante écossaise (4...exd4) $ P, O, XIX
+C47 ouverture des quatre cavaliers, variante écossaise $ P, O, XIX
+C47 ouverture des quatre cavaliers, variante écossaise, sous-variante Krause $ P, O, XIX
+C47 ouverture des quatre cavaliers, variante Gunsberg $ P, O, XIX
+C47 ouverture des quatre cavaliers, variante Ioseliani - Glek, (cf. C46) $ P, O, NA
+C47/05 ouverture des quatre cavaliers, variante écossaise (4...exd4 5.Cxd4) $ P, O, XIX
+C48 ouverture des quatre cavaliers, gambit Rubinstein (5.Fe2) $ T, O, NA
+C48 ouverture des quatre cavaliers, gambit Rubinstein $ T, O, NA
+C48 ouverture des quatre cavaliers, gambit Rubinstein, variante Bogolioubof $ T, O, NA
+C48 ouverture des quatre cavaliers, gambit Rubinstein, variante d’échange $ T, O, NA
+C48 ouverture des quatre cavaliers, gambit Rubinstein, variante Henneberger $ T, O, NA
+C48 ouverture des quatre cavaliers, gambit Rubinstein, variante Maroczy $ T, O, NA
+C48 ouverture des quatre cavaliers, variante Bardeleben $ P, O, XIX
+C48 ouverture des quatre cavaliers, variante espagnole $ P, O, XIX
+C48 ouverture des quatre cavaliers, variante espagnole, défense classique $ P, O, XIX
+C48 ouverture des quatre cavaliers, variante Marshall $ P, O, XX
+C48 ouverture des quatre cavaliers, variante Spielmann $ P, O, XX
+C48 ouverture des quatre cavaliers, variante Tanken $ P, O, XX
+C49 ouverture des quatre cavaliers $ P, O, XIX
+C49 ouverture des quatre cavaliers, contre-attaque Gunsberg $ T, O, NA
+C49 ouverture des quatre cavaliers, variante Alatortsev $ P, O, XIX
+C49 ouverture des quatre cavaliers, variante espagnole double $ P, O, XIX
+C49 ouverture des quatre cavaliers, variante Janowski $ P, O, XIX
+C49 ouverture des quatre cavaliers, variante Nimzovitch (= Paulsen) $ P, O, XIX
+C49 ouverture des quatre cavaliers, variante Svenonius $ P, O, XIX
+C49 ouverture des quatre cavaliers, variante symétrique $ P, O, XIX
+C49 ouverture des quatre cavaliers, variante symétrique, déclouage Metger $ P, O, XIX
+C49 ouverture des quatre cavaliers, variante symétrique, sous-variante Blake $ P, O, XIX
+C49 ouverture des quatre cavaliers, variante symétrique, sous-variante Capablanca $ P, O, XIX
+C49 ouverture des quatre cavaliers, variante symétrique, sous-variante Pillsbury $ P, O, XIX
+C49 ouverture des quatre cavaliers, variante symétrique, sous-variante Tarrasch $ P, O, XIX
+C49 ouverture des quatre cavaliers, variante symétrique, système Maroczy $ P, O, XIX
+C50 défense hongroise $ P, O, XIX
+C50 défense hongroise, variante Tartakover $ P, O, XX
+C50 gambit Rousseau $ T, O, NA
+C50 ouverture Blackburne, gambit du shilling $ T, O, NA
+C50 ouverture du pion roi $ P, O, XV
+C50 ouverture italienne $ P, O, XIX
+C50 ouverture italienne, gambit Jérome $ T, O, NA
+C50 ouverture italienne, système Giuoco Pianissimo $ P, O, XV
+C50 ouverture italienne, système Giuoco Pianissimo, variante Canal $ P, O, XX
+C50 ouverture italienne, système Giuoco Pianissimo, variante Dubois $ P, O, NA
+C50 ouverture italienne, système Giuoco Pianissimo, variante italienne des quatre cavaliers $ P, O, XX
+C50/06 ouverture italienne, variante des quatre cavaliers (cf. C55) $ P, O, XX
+C51 gambit Evans (5...Fe7) $ T, O, NA
+C51 gambit Evans $ T, O, XVIII
+C51 gambit Evans refusé (5.a4) $ T, O, XVIII
+C51 gambit Evans refusé $ T, O, XVIII
+C51 gambit Evans refusé, variante Cordel $ T, O, XVIII
+C51 gambit Evans refusé, variante Hicken $ T, O, XVIII
+C51 gambit Evans refusé, variante Hirschbach $ T, O, XVIII
+C51 gambit Evans refusé, variante Lange $ T, O, XVIII
+C51 gambit Evans refusé, variante Pavlov $ T, O, XVIII
+C51 gambit Evans refusé, variante Showalter $ T, O, XVIII
+C51 gambit Evans refusé, variante Vasquez $ T, O, XVIII
+C51 gambit Evans, attaque Fraser - Mortimer $ T, O, XVIII
+C51 gambit Evans, attaque Fraser $ T, O, XVIII
+C51 gambit Evans, attaque Göring $ T, O, XVIII
+C51 gambit Evans, attaque Morphy $ T, O, XVIII
+C51 gambit Evans, contre-gambit $ T, O, XVIII
+C51 gambit Evans, défense Mayet $ T, O, XVIII
+C51 gambit Evans, variante Cordel $ T, O, XVIII
+C51 gambit Evans, variante normale $ T, O, XVIII
+C51 gambit Evans, variante Paulsen $ T, O, XVIII
+C51 gambit Evans, variante Steinitz $ T, O, XVIII
+C51 gambit Evans, variante Stone - Ware $ T, O, XVIII
+C51 gambit Evans, variante Ulvestad $ T, O, XVIII
+C52 gambit Evans $ T, O, XVIII
+C52 gambit Evans $ T, O, XVIII
+C52 gambit Evans, attaque Richardson $ T, O, XVIII
+C52 gambit Evans, attaque Tartakover $ T, O, XVIII
+C52 gambit Evans, attaque Waller $ T, O, XVIII
+C52 gambit Evans, défense du compromis $ T, O, XVIII
+C52 gambit Evans, défense du compromis, variante Paulsen $ T, O, XVIII
+C52 gambit Evans, défense du compromis, variante Potter $ T, O, XVIII
+C52 gambit Evans, défense Lasker $ T, O, XVIII
+C52 gambit Evans, variante Alapine-Steinitz $ T, O, XVIII
+C52 gambit Evans, variante Leonhardt $ T, O, XVIII
+C52 gambit Evans, variante Levenfish $ T, O, XVIII
+C52 gambit Evans, variante Sanders - Alapinee $ T, O, XVIII
+C52 gambit Evans, variante Sokolsky $ T, O, XVIII
+C53 ouverture italienne $ P, O, XIX
+C53 ouverture italienne $ P, O, XIX
+C53 ouverture italienne, attaque Bird $ P, O, XIX
+C53 ouverture italienne, variante Anderssen $ P, O, XIX
+C53 ouverture italienne, variante de maintien du centre $ P, O, XIX
+C53 ouverture italienne, variante Eisinger $ P, O, XIX
+C53 ouverture italienne, variante fermée $ P, O, XIX
+C53 ouverture italienne, variante Ghulam Rassim $ P, O, XIX
+C53 ouverture italienne, variante La Bourdonnais $ P, O, XIX
+C53 ouverture italienne, variante Mestel $ P, O, XIX
+C53 ouverture italienne, variante Tarrasch $ P, O, XIX
+C54 ouverture italienne $ P, O, XIX
+C54 ouverture italienne, attaque Greco $ P, O, XIX
+C54 ouverture italienne, attaque Möller (= Therkatz) $ P, O, XIX
+C54 ouverture italienne, attaque Möller, attaque à la bayonette $ P, O, XIX
+C54 ouverture italienne, variante Aitken $ P, O, XIX
+C54 ouverture italienne, variante Bernstein $ P, O, XIX
+C54 ouverture italienne, variante de Cracovie $ P, O, XIX
+C54 ouverture italienne, variante Greco $ P, O, XIX
+C54 ouverture italienne, variante Krause $ P, O, XIX
+C54 ouverture italienne, variante Steinitz $ P, O, XIX
+C54 ouverture italienne, variante Therkatz - Herzog $ P, O, XIX
+C55 défense des deux cavaliers (3...Cf6) $ P, O, NA
+C55 défense des deux cavaliers (ouverture moderne du fou) $ P, O, NA
+C55 défense des deux cavaliers $ P, O, NA
+C55 défense des deux cavaliers, attaque Max Lange $ P, O, NA
+C55 défense des deux cavaliers, attaque Max Lange, défense Loman $ P, O, NA
+C55 défense des deux cavaliers, attaque Max Lange, variante Berger $ P, O, NA
+C55 défense des deux cavaliers, attaque Max Lange, variante Krause $ P, O, NA
+C55 défense des deux cavaliers, attaque Max Lange, variante Marshall $ P, O, NA
+C55 défense des deux cavaliers, attaque Max Lange, variante Rubinstein $ P, O, NA
+C55 défense des deux cavaliers, attaque Max Lange, variante Schlechter $ P, O, NA
+C55 défense des deux cavaliers, attaque Max Lange, variante Steinitz $ P, O, NA
+C55 défense des deux cavaliers, variante Keidanz $ P, O, NA
+C55 défense des deux cavaliers, variante Perreux $ P, O, NA
+C55 ouverture italienne $ P, O, XIX
+C55 ouverture italienne, attaque Holzhausen $ P, O, XIX
+C55 ouverture italienne, variante Rosentreter $ P, O, XIX
+C56 défense des deux cavaliers $ P, O, NA
+C56 défense des deux cavaliers, attaque Yurdansky $ P, O, NA
+C56 défense des deux cavaliers, variante Canal $ P, O, NA
+C57 défense des deux cavaliers $ P, O, NA
+C57 défense des deux cavaliers, attaque Fegatello $ T, O, NA
+C57 défense des deux cavaliers, attaque Fegatello, défense Polerio $ P, O, NA
+C57 défense des deux cavaliers, attaque Fegatello, variante Leonhardt $ P, O, NA
+C57 défense des deux cavaliers, attaque Lolli $ P, O, NA
+C57 défense des deux cavaliers, variante Fritz $ P, O, NA
+C57 défense des deux cavaliers, variante Fritz, sous-variante Gruber $ P, O, NA
+C57 défense des deux cavaliers, variante Pincus $ P, O, NA
+C57 défense des deux cavaliers, variante Ulvestad $ P, O, NA
+C57 défense des deux cavaliers, variante Wilkes Barre (= Traxler) $ P, O, NA
+C58 défense des deux cavaliers $ P, O, NA
+C58 défense des deux cavaliers $ P, O, NA
+C58 défense des deux cavaliers, variante Blackburne $ P, O, NA
+C58 défense des deux cavaliers, variante Bogolioubof $ P, O, NA
+C58 défense des deux cavaliers, variante Colman $ P, O, NA
+C58 défense des deux cavaliers, variante Kieseritsky $ P, O, NA
+C58 défense des deux cavaliers, variante Maroczy $ P, O, NA
+C58 défense des deux cavaliers, variante Paoli $ P, O, NA
+C58 défense des deux cavaliers, variante Yankovich $ P, O, NA
+C59 défense des deux cavaliers $ P, O, NA
+C59 défense des deux cavaliers, variante Göring $ P, O, NA
+C59 défense des deux cavaliers, variante Knorre $ P, O, NA
+C59 défense des deux cavaliers, variante Steinitz $ P, O, NA
+C60 ouverture espagnole (= Ruy Lopez), défense Brentano (cf. C65) $ P, O, XIX
+C60 ouverture espagnole (= Ruy Lopez), défense Cozio $ P, O, XVIII
+C60 ouverture espagnole (= Ruy Lopez), défense Cozio, variante Paulsen $ P, O, XIX
+C60 ouverture espagnole (= Ruy Lopez), défense fianchetto roi (= Smyslov - Barnes) $ P, O, NA
+C60 ouverture espagnole (= Ruy Lopez), défense Lucena $ P, O, NA
+C60 ouverture espagnole (= Ruy Lopez), défense Pollock $ P, O, NA
+C60 ouverture espagnole (= Ruy Lopez), variante de Nuremberg $ P, O, NA
+C60 ouverture espagnole (= Ruy Lopez), variante Vinogradov $ P, O, NA
+C60 ouverture espagnole (= Ruy Lopez) $ P, O, XV
+C61 ouverture espagnole (= Ruy Lopez), défense Bird $ P, O, XIX
+C61 ouverture espagnole (= Ruy Lopez), défense Bird, variante Paulsen $ P, O, NA
+C62 ouverture espagnole (= Ruy Lopez), défense Steinitz ancienne $ P, O, XIX
+C62 ouverture espagnole (= Ruy Lopez), défense Steinitz ancienne, attaque Nimzovitch $ P, O, XX
+C62 ouverture espagnole (= Ruy Lopez), défense Steinitz ancienne, variante semi-Duras $ P, O, XX
+C63 ouverture espagnole (= Ruy Lopez), défense Schliemann $ T, O, XIX
+C63 ouverture espagnole (= Ruy Lopez), défense Schliemann, variante Berger $ T, O, NA
+C64 ouverture espagnole (= Ruy Lopez), défense classique (= Cordel) $ P, O, NA
+C64 ouverture espagnole (= Ruy Lopez), défense classique (= Cordel) (4.c3) $ P, O, NA
+C64 ouverture espagnole (= Ruy Lopez), défense classique (= Cordel), variante du Bénélux $ P, O, NA
+C64 ouverture espagnole (= Ruy Lopez), défense classique (= Cordel), variante Charousek $ P, O, NA
+C64 ouverture espagnole (= Ruy Lopez), défense classique (= Cordel), variante Foden $ P, O, NA
+C64 ouverture espagnole (= Ruy Lopez), défense classique (= Cordel), variante Zaitsev $ P, O, NA
+C64 ouverture espagnole (= Ruy Lopez), gambit Cordel $ T, O, NA
+C65 ouverture espagnole (= Ruy Lopez), défense berlinoise (4.O-O) $ P, O, XIX
+C65 ouverture espagnole (= Ruy Lopez), défense berlinoise $ P, O, XIX
+C65 ouverture espagnole (= Ruy Lopez), défense berlinoise, attaque Nyholm $ P, O, NA
+C65 ouverture espagnole (= Ruy Lopez), défense berlinoise, piège de Mortimer $ P, O, NA
+C65 ouverture espagnole (= Ruy Lopez), défense berlinoise, variante Anderssen $ P, O, NA
+C65 ouverture espagnole (= Ruy Lopez), défense berlinoise, variante Beverwijk $ P, O, NA
+C65 ouverture espagnole (= Ruy Lopez), défense berlinoise, variante Duras $ P, O, NA
+C65 ouverture espagnole (= Ruy Lopez), défense berlinoise, variante Kaufmann $ P, O, NA
+C65 ouverture espagnole (= Ruy Lopez), défense berlinoise, variante Mortimer $ P, O, NA
+C65 ouverture espagnole (= Ruy Lopez), défense classique (= Cordel), variante du Bénélux (cf. C64) $ P, O, NA
+C66 ouverture espagnole (= Ruy Lopez), défense berlinoise fermée, variante Bernstein $ P, O, XX
+C66 ouverture espagnole (= Ruy Lopez), défense berlinoise fermée, variante Tchigorine $ P, O, XX
+C66 ouverture espagnole (= Ruy Lopez), défense berlinoise fermée, variante Showalter $ P, O, XX
+C66 ouverture espagnole (= Ruy Lopez), défense berlinoise fermée, variante Wolf $ P, O, XX
+C66 ouverture espagnole (= Ruy Lopez), défense berlinoise, (4.O-O d6) $ P, O, XIX
+C66 ouverture espagnole (= Ruy Lopez), défense berlinoise, piège de Tarrasch $ P, O, NA
+C66 ouverture espagnole (= Ruy Lopez), défense berlinoise, variante du hérisson $ P, O, XX
+C67 ouverture espagnole (= Ruy Lopez), défense berlinoise ouverte $ P, O, XIX
+C67 ouverture espagnole (= Ruy Lopez), défense berlinoise ouverte, (5...Fe7) $ P, O, XX
+C67 ouverture espagnole (= Ruy Lopez), défense berlinoise ouverte, variante l'Hermet $ P, O, XX
+C67 ouverture espagnole (= Ruy Lopez), défense berlinoise ouverte, variante Showalter $ P, O, XX
+C67 ouverture espagnole (= Ruy Lopez), défense berlinoise, attaque Winawer $ P, O, XX
+C67 ouverture espagnole (= Ruy Lopez), défense berlinoise, variante Cordel $ P, O, XX
+C67 ouverture espagnole (= Ruy Lopez), défense berlinoise, variante Minckwitz $ P, O, XX
+C67 ouverture espagnole (= Ruy Lopez), défense berlinoise, variante Pillsbury $ P, O, XX
+C67 ouverture espagnole (= Ruy Lopez), défense berlinoise, variante de Rio de Janeiro $ P, O, XX
+C67 ouverture espagnole (= Ruy Lopez), défense berlinoise, variante Rosenthal $ P, O, XX
+C67 ouverture espagnole (= Ruy Lopez), défense berlinoise, variante Trifunovic $ P, O, XX
+C67 ouverture espagnole (= Ruy Lopez), défense berlinoise, variante Zukertort $ P, O, XX
+C68 ouverture espagnole (= Ruy Lopez), variante d’échange $ P, O, XX
+C68 ouverture espagnole (= Ruy Lopez), variante d’échange, sous-variante Alekhine $ P, O, XX
+C68 ouverture espagnole (= Ruy Lopez), variante d’échange, sous-variante Kérès $ P, O, XX
+C68 ouverture espagnole (= Ruy Lopez), variante d’échange, sous-variante Romanovsky $ P, O, XX
+C68/12 ouverture espagnole (= Ruy Lopez), variante d’échange, sous-variante Pachman - Romanichine $ P, O, XX
+C69 ouverture espagnole (= Ruy Lopez), variante d’échange (5.O-O) $ P, O, XX
+C69 ouverture espagnole (= Ruy Lopez), variante d’échange, gambit Alapinee $ T, O, XX
+C69 ouverture espagnole (= Ruy Lopez), variante d’échange, sous-variante Bronstein $ P, O, XX
+C69 ouverture espagnole (= Ruy Lopez), variante d’échange, sous-variante Gligoric $ P, O, XX
+C70 ouverture espagnole (= Ruy Lopez) $ P, O, XV
+C70 ouverture espagnole (= Ruy Lopez), défense Alapinee différée $ P, O, XX
+C70 ouverture espagnole (= Ruy Lopez), défense Bird différée $ P, O, XX
+C70 ouverture espagnole (= Ruy Lopez), défense classique différée $ P, O, XX
+C70 ouverture espagnole (= Ruy Lopez), défense Cozio différée $ P, O, XX
+C70 ouverture espagnole (= Ruy Lopez), défense fianchetto différée $ P, O, XX
+C70 ouverture espagnole (= Ruy Lopez), défense Schliemann différée $ T, O, XX
+C70 ouverture espagnole (= Ruy Lopez), variante Caro $ P, O, XX
+C70 ouverture espagnole (= Ruy Lopez), variante de Graz $ P, O, XX
+C70 ouverture espagnole (= Ruy Lopez), variante Taimanov $ P, O, XX
+C71 ouverture espagnole (= Ruy Lopez), défense Steinitz moderne $ P, O, XIX
+C71 ouverture espagnole (= Ruy Lopez), défense Steinitz moderne, variante Duras (= Kérès) $ P, O, XX
+C71 ouverture espagnole (= Ruy Lopez), défense Steinitz moderne, variante des trois cavaliers $ P, O, XX
+C71 ouverture espagnole (= Ruy Lopez), piège de l’arche de Noé $ P, O, XX
+C72 ouverture espagnole (= Ruy Lopez), défense Steinitz moderne (5.O-O) $ P, O, XX
+C73 ouverture espagnole (= Ruy Lopez), défense Steinitz moderne, variante Alapine $ P, O, XX
+C73 ouverture espagnole (= Ruy Lopez), défense Steinitz moderne, variante Richter $ P, O, XX
+C74 ouverture espagnole (= Ruy Lopez), défense Steinitz moderne $ P, O, XX
+C74 ouverture espagnole (= Ruy Lopez), défense Steinitz moderne, variante de la siesta $ P, O, XX
+C74 ouverture espagnole (= Ruy Lopez), Siesta, Kopayev variante $ P, O, XX
+C75 ouverture espagnole (= Ruy Lopez), défense Steinitz moderne $ P, O, XX
+C75 ouverture espagnole (= Ruy Lopez), défense Steinitz moderne, variante Rubinstein $ P, O, XX
+C75/04 ouverture espagnole (= Ruy Lopez), défense Steinitz moderne, variante Rubinstein - Geller $ P, O, XX
+C76 ouverture espagnole (= Ruy Lopez), défense Steinitz moderne, variante fianchetto roi (= Bronstein) (6...g6) $ P, O, XX
+C77 ouverture espagnole (= Ruy Lopez), attaque Wormald (= Alapine) $ P, O, XX
+C77 ouverture espagnole (= Ruy Lopez), attaque Wormald, variante Grünfeld $ P, O, XX
+C77 ouverture espagnole (= Ruy Lopez), défense Morphy $ P, O, XX
+C77 ouverture espagnole (= Ruy Lopez), défense Morphy, variante Duras $ P, O, XX
+C77 ouverture espagnole (= Ruy Lopez), variante Anderssen $ P, O, XX
+C77 ouverture espagnole (= Ruy Lopez), variante des quatre cavaliers (= Tarrasch) $ P, O, XX
+C77 ouverture espagnole (= Ruy Lopez), variante Treybal (= de Bayreuth) $ P, O, XX
+C78 ouverture espagnole (= Ruy Lopez), (5.O-O) $ P, O, XX
+C78 ouverture espagnole (= Ruy Lopez), (avec ...b5, ...d6) $ P, O, XX
+C78 ouverture espagnole (= Ruy Lopez), attaque de l’aile $ P, O, XX
+C78 ouverture espagnole (= Ruy Lopez), défense Möller $ P, O, XX
+C78 ouverture espagnole (= Ruy Lopez), variante d’Arkhangelsk $ P, O, XX
+C78 ouverture espagnole (= Ruy Lopez), variante Rabinovich $ P, O, XX
+C79 ouverture espagnole (= Ruy Lopez), défense Steinitz différée (= défense russe) $ P, O, XX
+C79 ouverture espagnole (= Ruy Lopez), défense Steinitz différée, variante Boleslavsky $ P, O, XX
+C79 ouverture espagnole (= Ruy Lopez), défense Steinitz différée, variante Lipnitsky $ P, O, XX
+C79 ouverture espagnole (= Ruy Lopez), défense Steinitz différée, variante Rubinstein $ P, O, XX
+C80 ouverture espagnole (= Ruy Lopez), variante ouverte (= Tarrasch) $ P, O, NA
+C80 ouverture espagnole (= Ruy Lopez), variante ouverte (6.d4 b5) $ P, O, NA
+C80 ouverture espagnole (= Ruy Lopez), variante ouverte (6.d4) $ P, O, NA
+C80 ouverture espagnole (= Ruy Lopez), variante ouverte (7.Fb3) $ P, O, NA
+C80 ouverture espagnole (= Ruy Lopez), variante ouverte (8...Fe6) $ P, O, NA
+C80 ouverture espagnole (= Ruy Lopez), variante ouverte (8.dxe5) $ P, O, NA
+C80 ouverture espagnole (= Ruy Lopez), variante ouverte, attaque Fries $ P, O, NA
+C80 ouverture espagnole (= Ruy Lopez), variante ouverte, défense Schlechter $ P, O, NA
+C80 ouverture espagnole (= Ruy Lopez), variante ouverte, gambit Harksen $ T, O, NA
+C80 ouverture espagnole (= Ruy Lopez), variante ouverte, sous-variante Berger $ P, O, NA
+C80 ouverture espagnole (= Ruy Lopez), variante ouverte, sous-variante Bernstein $ P, O, NA
+C80 ouverture espagnole (= Ruy Lopez), variante ouverte, sous-variante Bernstein, gambit Karpov $ T, O, NA
+C80 ouverture espagnole (= Ruy Lopez), variante ouverte, sous-variante Knorre $ P, O, NA
+C80 ouverture espagnole (= Ruy Lopez), variante ouverte, sous-variante Richter $ P, O, NA
+C80 ouverture espagnole (= Ruy Lopez), variante ouverte, sous-variante de Riga $ P, O, NA
+C80 ouverture espagnole (= Ruy Lopez), variante ouverte, sous-variante Tartakover $ P, O, NA
+C80 ouverture espagnole (= Ruy Lopez), variante ouverte, sous-variante Zukertort $ P, O, NA
+C81 ouverture espagnole (= Ruy Lopez), variante ouverte, attaque Howell $ P, O, NA
+C81 ouverture espagnole (= Ruy Lopez), variante ouverte, attaque Howell, sous-variante Adams $ P, O, NA
+C81 ouverture espagnole (= Ruy Lopez), variante ouverte, attaque Howell, sous-variante Ekström $ P, O, NA
+C82 ouverture espagnole (= Ruy Lopez), variante ouverte (9.c3) $ P, O, NA
+C82 ouverture espagnole (= Ruy Lopez), variante ouverte, attaque Motzko $ P, O, NA
+C82 ouverture espagnole (= Ruy Lopez), variante ouverte, attaque Motzko, sous-variante Nenarokov $ P, O, NA
+C82 ouverture espagnole (= Ruy Lopez), variante ouverte, sous-variante de Berlin $ P, O, NA
+C82 ouverture espagnole (= Ruy Lopez), variante ouverte, sous-variante Dilworth $ P, O, NA
+C82 ouverture espagnole (= Ruy Lopez), variante ouverte, sous-variante italienne $ P, O, NA
+C82 ouverture espagnole (= Ruy Lopez), variante ouverte, sous-variante de St.-Petersbourg $ P, O, NA
+C83 ouverture espagnole (= Ruy Lopez), variante ouverte (9...Fe7 10.Te1) $ P, O, NA
+C83 ouverture espagnole (= Ruy Lopez), variante ouverte, défense classique $ P, O, NA
+C83 ouverture espagnole (= Ruy Lopez), variante ouverte, piège de Tarrasch $ P, O, NA
+C83 ouverture espagnole (= Ruy Lopez), variante ouverte, sous-variante de Breslau $ P, O, NA
+C83 ouverture espagnole (= Ruy Lopez), variante ouverte, sous-variante Malkin $ P, O, NA
+C84 ouverture espagnole (= Ruy Lopez), variante fermée $ P, F, NA
+C84 ouverture espagnole (= Ruy Lopez), variante fermée centre (5...b5) (cf. C78) $ P, F, NA
+C84 ouverture espagnole (= Ruy Lopez), variante fermée, attaque du centre $ P, F, NA
+C84 ouverture espagnole (= Ruy Lopez), variante fermée, gambit basque (= variante nord-espagnole) $ T, F, NA
+C84/01 ouverture espagnole (= Ruy Lopez), variante fermée (6.d3) $ P, F, NA
+C84/02 ouverture espagnole (= Ruy Lopez), variante fermée (7...Fb7) $ P, F, NA
+C84/05 ouverture espagnole (= Ruy Lopez), variante fermée (7...d6) $ P, F, NA
+C85 ouverture espagnole (= Ruy Lopez), variante d’échange doublement différée $ P, F, NA
+C86 ouverture espagnole (= Ruy Lopez), attaque Worrall $ P, O, NA
+C86 ouverture espagnole (= Ruy Lopez), attaque Worrall, ligne solide $ P, O, NA
+C86 ouverture espagnole (= Ruy Lopez), attaque Worrall, ligne violente (8.c3) $ P, O, NA
+C87 ouverture espagnole (= Ruy Lopez), variante fermée, variante Averbakh $ P, F, NA
+C88 ouverture espagnole (= Ruy Lopez), piège de l’arche de Noé $ P, F, NA
+C88 ouverture espagnole (= Ruy Lopez), variante fermée (7...h6 8.d4) $ P, F, NA
+C88 ouverture espagnole (= Ruy Lopez), variante fermée (7...O-O) $ P, F, NA
+C88 ouverture espagnole (= Ruy Lopez), variante fermée (8.c3) $ P, F, NA
+C88 ouverture espagnole (= Ruy Lopez), variante fermée $ P, F, NA
+C88 ouverture espagnole (= Ruy Lopez), variante fermée, sous-variante Falla $ P, F, NA
+C88 ouverture espagnole (= Ruy Lopez), variante fermée, sous-variante Leonhardt $ P, F, NA
+C88 ouverture espagnole (= Ruy Lopez), variante fermée, système anti-Marshall (8.a4) $ P, F, NA
+C88 ouverture espagnole (= Ruy Lopez), variante Trajkovic $ P, F, NA
+C89 ouverture espagnole (= Ruy Lopez), gambit Marshall (11...c6) $ T, O, NA
+C89 ouverture espagnole (= Ruy Lopez), gambit Marshall $ T, O, NA
+C89 ouverture espagnole (= Ruy Lopez), gambit Marshall, ligne principale (12.d4) $ T, O, NA
+C89 ouverture espagnole (= Ruy Lopez), gambit Marshall, ligne principale $ T, O, NA
+C89 ouverture espagnole (= Ruy Lopez), gambit Marshall, ligne principale, variante Spassky $ T, O, NA
+C89 ouverture espagnole (= Ruy Lopez), gambit Marshall, variante Herman - Steiner $ T, O, NA
+C89 ouverture espagnole (= Ruy Lopez), gambit Marshall, variante Kevitz $ T, O, NA
+C90 ouverture espagnole (= Ruy Lopez), variante fermée (avec ...d6) $ P, F, NA
+C90 ouverture espagnole (= Ruy Lopez), variante fermée, sous-variante Lutikov $ P, F, NA
+C90 ouverture espagnole (= Ruy Lopez), variante fermée, sous-variante Pilnik $ P, F, NA
+C90 ouverture espagnole (= Ruy Lopez), variante fermée, sous-variante Suetine $ P, F, NA
+C91 ouverture espagnole (= Ruy Lopez), variante fermée (9.d4) $ P, F, NA
+C91 ouverture espagnole (= Ruy Lopez), variante fermée, sous-variante Bogolioubof $ P, F, NA
+C92 ouverture espagnole (= Ruy Lopez), variante fermée (9.h3) $ P, F, NA
+C92 ouverture espagnole (= Ruy Lopez), variante fermée, sous-variante Kérès (9...a5) $ P, F, NA
+C92 ouverture espagnole (= Ruy Lopez), variante fermée, sous-variante Kholmov $ P, F, NA
+C92 ouverture espagnole (= Ruy Lopez), variante fermée, sous-variante Ragozine - Petrossian (= Kérès) $ P, F, NA
+C92 ouverture espagnole (= Ruy Lopez), variante fermée, système Flohr - Zaitsev (= sous-variante Lenzerheide) $ P, F, NA
+C93 ouverture espagnole (= Ruy Lopez), variante fermée, défense Smyslov $ P, F, NA
+C94 ouverture espagnole (= Ruy Lopez), variante fermée, défense Breyer $ P, F, NA
+C95 ouverture espagnole (= Ruy Lopez), variante fermée, défense Breyer (10.d4) $ P, F, NA
+C95 ouverture espagnole (= Ruy Lopez), variante fermée, défense Breyer, sous-variante Borisenko $ P, F, NA
+C95 ouverture espagnole (= Ruy Lopez), variante fermée, défense Breyer, sous-variante Gligoric $ P, F, NA
+C95 ouverture espagnole (= Ruy Lopez), variante fermée, défense Breyer, sous-variante Simaguine $ P, F, NA
+C96 ouverture espagnole (= Ruy Lopez), variante fermée (10...c5) $ P, F, NA
+C96 ouverture espagnole (= Ruy Lopez), variante fermée (8...Ca5) $ P, F, NA
+C96 ouverture espagnole (= Ruy Lopez), variante fermée, défense Borisenko $ P, F, NA
+C96 ouverture espagnole (= Ruy Lopez), variante fermée, défense Kérès (avec ...Cd7) $ P, F, NA
+C96 ouverture espagnole (= Ruy Lopez), variante fermée, défense Rossolimo $ P, F, NA
+C97 ouverture espagnole (= Ruy Lopez), variante fermée, défense Tchigorine (12.Cbd2) $ P, F, NA
+C97 ouverture espagnole (= Ruy Lopez), variante fermée, défense Tchigorine, système yougoslave $ P, F, NA
+C98 ouverture espagnole (= Ruy Lopez), variante fermée, défense Tchigorine (12...Cc6) $ P, F, NA
+C98 ouverture espagnole (= Ruy Lopez), variante fermée, défense Tchigorine, attaque Rauser $ P, F, NA
+C98 ouverture espagnole (= Ruy Lopez), variante fermée, défense Tchigorine (avec ...cxd4) $ P, F, NA
+C99/13 ouverture espagnole (= Ruy Lopez), variante fermée, défense Tchigorine (avec ...cxd4, ...Fb7) $ P, F, NA
+D00 début du pion dame $ P, O, XVIII
+D00 début du pion dame, attaque Levitsky (attaque du fou dame) $ T, O, XX
+D00 début du pion dame, attaque Stonewall $ T, O, XX
+D00 début du pion dame, variante Mason $ P, O, XIX
+D00 début du pion dame, variante Mason, gambit Steinitz $ T, O, XIX
+D00 début du pion dame, variante Tchigorine $ T, O, XIX
+D00 défense anti Richter - Veresov $ T, O, XX
+D00 gambit Blackmar – Diemer $ T, O, XX
+D00 gambit Blackmar – Diemer, contre-gambit Lemberg $ T, O, XX
+D00 gambit Blackmar – Diemer, défense Euwe $ T, O, XX
+D00 gambit Blackmar – Diemer, défense Lagenheinicke $ T, O, XX
+D00 gambit Blackmar – Diemer, défense Teichmann $ T, O, XX
+D00/05 attaque Trompovsky, variante Hodgson $ T, O, XX
+D00/07 gambit Blackmar – Diemer, variante Hübsch $ T, O, XX
+D01 attaque Richter - Veresov $ T, O, XIX
+D01 attaque Richter - Veresov, variante Richter $ T, O, XIX
+D01 attaque Richter - Veresov, variante Veresov $ T, O, XIX
+D02 début du pion dame $ P, O, XIX
+D02 début du pion dame, variante anti-Grünfeld (tout sauf 6.c4) $ P, O, XX
+D02 début du pion dame, variante Krause $ P, O, XX
+D02 début du pion dame, variante Tchigorine $ P, O, XIX
+D02 système de Londres $ P, O, XIX
+D02 système de Londres $ P, O, XX
+D03 attaque Torre (= Tartakover) $ P, O, XX
+D03/12 attaque Torre (= Tartakover) $ P, O, XX
+D04 début du pion dame $ P, O, XIX
+D05 système Colle $ P, O, XIX
+D05 système Colle, variante Koltanovski $ P, O, XX
+D05 système Colle, variante Zukertort (= Rubinstein) $ P, O, XX
+D05 système Colle, variante Zukertort $ P, O, XIX
+D06 gambit dame $ T, O, XIX
+D06 gambit dame refusé, défense Grau (= Sahovic) $ P, O, XIX
+D06 gambit dame refusé, défense Marshall $ P, O, XIX
+D06 gambit dame refusé, défense symétrique (= autrichienne) $ P, O, XX
+D07 gambit dame refusé, défense Tchigorine $ P, O, XIX
+D07 gambit dame refusé, défense Tchigorine défense, variante Janowski $ P, O, XIX
+D08 gambit dame refusé, contre-gambit Albin $ T, O, XIX
+D08 gambit dame refusé, contre-gambit Albin, piège de Lasker $ T, O, XIX
+D08 gambit dame refusé, contre-gambit Albin, variante Alapine $ T, O, XIX
+D08 gambit dame refusé, contre-gambit Albin, variante Balogh $ T, O, XIX
+D08 gambit dame refusé, contre-gambit Albin, variante Janowski $ T, O, XIX
+D08 gambit dame refusé, contre-gambit Albin, variante Krenosz $ T, O, XIX
+D09 gambit dame refusé, contre-gambit Albin (5.g3) $ T, O, XX
+D10 gambit dame refusé, défense slave $ P, O, XVIII
+D10 gambit dame refusé, défense slave, gambit Winawer $ T, O, XIX
+D10 gambit dame refusé, défense slave, variante Alekhine $ P, O, XX
+D10 gambit dame refusé, défense slave, variante d’échange $ P, O, XVIII
+D11 gambit dame refusé, défense slave (2...Ff5) $ P, O, XVIII
+D11 gambit dame refusé, défense slave (3.Cf3) $ P, O, XVIII
+D11 gambit dame refusé, défense slave (4.Dc2) $ P, O, XVIII
+D11 gambit dame refusé, défense slave (4.e3) $ P, O, XVIII
+D11 gambit dame refusé, défense slave, variante Breyer $ P, O, XX
+D12 gambit dame refusé, défense slave (4.e3 Ff5) $ P, O, XX
+D12 gambit dame refusé, défense slave, variante d’Amsterdam $ P, O, XIX
+D12 gambit dame refusé, défense slave, variante d’échange $ P, O, XVIII
+D12 gambit dame refusé, défense slave, variante de Landau $ P, O, XX
+D13 gambit dame refusé, défense slave, variante d’échange $ P, O, XVIII
+D14 gambit dame refusé, défense slave, variante d’échange (6.Ff4 Ff5) $ P, O, XX
+D14 gambit dame refusé, défense slave, variante d’échange, sous-variante Trifunovic $ P, O, XX
+D14/03 gambit dame refusé, défense slave, variante d’échange, attaque Wuss $ T, O, XX
+D15 gambit dame refusé, défense slave (avec …dxc4) $ P, O, XVIII
+D15 gambit dame refusé, défense slave, (avec Cc3) $ P, O, XVIII
+D15 gambit dame refusé, défense slave, gambit $ T, O, XVIII
+D15 gambit dame refusé, défense slave, variante Alekhine (5.e3) $ P, O, XX
+D15 gambit dame refusé, défense slave, variante Schlechter $ P, O, XX
+D15 gambit dame refusé, défense slave, variante Süchting $ P, O, XX
+D15/07 gambit dame refusé, défense slave, Tolush-Geller gambit $ T, O, XX
+D16 gambit dame refusé, défense slave, variante Alapine $ P, O, XX
+D16 gambit dame refusé, défense slave, variante Smyslov $ P, O, XX
+D16 gambit dame refusé, défense slave, variante Soultanbeieff $ P, O, XX
+D16 gambit dame refusé, défense slave, variante Steiner variante $ P, O, XX
+D17 gambit dame refusé, défense slave, attaque Krause $ P, O, XX
+D17 gambit dame refusé, défense slave, défense tchèque $ P, O, XX
+D17 gambit dame refusé, défense slave, variante de Karlsbad $ P, O, XIX
+D17 gambit dame refusé, défense slave, variante de Wiesbaden $ P, O, XIX
+D18 gambit dame refusé, défense slave, variante hollandaise (6.e3) $ P, O, XX
+D18 gambit dame refusé, défense slave, variante hollandaise, sous-variante Lasker $ P, O, XIX
+D18/02 gambit dame refusé, défense slave, variante hollandaise, gambit $ T, O, XX
+D19 gambit dame refusé, défense slave, variante hollandaise $ P, O, XX
+D19 gambit dame refusé, défense slave, variante hollandaise, ligne principale $ P, O, XX
+D19 gambit dame refusé, défense slave, variante hollandaise, sous-variante Sämisch $ P, O, XX
+D20 gambit dame accepté, (3.e4) $ T, O, XVIII
+D20 gambit dame accepté, Linares variante $ T, O, XX
+D20 gambit dame accepté, Schwartz défense $ T, O, XX
+D20 Queen's gambit accepted $ P, O, XIX
+D21 gambit dame accepté (3.Cf3) $ T, O, XIX
+D21 gambit dame accepté, défense Alekhine, variante Borisenko - Furman $ T, O, XX
+D21 gambit dame accepté, variante Ericson $ T, O, XX
+D22 gambit dame accepté, défense Alekhine $ T, O, XX
+D22 gambit dame accepté, défense Alekhine, variante Alatortsev $ T, O, XX
+D22 gambit dame accepté, variante Haberditz $ T, O, XX
+D23 gambit dame accepté $ P, O, XVIII
+D23 gambit dame accepté, variante Mannheim $ T, O, XX
+D23/06 gambit dame accepté (4.Dc2) $ P, O, XX
+D24 gambit dame accepté (4.Cc3) $ T, O, XIX
+D24 gambit dame accepté, variante Bogolioubof $ T, O, XX
+D25 gambit dame accepté (4.e3) $ T, O, XIX
+D25 gambit dame accepté, variante Flohr $ T, O, XX
+D25 gambit dame accepté, variante Janovsky - Larsen $ T, O, XX
+D25 gambit dame accepté, variante Smyslov $ T, O, XX
+D26 gambit dame accepté (4...e6) $ T, O, XIX
+D26 gambit dame accepté, variante classique (6.O-O) $ T, O, XIX
+D26 gambit dame accepté, variante classique $ T, O, XIX
+D26 gambit dame accepté, variante classique, sous-variante Furman $ T, O, XX
+D26 gambit dame accepté, variante classique, sous-variante Steinitz $ T, O, XIX
+D27 gambit dame accepté, variante classique (6...a6) $ T, O, XIX
+D27 gambit dame accepté, variante classique, sous-variante Geller $ T, O, XX
+D27 gambit dame accepté, variante classique, sous-variante Rubinstein $ T, O, XX
+D28 gambit dame accepté, variante classique (7...b5) $ T, O, XIX
+D28 gambit dame accepté, variante classique (7.De2) $ T, O, XX
+D28 gambit dame accepté, variante classique, sous-variante Flohr $ T, O, XX
+D29 gambit dame accepté, variante classique (8...Fb7) $ T, O, XX
+D29 gambit dame accepté, variante classique, sous-variante Smyslov $ T, O, XX
+D30 gambit dame refusé $ T, O, XIX
+D30 gambit dame refusé, défense slave $ P, F, XIX
+D30 gambit dame refusé, défense slave, variante Semmering $ P, F, XIX
+D30 gambit dame refusé, variante Capablanca - Duras $ P, F, XX
+D30 gambit dame refusé, variante Capablanca $ P, F, XX
+D30 gambit dame refusé, variante d’Hastings $ P, F, XIX
+D30 gambit dame refusé, variante Spielmann $ P, F, XX
+D30 gambit dame refusé, variante Stonewall $ P, F, XX
+D30 gambit dame refusé, variante Vienna $ P, F, XIX
+D31 gambit dame refusé (3.Cc3) $ T, O, XIX
+D31 gambit dame refusé, défense semi-slave $ P, F, XIX
+D31 gambit dame refusé, défense semi-slave, gambit Marshall $ T, O, XX
+D31 gambit dame refusé, défense semi-slave, variante Abrahams $ T, O, XX
+D31 gambit dame refusé, défense semi-slave, variante Junge $ T, O, XX
+D31 gambit dame refusé, défense semi-slave, variante Koomen $ T, O, XX
+D31 gambit dame refusé, défense semi-slave, variante Noteboom $ T, O, XX
+D31 gambit dame refusé, variante Alapine $ T, O, XIX
+D31 gambit dame refusé, variante Charousek (= Petrossian) $ T, O, XX
+D31 gambit dame refusé, variante Janowski $ T, O, XIX
+D32 gambit dame refusé, défense Tarrasch (4.cd ed) $ P, F, XIX
+D32 gambit dame refusé, défense Tarrasch $ P, F, XIX
+D32 gambit dame refusé, défense Tarrasch, gambit Marshall $ T, O, XX
+D32 gambit dame refusé, défense Tarrasch, gambit Tarrasch $ T, O, XIX
+D32 gambit dame refusé, défense Tarrasch, gambit von Hennig-Schara $ T, O, XX
+D32/16 gambit dame refusé, défense Tarrasch (6.e3) $ P, F, XX
+D33 gambit dame refusé, défense Tarrasch, système Schlechter - Rubinstein $ P, F, XIX
+D33 gambit dame refusé, défense Tarrasch, système Schlechter - Rubinstein, variante Rey Ardid $ P, F, XX
+D33 gambit dame refusé, défense Tarrasch, variante de Folkestone (= suédoise) $ P, F, XX
+D33 gambit dame refusé, défense Tarrasch, variante de Prague $ P, F, XIX
+D33 gambit dame refusé, défense Tarrasch, variante Wagner $ P, F, XX
+D34 gambit dame refusé, défense Tarrasch, variante Bogolioubof $ P, F, XX
+D34 gambit dame refusé, défense Tarrasch, variante de Prague (7...Fe7) $ P, F, XX
+D34 gambit dame refusé, défense Tarrasch, variante de Prague (9.Fg5) $ P, F, XX
+D34 gambit dame refusé, défense Tarrasch, variante de Prague, position normale $ P, F, XX
+D34 gambit dame refusé, défense Tarrasch, variante Réti $ P, F, XX
+D34 gambit dame refusé, défense Tarrasch, variante Stoltz $ P, F, XX
+D35 gambit dame refusé (3...Cf6) $ T, O, XVIII
+D35 gambit dame refusé, attaque Harrwitz $ T, O, XIX
+D35 gambit dame refusé, variante d’échange $ P, F, XIX
+D35 gambit dame refusé, variante d’échange, ligne positionnelle (5...c6) $ P, F, XX
+D35 gambit dame refusé, variante d’échange, ligne positionnelle $ P, F, XIX
+D35 gambit dame refusé, variante d’échange, sous-variante du caméléon $ P, F, XIX
+D35 gambit dame refusé, variante d’échange, variante Sämisch $ P, F, XX
+D36 gambit dame refusé, variante d’échange, ligne positionnelle (6.Dc2) $ P, F, XX
+D36/07 gambit dame refusé, variante d’échange, ligne moderne $ P, F, XX
+D37 gambit dame refusé (4.Cf3) $ T, O, XIX
+D37 gambit dame refusé, variante classique $ P, F, XIX
+D38 gambit dame refusé, variante Ragozine $ T, O, XX
+D39 gambit dame refusé, variante Ragozine, sous-variante de Vienne $ T, O, XX
+D40 gambit dame refusé, défense semi-Tarrasch $ P, F, XX
+D40 gambit dame refusé, défense semi-Tarrasch, variante Levenfish $ T, O, XX
+D40 gambit dame refusé, défense semi-Tarrasch, variante Pillsbury $ T, O, XX
+D40 gambit dame refusé, défense semi-Tarrasch, variante symétrique $ P, F, XX
+D40/11 gambit dame refusé, défense semi-Tarrasch, variante d’échange (cf. B14/D42) $ P, F, XX
+D41 gambit dame refusé, défense semi-Tarrasch (5.cxd5) $ P, F, XX
+D41 gambit dame refusé, défense semi-Tarrasch, ligne moderne $ P, F, XX
+D41 gambit dame refusé, défense semi-Tarrasch, variante de San Sebastian $ P, F, XX
+D41 gambit dame refusé, défense semi-Tarrasch, variante Kmoch $ P, F, XX
+D41/32 gambit dame refusé, défense semi-Tarrasch (avec e3) $ P, F, XX
+D42 gambit dame refusé, défense semi-Tarrasch (3...c5) (cf. B14, E54, D40, D32) $ P, F, XIX
+D42 gambit dame refusé, défense semi-Tarrasch (7.Fd3) $ P, F, XX
+D43 gambit dame refusé, défense semi-slave $ P, F, XIX
+D43 gambit dame refusé, défense semi-slave, variante d’Hastings $ P, F, XIX
+D44 gambit dame refusé, défense semi-slave (5.Fg5 dxc4) $ T, O, XX
+D44 gambit dame refusé, défense semi-slave, gambit anti-variante Méran $ T, O, XX
+D44 gambit dame refusé, défense semi-slave, gambit anti-variante Méran, système Alatortsev $ T, O, XX
+D44 gambit dame refusé, défense semi-slave, gambit anti-variante Méran, variante Lilienthal $ T, O, XX
+D44 gambit dame refusé, défense semi-slave, gambit anti-variante Méran, variante Szabo $ T, O, XX
+D44 gambit dame refusé, défense semi-slave, gambit anti-variante Méran (= système Botvinnik) $ T, O, XX
+D44 gambit dame refusé, défense semi-slave, variante Ekstrom $ P, F, XX
+D44/05 gambit dame refusé, défense semi-slave, gambit anti-variante Méran (4...dxc4) $ T, O, XX
+D44/06 gambit dame refusé, défense semi-slave, système Botvinnik (anti-variante Méran avec a4) $ T, O, XX
+D44/07 gambit dame refusé, défense semi-slave, gambit anti-variante Méran, variante Denker $ T, O, XX
+D45 gambit dame refusé, défense semi-slave (5...Cd7) $ P, F, XIX
+D45 gambit dame refusé, défense semi-slave (5.e3) $ P, F, XX
+D45 gambit dame refusé, défense semi-slave, défense Stonewall $ P, F, XX
+D45 gambit dame refusé, défense semi-slave, système Rubinstein (anti-variante Méran) $ P, F, XX
+D45 gambit dame refusé, défense semi-slave, variante Stoltz $ P, F, XX
+D45 gambit dame refusé, défense semi-slave, variante variante Méran accélérée (= Alekhine) $ P, F, XX
+D46 gambit dame refusé, défense semi-slave (6.Fd3) $ P, F, XX
+D46 gambit dame refusé, défense semi-slave (avec Dc2, Fd3) $ P, F, XX
+D46 gambit dame refusé, défense semi-slave (sans Cc3) $ P, F, XX
+D46 gambit dame refusé, défense semi-slave, défense Tchigorine $ P, F, XX
+D46 gambit dame refusé, défense semi-slave, variante Bogolioubof $ P, F, XX
+D46 gambit dame refusé, défense semi-slave, variante Romih $ P, F, XX
+D47 gambit dame refusé, défense semi-slave (7.Fc4) $ P, F, XX
+D47 gambit dame refusé, défense semi-slave, variante Méran $ P, F, XX
+D47 gambit dame refusé, défense semi-slave, variante Méran, sous-variante Wade $ P, F, XX
+D47 gambit dame refusé, défense semi-slave, variante néo-Méran (= Lundin) $ P, F, XX
+D48 gambit dame refusé, défense semi-slave, variante Méran (8...a6) $ P, F, XX
+D48 gambit dame refusé, défense semi-slave, variante Méran, ancienne ligne principale $ P, F, XX
+D48 gambit dame refusé, défense semi-slave, variante Méran, sous-variante Pirc $ P, F, XX
+D48 gambit dame refusé, défense semi-slave, variante Méran, sous-variante Reynold $ P, F, XX
+D49 gambit dame refusé, défense semi-slave, variante Méran, sous-variante Blumenfeld $ P, F, XX
+D49 gambit dame refusé, défense semi-slave, variante Méran, sous-variante Rabinovich $ P, F, XX
+D49 gambit dame refusé, défense semi-slave, variante Méran, sous-variante Rellstab $ P, F, XX
+D49 gambit dame refusé, défense semi-slave, variante Méran, sous-variante Sozine $ P, F, XX
+D49 gambit dame refusé, défense semi-slave, variante Méran, sous-variante Stahlberg $ P, F, XX
+D50 gambit dame refusé (4.Fg5) $ T, O, XIX
+D50 gambit dame refusé, défense semi-Tarrasch $ P, O, XIX
+D50 gambit dame refusé, défense semi-Tarrasch, variante Krause $ P, O, XIX
+D50 gambit dame refusé, défense semi-Tarrasch, variante Pillsbury primitive $ P, O, XIX
+D50 gambit dame refusé, variante Been-Koomen $ T, O, XIX
+D50 gambit dame refusé, variante Canal (= de Venise) $ T, O, XIX
+D51 gambit dame refusé (4.Fg5 Cbd7) $ T, O, XIX
+D51 gambit dame refusé (5...c6) $ T, O, XIX
+D51 gambit dame refusé $ T, O, XIX
+D51 gambit dame refusé, variante Alekhine $ T, O, XIX
+D51 gambit dame refusé, variante Capablanca (= anti-Cambridge Springs) $ T, O, XIX
+D51 gambit dame refusé, variante de Manhattan $ T, O, XX
+D51 gambit dame refusé, variante Rochlin $ T, O, XX
+D52 gambit dame refusé $ T, O, XX
+D52 gambit dame refusé, défense Cambridge Springs (7.cxd5) $ P, F, XX
+D52 gambit dame refusé, défense Cambridge Springs $ P, F, XX
+D52 gambit dame refusé, défense Cambridge Springs, variante argentine $ P, F, XX
+D52 gambit dame refusé, défense Cambridge Springs, variante Bogolioubof $ P, F, XX
+D52 gambit dame refusé, défense Cambridge Springs, variante Capablanca $ P, F, XX
+D52 gambit dame refusé, défense Cambridge Springs, variante Rubinstein $ P, F, XX
+D52 gambit dame refusé, défense Cambridge Springs, variante yougoslave $ P, F, XX
+D53 gambit dame refusé (4.Fg5 Fe7 5.e3 O-O) $ T, O, XX
+D53 gambit dame refusé (4.Fg5 Fe7) $ T, O, XX
+D53 gambit dame refusé, variante Lasker $ T, O, XX
+D54 gambit dame refusé, variante anti-néo-orthodoxe $ T, O, XX
+D55 gambit dame refusé (6.Cf3) $ P, O, XX
+D55 gambit dame refusé, attaque Pillsbury $ T, O, XX
+D55 gambit dame refusé, variante néo-orthodoxe (7.Fh4) $ T, O, XX
+D55 gambit dame refusé, variante néo-orthodoxe (7.Fxf6) $ T, O, XX
+D55 gambit dame refusé, variante néo-orthodoxe $ T, O, XX
+D55 gambit dame refusé, variante néo-orthodoxe accélérée (5.Fg5 h6) $ T, O, XX
+D55 gambit dame refusé, variante Petrossian $ T, O, XX
+D56 gambit dame refusé, défense Lasker $ P, O, XX
+D56 gambit dame refusé, défense Lasker, variante russe $ P, O, XX
+D56 gambit dame refusé, défense Lasker, variante Teichmann $ P, O, XX
+D57 gambit dame refusé, défense Lasker, ligne principale $ P, O, XX
+D57 gambit dame refusé, défense Lasker, variante Bernstein $ P, O, XX
+D58 gambit dame refusé, système Tartakover (= Makagonov - Bondarevsky) $ P, O, XX
+D58/17 gambit dame refusé, système Tartakover (= Nikolic - Vaganian) $ P, O, XX
+D58/23 gambit dame refusé, système Tartakover (= Kasparov - Beliavsky) $ P, O, XX
+D59 gambit dame refusé, système Tartakover (= Makagonov - Bondarevsky) (8.cd Cxd5) $ P, O, XX
+D59 gambit dame refusé, système Tartakover $ P, O, XX
+D60 gambit dame refusé, défense orthodoxe $ P, O, XVIII
+D60 gambit dame refusé, défense orthodoxe, variante Botvinnik $ P, O, XX
+D60 gambit dame refusé, défense orthodoxe, variante Rauser $ P, O, XX
+D61 gambit dame refusé, défense orthodoxe, Rubinstein variante $ P, O, XX
+D62 gambit dame refusé, défense orthodoxe, Rubinstein variante $ P, O, XX
+D63 gambit dame refusé, défense orthodoxe (7.Tc1) $ P, O, XX
+D63 gambit dame refusé, défense orthodoxe $ P, O, XX
+D63 gambit dame refusé, défense orthodoxe, attaque Pillsbury $ P, O, XX
+D63 gambit dame refusé, défense orthodoxe, variante Capablanca $ P, O, XX
+D63 gambit dame refusé, défense orthodoxe, variante suisse (= Henneberger) $ P, O, XX
+D63 gambit dame refusé, défense orthodoxe, variante suisse, sous-variante de Karlsbad $ P, O, XX
+D64 gambit dame refusé, défense orthodoxe, attaque Rubinstein (avec Tc1) $ P, O, XX
+D64 gambit dame refusé, défense orthodoxe, attaque Rubinstein, variante Grünfeld $ P, O, XX
+D64 gambit dame refusé, défense orthodoxe, attaque Rubinstein, variante Karlsbad $ P, O, XX
+D64 gambit dame refusé, défense orthodoxe, attaque Rubinstein, variante Wolf $ P, O, XX
+D65 gambit dame refusé, défense orthodoxe, attaque Rubinstein, ligne principale $ P, O, XX
+D66 gambit dame refusé, défense orthodoxe (avec Fd3) $ P, O, XX
+D66 gambit dame refusé, défense orthodoxe (avec Fd3), variante fianchetto $ P, O, XX
+D67 gambit dame refusé, défense orthodoxe (avec Fd3) $ P, O, XX
+D67 gambit dame refusé, défense orthodoxe (avec Fd3), variante Alekhine $ P, O, XX
+D67 gambit dame refusé, défense orthodoxe (avec Fd3), variante Capablanca $ P, O, XX
+D67 gambit dame refusé, défense orthodoxe (avec Fd3), variante Janovski $ P, O, XX
+D67 gambit dame refusé, défense orthodoxe (avec Fd3 11.O-O) $ P, O, XX
+D68 gambit dame refusé, défense orthodoxe, variante classique (13.Db1, Maroczy) $ P, O, XX
+D68 gambit dame refusé, défense orthodoxe, variante classique (13.Dc2, Vidmar) $ P, O, XX
+D68 gambit dame refusé, défense orthodoxe, variante classique $ P, O, XX
+D69 gambit dame refusé, défense orthodoxe, variante classique (13.dxe5) $ P, O, XX
+D70 défense néo-Grünfeld (= Kemeri) $ P, O, XX
+D70 défense néo-Grünfeld $ P, O, XX
+D71 défense néo-Grünfeld (5.cxd5) $ P, O, XX
+D72 défense néo-Grünfeld (5.cxd5), ligne principale $ P, O, XX
+D73 défense néo-Grünfeld (5.Cf3) $ P, O, XX
+D73 défense néo-Grünfeld (avec ...Cb6) $ P, O, XX
+D74 défense néo-Grünfeld (6.cxd5 Cxd5 7.O-O) $ P, O, XX
+D75 défense néo-Grünfeld (7...c5 8.Cc3) $ P, O, XX
+D75 défense néo-Grünfeld (7...c5 8.dxc5) $ P, O, XX
+D76 défense néo-Grünfeld (6.cxd5 Cxd5 7.O-O Cb6) $ P, O, XX
+D77 défense néo-Grünfeld (6.O-O) $ P, O, XX
+D78 défense néo-Grünfeld (6.O-O c6) $ P, O, XX
+D78/01 défense néo-Grünfeld (6.O-O c6) $ P, O, XX
+D79 défense néo-Grünfeld (6.O-O), ligne principale $ P, O, XX
+D79/02 défense néo-Grünfeld (6.cxd5, Karpov) $ P, O, XX
+D80 défense Grünfeld $ P, O, XX
+D80 défense Grünfeld, gambit Spike $ T, O, XX
+D80 défense Grünfeld, variante de Stockholm $ T, O, XX
+D80 défense Grünfeld, variante Lundin $ T, O, XX
+D81 défense Grünfeld, variante russe $ T, O, XX
+D82 défense Grünfeld, (4.Ff4) $ T, O, XX
+D83 défense Grünfeld, gambit Grünfeld $ T, O, XX
+D83 défense Grünfeld, gambit Grünfeld, variante Botvinnik $ T, O, XX
+D83 défense Grünfeld, gambit Grünfeld, variante Capablanca $ T, O, XX
+D84 défense Grünfeld, gambit Grünfeld accepté $ T, O, XX
+D85 défense Grünfeld, variante d’échange $ T, O, XX
+D85 défense Grünfeld, variante d’échange moderne $ T, O, XX
+D85/04 défense Grünfeld, variante d’échange moderne (Fb5+) (cf. D86) $ T, O, XX
+D86 défense Grünfeld, variante d’échange, sous-variante classique $ T, O, XX
+D86 défense Grünfeld, variante d’échange, sous-variante Larsen $ T, O, XX
+D86 défense Grünfeld, variante d’échange, sous-variante Simaguine améliorée $ T, O, XX
+D86 défense Grünfeld, variante d’échange, sous-variante Simaguine réduite $ T, O, XX
+D87 défense Grünfeld, variante d’échange, sous-variante de Séville $ T, O, XX
+D87 défense Grünfeld, variante d’échange, sous-variante Spassky $ T, O, XX
+D88 défense Grünfeld, variante d’échange, sous-variante Spassky, ligne principale (10...cxd4 11.cxd4) $ P, O, XX
+D89 défense Grünfeld, variante d’échange, sous-variante Sokolsky $ P, O, XX
+D89 défense Grünfeld, variante d’échange, sous-variante Spassky, ligne principale (13.Fd3) $ P, O, XX
+D90 défense Grünfeld, variante des trois cavaliers $ P, O, XX
+D90 défense Grünfeld, variante Flohr $ P, O, XX
+D90 défense Grünfeld, variante Schlechter $ P, O, XX
+D91 défense Grünfeld (5.Fg5) $ P, O, XX
+D92 défense Grünfeld (5.Ff4 O-O) $ P, O, XX
+D93 défense Grünfeld (avec ...c5, dxc5) $ P, O, XX
+D93 défense Grünfeld (avec Db3) $ P, O, XX
+D93 défense Grünfeld (avec Ff4, e3) $ P, O, XX
+D94 défense Grünfeld (5.e3) $ P, O, XX
+D94 défense Grünfeld, (avec e3 Fd3) $ P, O, XX
+D94 défense Grünfeld, défense Flohr $ P, O, XX
+D94 défense Grünfeld, défense Smyslov $ P, O, XX
+D94 défense Grünfeld, variante Makogonov $ P, O, XX
+D94 défense Grünfeld, variante Opovcensky $ P, O, XX
+D94/16 défense Grünfeld (5.e3 c6) $ P, O, XX
+D95 défense Grünfeld (avec e3 & Db3) $ P, O, XX
+D95 défense Grünfeld, variante Botvinnik $ P, O, XX
+D95 défense Grünfeld, variante Pachman $ P, O, XX
+D96 défense Grünfeld, variante russe $ P, O, XX
+D97 défense Grünfeld, variante russe (avec e4) $ P, O, XX
+D97 défense Grünfeld, variante russe, sous-variante (= Simaguine) $ P, O, XX
+D97 défense Grünfeld, variante russe, sous-variante Alekhine (= hongroise) $ P, O, XX
+D97 défense Grünfeld, variante russe, sous-variante Levenfish $ P, O, XX
+D97 défense Grünfeld, variante russe, sous-variante Prins $ P, O, XX
+D97 défense Grünfeld, variante russe, sous-variante Szabo (= Boleslavsky) $ P, O, XX
+D98 défense Grünfeld, variante russe, sous-variante Kérès $ P, O, XX
+D98 défense Grünfeld, variante russe, sous-variante Smyslov (7...Fg4) $ P, O, XX
+D99 défense Grünfeld, variante russe, sous-variante Smyslov, attaque yougoslave $ P, O, XX
+D99 défense Grünfeld, variante russe, sous-variante Smyslov, ligne principale $ P, O, XX
+E00 attaque néo-indienne (= Seirawan) $ T, O, XX
+E00 début du pion dame $ P, O, XX
+E00 ouverture catalane (3.g3) $ T, O, XX
+E00 ouverture catalane $ T, O, XX
+E00 ouverture catalane, variante Lobron - Morozevich $ T, O, XXI
+E01 ouverture catalane fermée (4.Fg2) $ P, F, XXI
+E02 ouverture catalane ouverte (5.Da4+) $ T, O, XXI
+E03 ouverture catalane ouverte (5.Da4+ Cbd7 6.Dxc4) $ T, O, XXI
+E03 ouverture catalane ouverte, variante Alekhine $ T, O, XX
+E03/02 ouverture catalane ouverte, variante Alekhine (ligne anglaise) $ T, O, XX
+E04 ouverture catalane ouverte (5.Cf3 c5) $ P, O, XX
+E04 ouverture catalane ouverte (5.Cf3 Cc6) $ P, O, XX
+E04 ouverture catalane ouverte (5.Cf3) $ P, O, XX
+E05 ouverture catalane ouverte, ligne classique (5...Fe7) $ P, O, XX
+E05 ouverture catalane ouverte, ligne classique $ P, O, XX
+E05/03 ouverture catalane ouverte (avec Cc3) $ P, O, XX
+E06 ouverture catalane fermée (5.Cf3) $ P, F, XX
+E06/04 ouverture catalane fermée $ P, F, XX
+E07 ouverture catalane fermée (6...Cbd7) $ P, F, XX
+E07 ouverture catalane fermée, variante Botvinnik $ P, F, XX
+E08 ouverture catalane fermée (7.Dc2) $ P, F, XX
+E08 ouverture catalane fermée (avec Dc2 & b3) $ P, F, XX
+E08 ouverture catalane fermée, variante Zagoryansky $ P, F, XX
+E08/01 ouverture catalane fermée, ligne moderne (Fb4+) $ P, F, XXI
+E08/07 ouverture catalane fermée, gambit Spassky $ T, F, XX
+E09 ouverture catalane fermée, ligne moderne $ P, F, XX
+E09 ouverture catalane fermée, ligne principale $ P, F, XX
+E09 ouverture catalane fermée, variante Sokolsky $ P, F, XX
+E10 contre-gambit Blumenfeld $ T, O, XX
+E10 contre-gambit Blumenfeld accepté $ T, O, XX
+E10 contre-gambit Blumenfeld, variante Dus - Chotimursky $ T, O, XX
+E10 contre-gambit Blumenfeld, variante Spielmann $ T, O, XX
+E10 début du pion dame $ P, O, XX
+E10 défense Döry $ P, O, XX
+E10 défense Dzindzihashvili $ P, O, XX
+E11 défense Bogo-indienne $ P, O, XX
+E11 défense Bogo-indienne, piège de Monticelli $ T, O, XX
+E11 défense Bogo-indienne, variante Grünfeld $ P, O, XX
+E11 défense Bogo-indienne, variante Nimzovitch (5.g3) $ P, O, XX
+E11/36 défense Bogo-indienne (retraite ...Fe7), ligne Kasparov $ P, O, XXI
+E12 défense ouest-indienne (4.Cc3) $ P, O, XIX
+E12 défense ouest-indienne (4.Cc3), variante Botvinnik $ P, O, XX
+E12 défense ouest-indienne $ P, O, XIX
+E12 défense ouest-indienne, système Petrossian $ P, O, XX
+E12 défense ouest-indienne, variante Miles $ P, O, XX
+E12/23 défense ouest-indienne $ P, O, XIX
+E13 défense ouest-indienne, ligne principale (7.e3) $ P, O, XX
+E14 défense ouest-indienne (4.e3) $ P, O, XIX
+E14 défense ouest-indienne, variante Averbakh $ P, O, XX
+E14/03 défense ouest-indienne (avec e3) $ P, O, XIX
+E14/07 défense ouest-indienne, variante Averbakh $ P, O, XX
+E14/07 défense ouest-indienne, variante Averbakh moderne $ P, O, XX
+E15 défense ouest-indienne (4.g3 Fb7) $ P, O, XX
+E15 défense ouest-indienne 4.g3 $ P, O, XX
+E15 défense ouest-indienne, variante Bürger $ P, O, XX
+E15 défense ouest-indienne, variante Nimzovitch (= fianchetto exagéré) $ P, O, XX
+E15 défense ouest-indienne, variante Rubinstein $ P, O, XX
+E15/25 défense ouest-indienne, variante Vaganian $ P, O, XXI
+E16 défense ouest-indienne, variante Capablanca (5...Fb4+) $ P, O, XX
+E16 défense ouest-indienne, variante Riumin $ P, O, XX
+E16 défense ouest-indienne, variante Yates $ P, O, XX
+E17 défense ouest-indienne (5.Fg2 Fe7) $ P, O, XX
+E17 défense ouest-indienne, système anti-défense ouest-indienne $ P, O, XX
+E17 défense ouest-indienne, variante Euwe $ P, O, XX
+E17 défense ouest-indienne, variante Opovcensky $ P, O, XX
+E18 défense ouest-indienne, ancienne ligne principale (7.Cc3) $ P, O, XIX
+E18/02 défense ouest-indienne, ancienne ligne principale $ P, O, XIX
+E19 défense ouest-indienne, ancienne ligne principale (9.Dxc3) $ P, O, XIX
+E20 défense Nimzo-indienne $ P, O, XIX
+E20 défense Nimzo-indienne, attaque Mikenas $ T, O, XX
+E20 défense Nimzo-indienne, système Romanichine - Kasparov (= Steiner) $ P, O, XX
+E20 défense Nimzo-indienne, variante Kmoch $ P, O, XIX
+E20/05 défense Nimzo-indienne, système Kasparov $ P, O, XXI
+E20/10 défense Nimzo- indienne, système Romanichine - Kasparov (= Steiner) $ P, O, XX
+E21 défense Nimzo- indienne, variante des trois cavaliers $ P, O, XX
+E21 défense Nimzo- indienne, variante des trois cavaliers, sous-variante Euwe $ P, O, XX
+E21 défense Nimzo- indienne, variante des trois cavaliers, sous-variante Kortchnoï $ P, O, XX
+E21 défense Nimzo-indienne, variante des trois cavaliers (avec ...b6) $ P, O, XX
+E22 défense Nimzo-indienne, variante Spielmann (4.Db3) $ P, O, XX
+E23 défense Nimzo-indienne, variante Spielmann (4...c5 5.dxc5 Cc6) $ P, O, XX
+E23 défense Nimzo-indienne, variante Spielmann, sous-variante de Karlsbad $ P, O, XX
+E23 défense Nimzo-indienne, variante Spielmann, sous-variante de San Remo $ P, O, XX
+E23 défense Nimzo-indienne, variante Spielmann, sous-variante Stahlberg $ P, O, XX
+E24 défense Nimzo-indienne, variante Sämisch $ P, O, XIX
+E24 défense Nimzo-indienne, variante Sämisch, sous-variante Botvinnik $ P, O, XX
+E25 défense Nimzo- indienne, variante Sämisch, sous-variante Romanovsky $ P, O, XX
+E25 défense Nimzo-indienne, variante Sämisch $ P, O, XIX
+E25 défense Nimzo-indienne, variante Sämisch, sous-variante Kérès $ P, O, XX
+E26 défense Nimzo- indienne, variante Sämisch $ P, O, XIX
+E26 défense Nimzo- indienne, variante Sämisch, sous-variante O'Kelly $ P, O, XX
+E27 défense Nimzo- indienne, variante Sämisch $ P, O, XIX
+E28 défense Nimzo- indienne, variante Sämisch $ P, O, XIX
+E29 défense Nimzo- indienne, variante Sämisch, ligne principale $ P, O, XX
+E29 défense Nimzo- indienne, variante Sämisch, sous-variante Capablanca $ P, O, XX
+E30 défense Nimzo-indienne, variante de Leningrad (ext fm 4.Fg5) $ P, O, XX
+E30 défense Nimzo-indienne, variante de Leningrad (gambit ...b5) $ T, O, XX
+E31 défense Nimzo- indienne, variante de Leningrad, ligne principale $ P, O, XX
+E32 défense Nimzo- indienne, variante classique, gambit Adorjan $ T, O, XX
+E32 défense Nimzo-indienne, variante classique $ P, O, XIX
+E33 défense Nimzo- indienne, variante classique (4...Cc6) $ P, O, XX
+E33 défense Nimzo- indienne, variante classique, sous-variante Milner-Barry (= de Zürich) $ P, O, XX
+E34 défense Nimzo- indienne, variante classique, sous-variante Noa $ P, O, XX
+E35 défense Nimzo- indienne, variante classique, sous-variante Noa (5.cd ed) $ P, O, XX
+E36 défense Nimzo- indienne, variante classique, sous-variante Botvinnik $ P, O, XX
+E36 défense Nimzo- indienne, variante classique, sous-variante Noa (5.a3) $ P, O, XX
+E36 défense Nimzo- indienne, variante classique, sous-variante Noa, ligne principale $ P, O, XX
+E37 défense Nimzo- indienne, variante classique, sous-variante de San Remo $ P, O, XX
+E37 défense Nimzo- indienne, variante classique, sous-variante Noa, ligne principale (7.Dc2) $ P, O, XX
+E38 défense Nimzo- indienne, variante classique (4...c5) $ P, O, XX
+E38/02 défense Nimzo- indienne, variante classique (4...c5/5...Ca6) $ P, O, XX
+E39 défense Nimzo- indienne, variante classique, variante Pirc $ P, O, XX
+E39/12 défense Nimzo- indienne, variante classique (sans a3, cf. E32) $ P, O, XIX
+E40 Défense Nimzo-indienne, variante Rubinstein $ P, O, XX
+E40 Défense Nimzo-indienne, variante Rubinstein $ P, O, XX
+E41 Défense Nimzo-indienne, variante Rubinstein $ P, O, XX
+E41 Défense Nimzo-indienne, variante Rubinstein, sous-variante Hübner $ P, O, XX
+E42 Défense Nimzo-indienne, variante Rubinstein $ P, O, XX
+E43 Défense Nimzo-indienne, variante Rubinstein, sous-variante Fischer $ P, O, XX
+E44 Défense Nimzo-indienne, variante Rubinstein, sous-variante Fischer (5.Ce2) $ P, O, XX
+E45 Défense Nimzo-indienne, variante Rubinstein, sous-variante Bronstein (= Byrne) $ P, O, XX
+E46 Défense Nimzo-indienne, variante Rubinstein $ P, O, XX
+E46 Défense Nimzo-indienne, variante Rubinstein, sous-variante Reshevsky $ P, O, XX
+E46 Défense Nimzo-indienne, variante Rubinstein, sous-variante Simaguine $ P, O, XX
+E47 Défense Nimzo-indienne, variante Rubinstein (4.e3 O-O 5.Fd3) $ P, O, XX
+E48 Défense Nimzo-indienne, variante Rubinstein (4.e3 O-O 5.Fd3 d5) $ P, O, XX
+E49 Défense Nimzo-indienne, variante Rubinstein, système Botvinnik $ P, O, XX
+E50 Défense Nimzo-indienne, variante Rubinstein (4.e3 O-O 5.Cf3, sans ...d5) $ P, O, XX
+E51 Défense Nimzo-indienne, variante Rubinstein (4.e3 O-O 5.Cf3 d5) $ P, O, XX
+E51 Défense Nimzo-indienne, variante Rubinstein, sous-variante Ragozine $ P, O, XX
+E52 Défense Nimzo-indienne, variante Rubinstein, ligne principale (avec ...b6) $ P, O, XX
+E52/02 Défense Nimzo-indienne, variante Rubinstein, ligne moderne $ P, O, XX
+E52/13 Défense Nimzo-indienne, variante Rubinstein, sous-variante Bondarevski $ P, O, XX
+E53 Défense Nimzo-indienne, variante Rubinstein, ligne principale (avec ...c5) $ P, O, XX
+E53 Défense Nimzo-indienne, variante Rubinstein, sous-variante Kérès $ P, O, XX
+E53 Défense Nimzo-indienne, variante Rubinstein, système Gligoric (avec 7...Cbd7) $ P, O, XX
+E54 Défense Nimzo-indienne, variante Rubinstein, système Gligoric, sous-variante Smyslov $ P, O, XX
+E54/03 Défense Nimzo-indienne, variante Rubinstein, système Gligoric (avec 7...dxc4) $ P, O, XX
+E54/03 Défense Nimzo-indienne, variante Rubinstein, système Gligoric (avec 7...dxc4), ligne fantôme $ P, O, XX
+E55 Défense Nimzo-indienne, variante Rubinstein, système Gligoric, sous-variante Bronstein $ P, O, XX
+E56 Défense Nimzo-indienne, variante Rubinstein, ligne principale (avec 7...Cc6) $ P, O, XX
+E57 Défense Nimzo-indienne, variante Rubinstein, ligne principale (avec 8...dxc4 & 9...cxd4) $ P, O, XX
+E58 Défense Nimzo-indienne, variante Rubinstein, ligne principale (avec 8...Fxc3) $ P, O, XX
+E59 Défense Nimzo-indienne, variante Rubinstein, ligne principale $ P, O, XX
+E60 Attaque Mengarini $ T, O, XIX
+E60 Défense est-indienne (3.Cf3) $ P, O, XIX
+E60 Défense est-indienne (3.g3) $ P, O, XIX
+E60 Défense est-indienne $ P, O, XIX
+E60 Défense est-indienne, gambit du Danube $ T, O, XIX
+E60 Défense est-indienne, variante anti-Grünfeld $ T, O, XIX
+E60 Défense est-indienne, variante fianchetto roi $ T, O, XIX
+E60/04 Défense est-indienne, attaque Nimzovitch - Larsen $ T, O, XIX
+E60/10 Défense est-indienne, variante fianchetto roi, système yougoslave $ T, O, XIX
+E61 Défense est-indienne (3.Cc3) $ P, O, XIX
+E61 Défense est-indienne (avec Ff4) $ P, O, XIX
+E61 Défense est-indienne, système Smyslov $ P, O, XIX
+E62 Défense est-indienne, variante fianchetto roi (avec ...Cc6) $ P, O, XIX
+E62 Défense est-indienne, variante fianchetto roi $ P, O, XIX
+E62 Défense est-indienne, variante fianchetto roi, sous-variante Kavalek (= Bronstein) $ P, O, XIX
+E62 Défense est-indienne, variante fianchetto roi, sous-variante Simaguine réduite (= Spassky) $ P, O, XIX
+E62 Défense est-indienne, variante fianchetto roi, sous-variante Simaguine $ P, O, XIX
+E62 Défense est-indienne, variante fianchetto roi, sous-variante Uhlmann (= Szabo) $ P, O, XIX
+E62 Défense est-indienne, variante fianchetto roi, système Larsen $ P, O, XIX
+E63 Défense est-indienne, variante fianchetto roi, système Panno $ P, O, XIX
+E64 Défense est-indienne, variante fianchetto roi, système yougoslave $ P, O, XIX
+E65 Défense est-indienne, variante fianchetto roi, système yougoslave (7.O-O) $ P, O, XIX
+E66 Défense est-indienne, variante fianchetto roi, système yougoslave - Panno $ P, O, XIX
+E67 Défense est-indienne, variante fianchetto roi (avec ...Cd7) $ P, O, XIX
+E67 Défense est-indienne, variante fianchetto roi, sous-variante classique $ P, O, XIX
+E68 Défense est-indienne, variante fianchetto roi, sous-variante classique (8.e4) $ P, O, XIX
+E69 Défense est-indienne, variante fianchetto roi, sous-variante classique, ligne principale $ P, O, XIX
+E70 Défense est-indienne $ P, O, XIX
+E70 Défense est-indienne, système Averbakh accéléré $ P, O, XIX
+E70 Défense est-indienne, système Kramer $ P, O, XIX
+E70/01 Défense est-indienne, formation Benoni (cf. A65-67) $ P, F, XIX
+E71 Défense est-indienne, système Makagonov (5.h3) $ P, O, XIX
+E72 Défense est-indienne (avec e4 & g3) $ P, O, XIX
+E72 Défense est-indienne, système Pomar $ P, O, XIX
+E73 Défense est-indienne (5.Fe2) $ P, O, XIX
+E73 Défense est-indienne, système Averbakh $ P, O, XIX
+E73 Défense est-indienne, système semi-Averbakh $ P, O, XIX
+E74 Défense est-indienne, système Averbakh (6...c5) $ P, O, XIX
+E75 Défense est-indienne, système Averbakh, ligne principale $ P, O, XIX
+E76 Défense est-indienne, attaque des quatre pions $ P, F, XIX
+E76/01 Défense est-indienne, attaque des quatre pions $ P, F, XIX
+E76/07 Défense est-indienne, attaque des quatre pions, variante d’échange $ P, F, XIX
+E76/08 Défense est-indienne, attaque des quatre pions, formation Benoni (cf. A65-67) $ P, F, XIX
+E76/09 Défense est-indienne, attaque des quatre pions, formation Benoni $ P, F, XIX
+E76/10 Défense est-indienne, attaque des quatre pions, formation Benoni $ P, F, XIX
+E77 Défense est-indienne, attaque des quatre pions (6.Fe2) $ P, F, XIX
+E77 Défense est-indienne, attaque des quatre pions $ P, F, XIX
+E77 Défense est-indienne, attaque des quatre pions, gambit florentin $ P, F, XIX
+E77 Défense est-indienne, attaque des six pions $ P, F, XIX
+E78 Défense est-indienne, attaque des quatre pions (avec Fe2 & Cf3) $ P, F, XIX
+E79 Défense est-indienne, attaque des quatre pions, ligne principale $ P, F, XIX
+E80 Défense est-indienne, variante Sämisch $ P, O, XX
+E81 Défense est-indienne, variante Sämisch (5...O-O) $ P, O, XX
+E81 Défense est-indienne, variante Sämisch (6...Ca6) $ P, O, XX
+E81 Défense est-indienne, variante Sämisch (6...Cfd7) $ P, O, XX
+E81 Défense est-indienne, variante Sämisch (6.Fg5 7...Ca6) $ P, O, XX
+E81 Défense est-indienne, variante Sämisch (6.Fg5 7...Cbd7) $ P, O, XX
+E81 Défense est-indienne, variante Sämisch (6.Fg5 7...Da5) $ P, O, XX
+E81 Défense est-indienne, variante Sämisch (avec ...c5, cf. A65) $ P, O, XX
+E81 Défense est-indienne, variante Sämisch, formation Benoni (avec d5, ...a6, cf. A65) $ P, F, XX
+E81 Défense est-indienne, variante Sämisch, formation Benoni (avec d5, ...Cbd7, cf. A65) $ P, F, XX
+E81 Défense est-indienne, variante Sämisch, formation Benoni, sous-variante d’échange $ P, F, XX
+E81 Défense est-indienne, variante Sämisch, sous-variante Byrne $ P, O, XX
+E81/01 Défense est-indienne, variante Sämisch, formation Benoni $ P, O, XX
+E81/02 Défense est-indienne, variante Sämisch, formation Benoni (cf. A65) $ P, O, XX
+E81/03 Défense est-indienne, variante Sämisch, formation Benoni, sous-variante Kremenecki (cf. A65) $ P, O, XX
+E81/03 Défense est-indienne, variante Sämisch, formation Benoni, sous-variante Petrossian (cf. A65) $ P, O, XX
+E81/04 Défense est-indienne, variante Sämisch $ P, O, XX
+E81/11 Défense est-indienne, variante Sämisch, sous-variante commune $ P, O, XX
+E81/12 Défense est-indienne, variante Sämisch, sous-variante Sax $ P, O, XX
+E82 Défense est-indienne, variante Sämisch, sous-variante double fianchetto $ P, O, XX
+E83 Défense est-indienne, variante Sämisch (6...Cc6) $ P, O, XX
+E83 Défense est-indienne, variante Sämisch, formation Panno (7...a6) $ P, O, XX
+E83 Défense est-indienne, variante Sämisch, sous-variante Zaitsev $ P, O, XX
+E84 Défense est-indienne, variante Sämisch, formation Panno, ligne principale $ P, O, XX
+E85 Défense est-indienne, variante Sämisch, sous-variante orthodoxe $ P, O, XX
+E86 Défense est-indienne, variante Sämisch, sous-variante orthodoxe (7.Cge2 c6) $ T, O, XX
+E87 Défense est-indienne, variante Sämisch, sous-variante orthodoxe (7.d5) $ T, O, XX
+E87 Défense est-indienne, variante Sämisch, sous-variante orthodoxe, ligne Bronstein $ T, O, XX
+E88 Défense est-indienne, variante Sämisch, sous-variante orthodoxe (7.d5 c6) $ T, O, XX
+E89 Défense est-indienne, variante Sämisch, sous-variante orthodoxe, ligne principale $ T, O, XX
+E89/05 Défense est-indienne, variante Sämisch, sous-variante orthodoxe, ligne Karpov-Topalov $ T, O, XX
+E90 Défense est-indienne (5.Cf3) $ T, O, XIX
+E90 Défense est-indienne, variante Larsen $ T, O, XX
+E90 Défense est-indienne, variante Zinnowitz $ T, O, XX
+E90/22 Défense est-indienne, variante Kluger $ T, O, XX
+E91 Défense est-indienne (6.Fe2) $ T, O, XX
+E91 Défense est-indienne, variante kazakh $ T, O, XX
+E92 Défense est-indienne, système Gligoric-Taimanov $ T, O, XX
+E92 Défense est-indienne, système Petrossian $ T, O, XX
+E92 Défense est-indienne, système Petrossian, variante Stein $ T, O, XX
+E92 Défense est-indienne, variante Andersson $ T, O, XX
+E92 Défense est-indienne, variante classsique $ T, O, XX
+E93 Défense est-indienne, système Petrossian, ligne principale $ T, O, XX
+E93 Défense est-indienne, système Petrossian, variante Kérès $ T, O, XX
+E94 Défense est-indienne, système orthodoxe (7...Cbd7) $ T, O, XX
+E94 Défense est-indienne, système orthodoxe $ T, O, XX
+E94 Défense est-indienne, système orthodoxe, variante Donner $ T, O, XX
+E94/04 Défense est-indienne, système orthodoxe (7...exd4) $ T, O, XX
+E94/08 Défense est-indienne, système orthodoxe (7...Ca6) $ T, O, XX
+E94/08 Défense est-indienne, système orthodoxe, variante Bonsch - Gourevitch $ T, O, XX
+E94/09 Défense est-indienne, système orthodoxe (8.Te1) $ T, O, XX
+E94/26 Défense est-indienne, système orthodoxe, variante Gelfand $ T, O, XX
+E94/27 Défense est-indienne, système orthodoxe (7.d5) $ T, O, XX
+E95 Défense est-indienne, système orthodoxe (7...Cbd7 8.Te1) $ T, O, XX
+E96 Défense est-indienne, système orthodoxe (7...Cbd7), ligne principale $ T, O, XX
+E97 Défense est-indienne, système orthodoxe, variante Aronine - Taimanov $ T, O, XX
+E97 Défense est-indienne, système orthodoxe, variante Aronine - Taimanov, attaque à la bayonette $ T, O, XX
+E97/02 Défense est-indienne, système orthodoxe, variante Aronine - Taimanov $ T, O, XX
+E97/28 Défense est-indienne, système orthodoxe, variante Aronine - Taimanov (avec 9.Cd2) $ T, O, XX
+E98 Défense est-indienne, système orthodoxe, variante Aronine - Taimanov (9.Ce1) $ T, O, XX
+E99 Défense est-indienne, système orthodoxe, variante Aronine - Taimanov, attaque Benkö $ T, O, XX
+E99 Défense est-indienne, système orthodoxe, variante Aronine - Taimanov, ligne principale (Fe3>Cd3) $ T, O, XX
+E99/03 Défense est-indienne, système orthodoxe, variante Aronine - Taimanov, ligne principale $ T, O, XX
