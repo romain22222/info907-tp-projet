@@ -6,13 +6,10 @@ createApp({
         let ontology = reactive({})
         let openings = reactive([])
         let moves = reactive([])
-        let openingOrder = computed(() => {
-            const v = openings.map(a => {
+        let openingOrder = computed(() => openings.map(a => {
                 return {id: a.id, score: calcScore(a.name, a.id)}
-            }).filter(a => a.score !== 0).sort((a, b) => b.score - a.score)
-            console.log(v)
-            return v.map(a => a.id)
-        });
+            }).filter(a => a.score !== 0).sort((a, b) => b.score - a.score).map(a => a.id)
+        );
 
         function levenshtein(text, opening) {
             const a = text.toLowerCase();
@@ -162,28 +159,6 @@ createApp({
             return availableFilters !== 0 ? score : 1;
         }
 
-        function searchInputChanged() {
-            console.log("searchInputChanged")
-            selectors.forEach(
-                (selector) => {
-                    console.log(selector.value)
-                }
-            )
-        }
-        // Watch searchInput
-        watch(typeS, searchInputChanged)
-        watch(jouabiliteS, searchInputChanged)
-        watch(styleS, searchInputChanged)
-        watch(espaceS, searchInputChanged)
-        watch(popCenturyS, searchInputChanged)
-        watch(popDebIntS, searchInputChanged)
-        watch(popHighLvlS, searchInputChanged)
-        watch(popGrandPub, searchInputChanged)
-        watch(nameBasedOnS, searchInputChanged)
-        watch(ecoS, searchInputChanged)
-        watch(ligneS, searchInputChanged)
-        watch(moveS, searchInputChanged)
-
         function initSelectors(ontology) {
             let tmp = [];
             let i = 0
@@ -208,7 +183,6 @@ createApp({
             axios.get('/texts').then((response) => {
                 Object.assign(openings, response.data[0]);
                 Object.assign(moves, response.data[1]);
-                searchInputChanged();
             });
 
 
