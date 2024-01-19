@@ -22,6 +22,7 @@ Dauphin
 Renne
 Panda
 Koala
+porc
 
 Alekhine
 Anderssen
@@ -110,6 +111,7 @@ Pirc
 Albin
 Napoléon
 Lopez
+Lolli
 
 français
 espagnol
@@ -177,6 +179,11 @@ bishop
 rook
 pawn
 
+côtelette
+os de hareng
+pied
+maïs
+pas
 
 Budapest
 Paris
@@ -189,3 +196,4 @@ Vienne
 Vienna
 
 Grand prix
+Fort Knox

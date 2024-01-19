@@ -465,7 +465,7 @@ B03 défense Alekhine, attaque des quatre pions, variante Ilyin-Genevsky $ D
 B03 défense Alekhine, attaque des quatre pions, variante Kortchnoï $ D
 B03 défense Alekhine, attaque des quatre pions, variante Planinc $ D
 B03 défense Alekhine, attaque des quatre pions, variante Tartakover $ D
-B03 défense Alekhine, attaque des quatre pions, variante Trifunovic
+B03 défense Alekhine, attaque des quatre pions, variante Trifunovic $ D
 B03 défense Alekhine, gambit O'Sullivan $ O
 B03 défense Alekhine, variante Balogh $ O
 B03 défense Alekhine, variante d’échange $ O
@@ -1176,6 +1176,7 @@ C41 défense Philidor, gambit Philidor, attaque del Rio $ O
 C41 défense Philidor, gambit Philidor, variante Berger $ O
 C41 défense Philidor, gambit Philidor, variante Zukertort $ O
 C41 défense Philidor, variante d’échange $ O
+C41 défense Philidor, variante d’échange $ O
 C41 défense Philidor, variante Foden $ O
 C41 défense Philidor, variante Hanham $ O
 C41 défense Philidor, variante Hanham améliorée $ O
@@ -1241,8 +1242,7 @@ C44 ouverture écossaise, gambit écossais, variante Cochrane $ O
 C44 ouverture écossaise, gambit écossais, variante Hanneken $ O
 C44 ouverture écossaise, gambit Göring $ O
 C44 ouverture écossaise, gambit Göring, mat du mousse $ O
-C44 ouverture écossaise
-, gambit Göring, variante Bardeleben $ O
+C44 ouverture écossaise, gambit Göring, variante Bardeleben $ O
 C44 ouverture écossaise, gambit Kelfsson (= Mac Lopez) $ O
 C44 ouverture écossaise, variante Cochrane $ O
 C44 ouverture écossaise, variante Lolli (cf. C45) $ O

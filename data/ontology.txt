@@ -29,7 +29,7 @@ ouverture
 		XIX
 		XX
 		XXI
-		never
+		NA
 
 	popularité
 		débutant / intermédiaire
