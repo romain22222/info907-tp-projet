@@ -1,15 +1,15 @@
 const fs = require('node:fs');
 
-// let ontoJSONStr = ""
-// let currLvl = 0
-// let prevLvl = 0
-// const data = fs.readFileSync(__dirname+'/ontology.txt', "utf8")
 const openings = fs.readFileSync(__dirname+'/openings.txt', "utf8").split("\n").map((o, i) => {
     return {name: o, id: i}
 })
 const moves = fs.readFileSync(__dirname+'/moves.txt', "utf8").split("\n")
-//
-//
+
+
+// let ontoJSONStr = ""
+// let currLvl = 0
+// let prevLvl = 0
+// const data = fs.readFileSync(__dirname+'/ontology.txt', "utf8")
 // data.split("\n").forEach(line => {
 //     if (line === "") return
 //     const name = line.trim()
@@ -104,3 +104,9 @@ const ontology = JSON.parse(fs.readFileSync(__dirname+'/ontology.json', "utf8"))
 exports.openingOntology = ontology
 exports.openings = openings
 exports.moves = moves
+exports.urls = fs.readFileSync(__dirname+'/urlsBatch.txt', "utf8").split("\n").map((line) => {
+    return {
+        id: line.split(" ")[0],
+        text: line.slice(line.indexOf(" ")+1)
+    }
+})

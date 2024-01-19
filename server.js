@@ -1,6 +1,6 @@
 
 
-const { openingOntology, openings, moves } = require("./data/chessOpenings.js")
+const { openingOntology, openings, moves, urls } = require("./data/chessOpenings.js")
 const express = require("express")
 const app = express()
 
@@ -16,6 +16,10 @@ app.get("/ontology", (req, res) => {
 
 app.get("/texts", (req, res) => {
 	res.json([openings, moves])
+});
+
+app.get("/urls", (req, res) => {
+	res.json(urls)
 });
 
 app.listen(8080)

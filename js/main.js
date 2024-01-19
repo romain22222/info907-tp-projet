@@ -1,172 +1,228 @@
-const { createApp, ref, reactive, computed, onMounted, watch } = Vue
+    const { createApp, ref, reactive, computed, onMounted, watch } = Vue
 
 createApp({
-  setup() {
+    setup() {
 
-    let ontology = reactive({})
-    let concepts = reactive([])
-    let games = reactive([])
-    let texts = reactive([])
-    let indexes = reactive([])
-    let searchInput = ref("");
-    let textOrder = reactive([])
-      let conceptLimit = ref(5)
-      let limit = computed(() => Math.max(Math.min(conceptLimit.value, concepts.length), 0))
-
-      function levenshteinDistance(t1, t2) {
-          const m = t1.length;
-          const n = t2.length;
-
-          const dp = [];
-
-          for (let i = 0; i <= m; i++) {
-              dp[i] = [];
-              for (let j = 0; j <= n; j++) {
-                  if (i === 0) {
-                      dp[i][j] = j;
-                  } else if (j === 0) {
-                      dp[i][j] = i;
-                  } else {
-                      dp[i][j] = Math.min(
-                          dp[i - 1][j - 1] + (t1.charAt(i - 1) === t2.charAt(j - 1) ? 0 : 1),
-                          dp[i - 1][j] + 1,
-                          dp[i][j - 1] + 1
-                      );
-                  }
-              }
-          }
-          return dp[m][n] === Math.max(m, n) ? Infinity : dp[m][n];
-      }
-
-      function findClosestsConcept() {
-          const text = searchInput.value
-          const ranking = concepts.map((item) => {
-              return Math.min(...item.name.split("/").concat(item.games).map(v => levenshteinDistance(v, text)))
-          })
-            const topN = []
-            for (let i=0; i<limit.value; i++) {
-                const idx = ranking.indexOf(Math.min(...ranking))
-                topN.push(concepts[idx])
-                ranking[idx] = Infinity
-            }
-            return topN
-      }
-
-    function calcScore(id, concepts) {
-        let score = 0
-        concepts.forEach((concept, i) => {
-            const idx = indexes[id].findIndex((item) => item.name === concept.name)
-            if (idx !== -1)
-                score += indexes[id][idx].accuracy * (limit.value - i)
-        })
-        return score
-    }
-
-    function searchInputChanged() {
-        const concepts = findClosestsConcept()
-        const ids = []
-        texts.forEach((text, idx) => {
-            ids.push({id: idx, score: calcScore(text.id, concepts)})
-        })
-        ids.sort((a,b) => b.score - a.score)
-        Object.assign(textOrder, ids.map((item) => item.id))
-    }
-
-    // Watch searchInput
-    watch(searchInput, searchInputChanged)
-      watch(conceptLimit, searchInputChanged)
-
-    function extractConcepts (dict) {
-
-      let concepts = [{name: dict.name, nbGames: extractGames(dict).length, games: dict.games}]
-      for (let sub of dict.subs) {
-        concepts = concepts.concat(extractConcepts(sub))
-      }
-      return concepts.sort((a,b) => b.name > a.name ? -1 : 1)
-    }
-
-    function extractGames (dict) {
-        let games = dict.games
-        for (let sub of dict.subs) {
-            games = games.concat(extractGames(sub))
-        }
-        return games.filter((item, index) => item !== "" && games.indexOf(item) === index).sort()
-    }
-
-    function propagateAccuracyDown(subs, accuracy) {
-        let indexes = []
-        subs.forEach((sub) => {
-            indexes = indexes.concat(propagateAccuracyDown(sub.subs, accuracy/2))
-            indexes.push({name: sub.name, accuracy: accuracy/2})
-        })
-        return indexes
-    }
-
-    function search(text, word, games) {
-        return word.split("/").concat(games).some(w => text.match(new RegExp("\\b"+w+"\\b", "gi")))
-    }
-
-    function getIndexesOfText(text,  ontology, path=[]) {
-        let indexes = []
-        ontology.subs.forEach((sub) => {
-            indexes = indexes.concat(getIndexesOfText(text, sub, path.concat([sub.name])));
-        })
-        if (search(text, ontology.name, ontology.games)) {
-            indexes.push({name: ontology.name, accuracy: 1})
-            indexes.concat(propagateAccuracyDown(ontology.subs, 1))
-            path.forEach((name, idx) => {
-                indexes.push({name: name, accuracy: (path.length - idx)/(path.length+1)})
-            })
-        }
-        return indexes
-    }
-
-    function getIndexesOfTexts(texts, ontology) {
-        // Pour chaque texte, récupère les concepts et les jeux présents
-        const indexes = []
-        texts.forEach((text) => {
-            const i = getIndexesOfText(text, ontology)
-            // Add the accuracy of each duplicate
-            const i2 = []
-            i.forEach((index) => {
-                const idx = i2.findIndex((item) => item.name === index.name)
-                if (idx === -1)
-                    i2.push(index)
-                else
-                    i2[idx].accuracy += index.accuracy
-            })
-            // Divide the accuracy by the max accuracy
-            const max = Math.max(...i2.map((item) => item.accuracy))
-            i2.forEach((index) => {
-                index.accuracy /= max
-            })
-            indexes.push(i2)
-        })
-        return indexes
-    }
-
-    //-------------------------------------------Mounted
-    onMounted(() => {
-      axios.get('/ontology').then((response) => {
-        Object.assign(ontology, response.data);
-        Object.assign(concepts, extractConcepts(ontology));
-        Object.assign(games, extractGames(ontology));
-      });
-        axios.get('/texts').then((response) => {
-            Object.assign(texts, response.data.map((text, idx) => {return {id: idx, text: text}}));
-            Object.assign(indexes, getIndexesOfTexts(texts.map(text => text.text), ontology));
-            searchInputChanged();
+        let ontology = reactive({})
+        let openings = reactive([])
+        let moves = reactive([])
+        let openingOrder = computed(() => {
+            const v = openings.map(a => {
+                return {id: a.id, score: calcScore(a.name, a.id)}
+            }).filter(a => a.score !== 0).sort((a, b) => b.score - a.score)
+            console.log(v)
+            return v.map(a => a.id)
         });
 
+        function levenshtein(text, opening) {
+            const a = text.toLowerCase();
+            const b = opening.toLowerCase();
+            const costs = [];
+            for (let i = 0; i <= a.length; i++) {
+                let lastValue = i;
+                for (let j = 0; j <= b.length; j++) {
+                    if (i === 0)
+                        costs[j] = j;
+                    else {
+                        if (j > 0) {
+                            let newValue = costs[j - 1];
+                            if (a.charAt(i - 1) !== b.charAt(j - 1))
+                                newValue = Math.min(Math.min(newValue, lastValue),
+                                    costs[j]) + 1;
+                            costs[j - 1] = lastValue;
+                            lastValue = newValue;
+                        }
+                    }
+                }
+                if (i > 0)
+                    costs[b.length] = lastValue;
+            }
+            return costs[b.length];
+        }
+        function redirectTo(OO) {
+            axios.get('/urls').then(
+                response => {
+                    const openingClosestMatch = response.data
+                    const openingName = openings[OO].name.replace(/(ouverture|gambit|attaque|défense|variante)/gi, "").trim()
+                    openingClosestMatch.sort((a, b) => levenshtein(a.text, openingName) - levenshtein(b.text, openingName))
+                    window.location.href = "http://myweb.astate.edu/wpaulsen/chess/chess.htm?" + openingClosestMatch[0].id;
+                }
+            )
+        }
+        let typeS = ref(-1);
+        let jouabiliteS = ref(-1);
+        let styleS = ref(-1);
+        let espaceS = ref(-1);
+        let popCenturyS = ref(-1);
+        let popDebIntS = ref(-1);
+        let popHighLvlS = ref(-1);
+        let popGrandPub = ref(-1);
+        let nameBasedOnS = ref(-1);
+        let ecoS = ref(-1);
+        let ligneS = ref(-1);
+        let moveS = ref("");
 
-    })
-    //-------------------------------------------> UI
-    return {
-        ontology,
-        concepts,
-      games, texts, indexes, searchInput, textOrder,conceptLimit
+        let selectors = reactive([
+            typeS,
+            jouabiliteS,
+            styleS,
+            espaceS,
+            popCenturyS,
+            popDebIntS,
+            popHighLvlS,
+            popGrandPub,
+            nameBasedOnS,
+            ecoS,
+            ligneS
+        ])
+
+        let selectorKeys = reactive([])
+
+        function calcScore(a, i) {
+            // Check every selected filter
+            // If it's not selected, don't check it
+            // If it's selected, check if the opening matches it and add 1 to the score if it does
+            // for moveS, check if the opening starts with the proposed chain of moves
+            // If it doesn't, set the score to 0
+            let score = 0;
+            let availableFilters = 0;
+            if (moveS.value !== "") {
+                if (moves[i].startsWith(moveS.value)) {
+                    score++;
+                } else {
+                    return 0;
+                }
+            }
+            if (typeS.value !== -1) {
+                if (ontology.children[0].children[typeS.value].openings.map(v => v.name).includes(a)) {
+                    score++;
+                }
+                availableFilters++;
+            }
+            if (jouabiliteS.value !== -1) {
+                if (ontology.children[1].children[jouabiliteS.value].openings.map(v => v.name).includes(a)) {
+                    score++;
+                }
+                availableFilters++;
+            }
+            if (styleS.value !== -1) {
+                if (ontology.children[2].children[styleS.value].openings.map(v => v.name).includes(a)) {
+                    score++;
+                }
+                availableFilters++;
+            }
+            if (espaceS.value !== -1) {
+                if (ontology.children[3].children[espaceS.value].openings.map(v => v.name).includes(a)) {
+                    score++;
+                }
+                availableFilters++;
+            }
+            if (popCenturyS.value !== -1) {
+                if (ontology.children[4].children[popCenturyS.value].openings.map(v => v.name).includes(a)) {
+                    score++;
+                }
+                availableFilters++;
+            }
+            if (popDebIntS.value !== -1) {
+                if (ontology.children[5].children[0].children[popDebIntS.value].openings.map(v => v.name).includes(a)) {
+                    score++;
+                }
+                availableFilters++;
+            }
+            if (popHighLvlS.value !== -1) {
+                if (ontology.children[5].children[1].children[popHighLvlS.value].openings.map(v => v.name).includes(a)) {
+                    score++;
+                }
+                availableFilters++;
+            }
+            if (popGrandPub.value !== -1) {
+                if (ontology.children[5].children[2].children[popGrandPub.value].openings.map(v => v.name).includes(a)) {
+                    score++;
+                }
+                availableFilters++;
+            }
+            if (nameBasedOnS.value !== -1) {
+                if (ontology.children[6].children[nameBasedOnS.value].openings.map(v => v.name).includes(a)) {
+                    score++;
+                }
+                availableFilters++;
+            }
+            if (ecoS.value !== -1) {
+                if (ontology.children[7].children[ecoS.value].openings.map(v => v.name).includes(a)) {
+                    score++;
+                }
+                availableFilters++;
+            }
+            if (ligneS.value !== -1) {
+                if (ontology.children[8].children[ligneS.value].openings.map(v => v.name).includes(a)) {
+                    score++;
+                }
+                availableFilters++;
+            }
+            return availableFilters !== 0 ? score : 1;
+        }
+
+        function searchInputChanged() {
+            console.log("searchInputChanged")
+            selectors.forEach(
+                (selector) => {
+                    console.log(selector.value)
+                }
+            )
+        }
+        // Watch searchInput
+        watch(typeS, searchInputChanged)
+        watch(jouabiliteS, searchInputChanged)
+        watch(styleS, searchInputChanged)
+        watch(espaceS, searchInputChanged)
+        watch(popCenturyS, searchInputChanged)
+        watch(popDebIntS, searchInputChanged)
+        watch(popHighLvlS, searchInputChanged)
+        watch(popGrandPub, searchInputChanged)
+        watch(nameBasedOnS, searchInputChanged)
+        watch(ecoS, searchInputChanged)
+        watch(ligneS, searchInputChanged)
+        watch(moveS, searchInputChanged)
+
+        function initSelectors(ontology) {
+            let tmp = [];
+            let i = 0
+            ontology.children.forEach(v => {
+                if (v.name === "popularité") {
+                    tmp = tmp.concat(v.children.map(v => {
+                        return {keys: v.children.map(v => v.name), name: v.name, selector: selectors[i++]}
+                    }))
+                } else {
+                    tmp.push({keys: v.children.map(v => v.name), name: v.name, selector: selectors[i++]})
+                }
+            })
+            return tmp;
+        }
+
+        //-------------------------------------------Mounted
+        onMounted(() => {
+            axios.get('/ontology').then((response) => {
+                Object.assign(ontology, response.data);
+                Object.assign(selectorKeys, initSelectors(ontology));
+            });
+            axios.get('/texts').then((response) => {
+                Object.assign(openings, response.data[0]);
+                Object.assign(moves, response.data[1]);
+                searchInputChanged();
+            });
 
 
+        })
+        //-------------------------------------------> UI
+        return {
+            ontology,
+            openings,
+            moves,
+            openingOrder,
+            redirectTo,
+            selectors,
+            selectorKeys,
+            moveS
+        }
     }
-  }
 }).mount('#app')

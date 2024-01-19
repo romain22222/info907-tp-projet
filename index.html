@@ -7,8 +7,38 @@
 </head>
 <body>
 	<main id="app">
+<!--		Add selectors for each typeS,
+            jouabiliteS,
+            styleS,
+            espaceS,
+            popCenturyS,
+            popDebInt: popDebIntS,
+            popHighLvlS,
+            nameBasedOnS,
+            ecoS,
+            ligneS-->
 
+			<div v-for="(keys, key) in selectorKeys">
+				<label>
+					<span>{{keys.name}}</span><br>
+					<select v-model="keys.selector">
+						<option :value=-1 selected>Selectionnez une option...</option>
+						<option v-for="(v, key) in keys.keys" :value=key>
+							{{ v }}
+						</option>
+					</select>
+				</label>
+			</div>
+		<label>
+			<span>Entrez le début de la partie</span><br>
+			<input type="text" v-model="moveS" placeholder="1.e4 e5 2.Cc3 ...">
+		</label>
 
+		<ul>
+			<li v-for="OO in openingOrder" v-on:click="redirectTo(OO)">
+				{{ openings[OO].name }} {{ moves[OO] }}
+			</li>
+		</ul>
 	</main>
 	<script src="js/axios.min.js"></script>
 	<script src="js/vue.global.js"></script>
